@@ -74,6 +74,10 @@ class Review(models.Model):
         return f'Review by {self.author.username} for {self.product.title}'
 ```
 
+- It cascades the delete action: when the referenced object is deleted, all objects that have a ForeignKey pointing to it will also be deleted automatically.
+- This creates a "cascade effect," ensuring that dependent or related objects do not remain orphaned in the database.
+- For example, if you have a Product model and Review model with a foreign key from Review to Product using on_delete=models.CASCADE, deleting a Product will also delete all the Review instances related to that product.
+
 ---
 
 ## 2. forms.py

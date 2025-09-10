@@ -1,9 +1,11 @@
 ---
 id: retrieve
-forward:
-  - "[delete](cards/django/storage/cookie/delete.md)"
+aliases: []
+tags: []
 backward:
   - "[create](cards/django/storage/cookie/create.md)"
+forward:
+  - "[delete](cards/django/storage/cookie/delete.md)"
 ---
 
 Which option to use to read a cookie from a Django request?
@@ -22,4 +24,3 @@ def get_cookie_view(request):
 
 - Returns a string value or `default` if missing.
 - Cookies are client-controlled; validate and avoid trusting blindly.
-
