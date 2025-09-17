@@ -2,6 +2,7 @@
 id: null-vs-blank
 backward:
   - "[overview](django/models/field-options/overview.md)"
+noteId: 1757759274442
 ---
 
 Which option should I use to allow emptiness vs store NULLs?

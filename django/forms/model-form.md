@@ -2,6 +2,7 @@
 id: model-form
 aliases: []
 tags: []
+noteId: 1757759274117
 ---
 
 How do you handle a simple form submission using a Django ModelForm?

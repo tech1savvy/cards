@@ -2,6 +2,7 @@
 id: create
 forward:
   - "[retrieve](cards/django/storage/cookie/retrieve.md)"
+noteId: 1757759274993
 ---
 
 Which method to use to set a cookie on a response in Django?

@@ -1,5 +1,8 @@
 ---
 id: json-response
+aliases: []
+tags: []
+noteId: 1757759275468
 ---
 
 How to return JSON data to a request in Express?
@@ -13,17 +16,20 @@ How to return JSON data to a request in Express?
 ---
 
 ```js
-app.get('/api/users', (req, res) => {
-  const users = [{ id: 1, name: 'John' }, { id: 2, name: 'Jane' }];
+app.get("/api/users", (req, res) => {
+  const users = [
+    { id: 1, name: "John" },
+    { id: 2, name: "Jane" },
+  ];
   res.json(users); // More explicit for JSON
   // res.send(users); // Also works, auto-detects JSON
 });
 
-app.post('/api/users', (req, res) => {
-  const newUser = { id: 3, name: 'Bob' };
+app.post("/api/users", (req, res) => {
+  const newUser = { id: 3, name: "Bob" };
   res.status(201).json(newUser); // Sends JSON with 201 status
 });
 ```
 
-- `res.json()` is more explicit than `res.send()` for JSON data, though both work similarly.
-- `res.send()` automatically detects and stringifies objects, but `res.json()` is clearer about intent.
+`res.json()` is more explicit than `res.send()` for JSON data, though both work similarly.
+`res.send()` automatically detects and stringifies objects, but `res.json()` is clearer about intent.

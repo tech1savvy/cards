@@ -2,6 +2,7 @@
 id: polling
 aliases: []
 tags: []
+noteId: 1757759273742
 ---
 
 To build the described polling application with user authentication and voting in Django, here is a detailed outline with code snippets for the key components:
@@ -38,30 +39,30 @@ class CustomUser(AbstractUser):
 
 from django.db import models
 
-class Poll(models.Model):
-    title = models.CharField(max_length=200)
-    description = models.TextField()
-    start_date = models.DateTimeField()
-    end_date = models.DateTimeField()
+class poll(models.model):
+    title = models.charfield(max_length=200)
+    description = models.textfield()
+    start_date = models.datetimefield()
+    end_date = models.datetimefield()
 
     def __str__(self):
         return self.title
 ```
 
-3. Vote Model representing a user’s vote on a poll:
+3. vote model representing a user’s vote on a poll:
 
 ```python
 # models.py (polls app)
 
 from django.conf import settings
 
-class Vote(models.Model):
-    poll = models.ForeignKey(Poll, on_delete=models.CASCADE)
-    voter = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
-    selected_option = models.CharField(max_length=200)
+class vote(models.model):
+    poll = models.foreignkey(poll, on_delete=models.cascade)
+    voter = models.foreignkey(settings.auth_user_model, on_delete=models.cascade)
+    selected_option = models.charfield(max_length=200)
 
-    class Meta:
-        unique_together = ('poll', 'voter')  # Ensure one vote per user per poll
+    class meta:
+        unique_together = ('poll', 'voter')  # ensure one vote per user per poll
 
     def __str__(self):
         return f"{self.voter.username} voted on {self.poll.title}"

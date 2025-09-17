@@ -2,6 +2,7 @@
 id: delete
 backward:
   - "[retrieve](cards/django/storage/cookie/retrieve.md)"
+noteId: 1757759275016
 ---
 
 Which option to use to delete a cookie in Django?

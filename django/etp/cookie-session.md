@@ -2,6 +2,7 @@
 id: cookie-session
 aliases: []
 tags: []
+noteId: 1757759273692
 ---
 
 ## Purpose of View Functions

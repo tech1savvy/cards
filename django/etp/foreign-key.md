@@ -2,6 +2,7 @@
 id: foreign-key
 aliases: []
 tags: []
+noteId: 1757759273717
 ---
 
 To build the Django e-commerce site with user authentication and product reviews as described, here’s the foundational information you need to design the core models, forms, and templates:

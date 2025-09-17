@@ -1,5 +1,6 @@
 ---
 id: single-parameter
+noteId: 1757759275592
 ---
 
 How to create a dynamic route with a single parameter in Express?

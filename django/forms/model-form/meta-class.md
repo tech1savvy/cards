@@ -1,5 +1,6 @@
 ---
 id: meta-class
+noteId: 1757759274192
 ---
 
 What is a Django ModelForm `Meta` class and how do you use it?

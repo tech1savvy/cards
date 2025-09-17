@@ -2,6 +2,7 @@
 id: registration-form
 aliases: []
 tags: []
+noteId: 1757759273767
 ---
 
 Here is the technical information necessary to implement secure user registration with file uploads in Django:

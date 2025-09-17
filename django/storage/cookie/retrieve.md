@@ -6,6 +6,7 @@ backward:
   - "[create](cards/django/storage/cookie/create.md)"
 forward:
   - "[delete](cards/django/storage/cookie/delete.md)"
+noteId: 1757759275043
 ---
 
 Which option to use to read a cookie from a Django request?

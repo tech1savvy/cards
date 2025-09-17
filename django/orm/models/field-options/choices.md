@@ -2,6 +2,7 @@
 id: choices
 backward:
   - "[overview](django/models/field-options/overview.md)"
+noteId: 1757759274368
 ---
 
 Which option should I use to restrict values to a fixed set?

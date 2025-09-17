@@ -2,6 +2,7 @@
 id: logout
 aliases: []
 tags: []
+noteId: 1757759273542
 ---
 
 How to implement user login using Django Builtin Authentication?

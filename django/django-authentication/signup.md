@@ -2,6 +2,7 @@
 id: signup
 backward:
   - "[login](cards/django/django-authentication/login.md)"
+noteId: 1757759273568
 ---
 
 How to implement user registration in Django?

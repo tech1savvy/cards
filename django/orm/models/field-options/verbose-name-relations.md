@@ -3,6 +3,7 @@ id: verbose-name-relations
 backward:
   - "[overview](django/models/field-options/overview.md)"
   - "[verbose-name](django/models/field-options/verbose-name.md)"
+noteId: 1757759274518
 ---
 
 How to set `verbose_name` for relational fields?

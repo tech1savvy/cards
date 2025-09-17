@@ -4,6 +4,7 @@ forward:
   - "[delete](cards/django/storage/session/delete.md)"
 backward:
   - "[create](cards/django/storage/session/create.md)"
+noteId: 1757759275167
 ---
 
 Which option to use to read data from Django session storage?

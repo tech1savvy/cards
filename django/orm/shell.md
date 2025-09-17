@@ -1,5 +1,6 @@
 ---
 id: shell
+noteId: 1757759274916
 ---
 
 How do you use the Django shell to explore and manipulate models?

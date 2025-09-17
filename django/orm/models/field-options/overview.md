@@ -8,6 +8,7 @@ forward:
   - "[primary-key](django/models/field-options/primary-key.md)"
   - "[verbose-name](django/models/field-options/verbose-name.md)"
   - "[verbose-name-relations](django/models/field-options/verbose-name-relations.md)"
+noteId: 1757759274468
 ---
 
 What are model field options in Django?

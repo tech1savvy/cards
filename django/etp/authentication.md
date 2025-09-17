@@ -2,6 +2,7 @@
 id: authentication
 aliases: []
 tags: []
+noteId: 1757759273668
 ---
 
 The question asks how to build a blogging CMS in Django with the following features:

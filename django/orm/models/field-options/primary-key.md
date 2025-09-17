@@ -2,6 +2,7 @@
 id: primary-key
 backward:
   - "[overview](django/models/field-options/overview.md)"
+noteId: 1757759274492
 ---
 
 Which option should I use to define a custom primary key for a model?

@@ -1,5 +1,6 @@
 ---
 id: delete
+noteId: 1757759275767
 ---
 
 What HTTP status codes are used for DELETE operations?

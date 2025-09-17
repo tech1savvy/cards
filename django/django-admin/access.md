@@ -4,6 +4,7 @@ tags:
   - superuser
 backward:
   - "[overview](django/django-admin/overview.md)"
+noteId: 1757759273368
 ---
 
 How do you access Django Admin and create a superuser?

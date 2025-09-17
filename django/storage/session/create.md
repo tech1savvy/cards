@@ -2,6 +2,7 @@
 id: create
 forward:
   - "[retrieve](cards/django/storage/session/retrieve.md)"
+noteId: 1757759275118
 ---
 
 Which option to use to set data in Django session storage?

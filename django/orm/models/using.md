@@ -2,6 +2,7 @@
 id: using
 backward:
   - "[define](cards/django/models/define.md)"
+noteId: 1757759274868
 ---
 
 How do you start using Django models in a project?

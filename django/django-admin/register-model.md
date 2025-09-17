@@ -2,6 +2,7 @@
 id: register-model
 aliases: []
 tags: []
+noteId: 1757759273417
 ---
 
 How do you make a Django model appear in the Admin site?

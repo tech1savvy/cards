@@ -3,6 +3,7 @@ id: filed
 backward:
   - "[define](cards/django/models/define.md)"
   - "[using](cards/django/models/using.md)"
+noteId: 1757759274643
 ---
 
 What are fields in a Django model? Include cautions and an example.

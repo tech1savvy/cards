@@ -2,6 +2,7 @@
 id: simple-form
 aliases: []
 tags: []
+noteId: 1757759274218
 ---
 
 How do you handle a HTML form submission in Django without using Django Forms?
