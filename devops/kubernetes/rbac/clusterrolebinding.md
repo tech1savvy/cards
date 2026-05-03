@@ -23,6 +23,20 @@ roleRef:
   apiGroup: rbac.authorization.k8s.io
 ```
 
+Imperative:
+
+```bash
+# Bind a ClusterRole to a User
+kubectl create clusterrolebinding admin-binding \
+  --clusterrole=cluster-admin \
+  --user=admin-user
+
+# Bind a ClusterRole to a ServiceAccount
+kubectl create clusterrolebinding deployer-binding \
+  --clusterrole=cluster-admin \
+  --serviceaccount=staging:deployer
+```
+
 ```bash
 kubectl get clusterrolebindings
 kubectl describe clusterrolebinding admin-binding

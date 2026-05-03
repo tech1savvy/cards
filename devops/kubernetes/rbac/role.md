@@ -20,6 +20,15 @@ rules:
   verbs: ["get", "list", "create", "update", "patch", "delete"]
 ```
 
+Imperative:
+
+```bash
+kubectl create role deploy-role \
+  --namespace=staging \
+  --verb=get,list,create,update,patch,delete \
+  --resource=deployments.apps
+```
+
 ```bash
 kubectl get roles -n staging
 kubectl describe role deploy-role -n staging

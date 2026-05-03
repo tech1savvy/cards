@@ -24,6 +24,22 @@ roleRef:
   apiGroup: rbac.authorization.k8s.io
 ```
 
+Imperative:
+
+```bash
+# Bind a Role to a ServiceAccount
+kubectl create rolebinding deploy-binding \
+  --namespace=staging \
+  --role=deploy-role \
+  --serviceaccount=staging:deployer
+
+# Bind a ClusterRole to a User
+kubectl create rolebinding dev-binding \
+  --namespace=dev \
+  --clusterrole=edit \
+  --user=dev-user
+```
+
 ```bash
 kubectl get rolebindings -n staging
 kubectl describe rolebinding deploy-binding -n staging

@@ -19,6 +19,14 @@ rules:
   verbs: ["get", "list", "watch"]
 ```
 
+Imperative:
+
+```bash
+kubectl create clusterrole node-reader \
+  --verb=get,list,watch \
+  --resource=nodes
+```
+
 ```bash
 kubectl get clusterroles
 kubectl describe clusterrole node-reader
