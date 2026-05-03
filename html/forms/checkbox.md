@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[radio](radio.md)"
   - "[select](select.md)"
-noteId: 1757047062084
+noteId: 1777823470797
 ---
 
 How do you create checkboxes in HTML forms?

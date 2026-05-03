@@ -1,3 +1,7 @@
+---
+noteId: 1777823469996
+---
+
 FRONT
 
 How do variables get passed to functions in Go?

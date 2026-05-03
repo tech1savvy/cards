@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-if-function"
+noteId: 1777823459147
 ---
 
 ###### What is the **IF function** in SQL?

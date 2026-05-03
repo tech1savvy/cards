@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[select](select.md)"
   - "[file-upload](file-upload.md)"
-noteId: 1757047062283
+noteId: 1777823470997
 ---
 
 How do you create a submit button for HTML forms?

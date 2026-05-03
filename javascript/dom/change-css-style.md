@@ -1,6 +1,6 @@
 ---
 id: change-css-style
-noteId: 1765210326971
+noteId: 1777823473222
 ---
 
 How to change the CSS of an HTML element using JavaScript?

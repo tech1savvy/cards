@@ -6,6 +6,7 @@ backward:
   - "[Lexical Scoping](lexical-scoping.md)"
 forward:
   - "[Nested Function Trade-offs](nested-function-tradeoffs.md)"
+noteId: 1777823474497
 ---
 
 What is a closure in JavaScript?

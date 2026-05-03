@@ -2,7 +2,7 @@
 id: props
 aliases: []
 tags: []
-noteId: 1765210334570
+noteId: 1777823482972
 ---
 
 Which mechanism in React allows passing data from a parent component to a child component?

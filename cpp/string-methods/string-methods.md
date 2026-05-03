@@ -2,6 +2,7 @@
 id: string-methods
 aliases: []
 tags: []
+noteId: 1777823458497
 ---
 
 To use `std::string` in C++, you must include the `<string>` header.

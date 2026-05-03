@@ -2,7 +2,7 @@
 id: cd-hyphen
 aliases: []
 tags: []
-noteId: 1765210327919
+noteId: 1777823475047
 ---
 
 Which command changes to the previous directory?

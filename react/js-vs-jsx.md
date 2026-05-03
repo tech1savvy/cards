@@ -2,7 +2,7 @@
 id: js-vs-jsx
 aliases: []
 tags: []
-noteId: 1765210334445
+noteId: 1777823482747
 ---
 
 What is the difference between using a `.js` and `.jsx` file extension for React components?

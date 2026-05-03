@@ -2,6 +2,7 @@
 id: PATTERN
 aliases: []
 tags: []
+noteId: 1777823458772
 ---
 
 ###### How to create a SQL card?

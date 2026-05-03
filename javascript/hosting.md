@@ -2,7 +2,7 @@
 id: hosting
 aliases: []
 tags: []
-noteId: 1765210327345
+noteId: 1777823474047
 ---
 
 Hoisting is a behavior in javascript where **declarations** (not initializations) of variables, functions, and classes are moved to the **top of their scope** during the compilation phase, before code execution.

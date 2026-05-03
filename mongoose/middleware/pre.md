@@ -2,7 +2,7 @@
 id: pre-middleware
 forward:
   - "[post-middleware](post.md)"
-noteId: 1765210332645
+noteId: 1777823479746
 ---
 
 What is `pre` middleware in Mongoose, when is it used, and how is it defined?

@@ -2,6 +2,7 @@
 id: fetch-post
 aliases: []
 tags: []
+noteId: 1777823472872
 ---
 
 How to perform a `POST` request using Fetch API in JavaScript?

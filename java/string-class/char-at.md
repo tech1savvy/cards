@@ -4,7 +4,7 @@ backward:
   - "[concatenation](concatenation.md)"
 forward:
   - "[length](length.md)"
-noteId: 1765210326494
+noteId: 1777823472472
 ---
 
 How to get a character at a specific index in a string?

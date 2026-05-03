@@ -1,3 +1,7 @@
+---
+noteId: 1777823469646
+---
+
 How do I format a float with specific decimal places in Go?
 
 ---

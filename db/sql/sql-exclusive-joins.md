@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-exclusive-joins"
+noteId: 1777823459071
 ---
 
 ###### What is an **Exclusive Join** in SQL?

@@ -2,7 +2,7 @@
 id: inheritance
 aliases: []
 level: 1
-noteId: 1757047060584
+noteId: 1777823466396
 ---
 
 How does template inheritance work in Django?

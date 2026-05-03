@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-update"
+noteId: 1777823459472
 ---
 
 ###### What is the **UPDATE statement** in SQL?

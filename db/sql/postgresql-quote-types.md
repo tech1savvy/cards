@@ -2,6 +2,7 @@
 id: postgresql-quote-types
 aliases: []
 tags: []
+noteId: 1777823458797
 ---
 
 ###### What is the difference between single and double quotes in PostgreSQL?

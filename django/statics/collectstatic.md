@@ -2,7 +2,7 @@
 id: static-files-collectstatic
 aliases: []
 tags: []
-noteId: 1757047060260
+noteId: 1777823465821
 ---
 
 How do you prepare static files for production deployment in Django?

@@ -2,7 +2,7 @@
 id: prepared-statements
 aliases: []
 tags: []
-noteId: 1765210332846
+noteId: 1777823480496
 ---
 
 What are prepared statements in node-postgres?

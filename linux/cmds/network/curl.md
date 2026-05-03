@@ -2,7 +2,7 @@
 id: curl
 aliases: []
 tags: []
-noteId: 1765210329044
+noteId: 1777823476171
 ---
 
 Which command-line tool is used for transferring data to or from a server using various internet protocols?

@@ -2,7 +2,7 @@
 id: conditional-rendering-logical-and
 forward:
   - "[conditional-rendering](conditional-rendering.md)"
-noteId: 1765210333496
+noteId: 1777823481797
 ---
 
 Which operator to use for conditional rendering in React when you only want to render something if a condition is true, without an "else" case?

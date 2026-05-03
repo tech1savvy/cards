@@ -4,6 +4,7 @@ aliases:
   - breakpoints
   - media-queries
 tags: []
+noteId: 1777823456822
 ---
 
 # Breakpoints

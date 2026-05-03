@@ -2,7 +2,7 @@
 id: many-to-many
 aliases: []
 tags: []
-noteId: 1757759274768
+noteId: 1777823465397
 ---
 
 Which field should I use to define a many‑to‑many relationship?

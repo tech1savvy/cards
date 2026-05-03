@@ -1,7 +1,7 @@
 ---
 id: basic
 aliases: []
-noteId: 1757047060509
+noteId: 1777823466322
 ---
 
 How do you use basic template filters in Django?

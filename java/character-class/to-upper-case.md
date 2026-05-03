@@ -1,6 +1,6 @@
 ---
 id: to-upper-case
-noteId: 1765210325571
+noteId: 1777823471547
 ---
 
 How to convert a character to uppercase in Java?

@@ -4,6 +4,7 @@ backward:
   - "[iscntrl](iscntrl.md)"
 forward:
   - "[toupper](toupper.md)"
+noteId: 1777823457771
 ---
 
 Which option checks if a character has a graphical representation?

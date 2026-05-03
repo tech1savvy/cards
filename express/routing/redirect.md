@@ -2,7 +2,7 @@
 id: redirect
 aliases: []
 tags: []
-noteId: 1765210324995
+noteId: 1777823468597
 ---
 
 ## res.redirect() Method

@@ -1,6 +1,7 @@
 ---
 id: variable-width-columns
 source: https://getbootstrap.com/docs/5.3/layout/grid
+noteId: 1777823457122
 ---
 
 How do you create a Bootstrap grid column that automatically sizes itself based on the natural width of its content?

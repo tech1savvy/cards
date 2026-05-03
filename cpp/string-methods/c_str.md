@@ -4,6 +4,7 @@ backward:
   - "[at](at.md)"
 forward:
   - "[find](find.md)"
+noteId: 1777823458146
 ---
 
 How do you get a null-terminated C-style string representation from a `std::string`?

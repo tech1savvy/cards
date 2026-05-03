@@ -3,6 +3,7 @@ id: excess-type-checking
 aliases:
   - Excess Type Checking
 tags: []
+noteId: 1777823483822
 ---
 
 # Excess Type Checking

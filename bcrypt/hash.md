@@ -2,7 +2,7 @@
 id: hash
 backward:
   - "[gen-salt](gen-salt.md)"
-noteId: 1765210322394
+noteId: 1777823456721
 ---
 
 How do you hash a password with a salt using `bcrypt`?

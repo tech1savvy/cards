@@ -1,7 +1,7 @@
 ---
 id: basic
 aliases: []
-noteId: 1757047060859
+noteId: 1777823466672
 ---
 
 How do you display a basic variable in a Django template?

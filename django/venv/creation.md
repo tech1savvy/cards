@@ -2,7 +2,7 @@
 id: creation
 aliases: []
 tags: []
-noteId: 1757047061558
+noteId: 1777823467447
 ---
 
 How to create a venv?

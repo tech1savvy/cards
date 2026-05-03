@@ -2,7 +2,7 @@
 id: events-in-react
 aliases: []
 tags: []
-noteId: 1765210333820
+noteId: 1777823482121
 ---
 
 What are events in React and how are they handled?

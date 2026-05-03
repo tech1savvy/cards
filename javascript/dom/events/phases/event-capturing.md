@@ -4,6 +4,7 @@ backward:
   - "[Event Object](../event-object.md)"
 forward:
   - "[Event Target Phase](event-target.md)"
+noteId: 1777823473471
 ---
 
 What is the capturing phase of event propagation?

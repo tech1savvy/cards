@@ -6,6 +6,7 @@ backward:
   - "[Event Target Phase](event-target.md)"
 forward:
   - "[Event Delegation](../../event-delegation.md)"
+noteId: 1777823473446
 ---
 
 What is the bubbling phase of event propagation?

@@ -1,7 +1,7 @@
 ---
 id: arguments
 aliases: []
-noteId: 1757047060484
+noteId: 1777823466297
 ---
 
 How do you use template filters with arguments?

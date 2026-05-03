@@ -2,6 +2,7 @@
 id: type-inference
 aliases: []
 tags: []
+noteId: 1777823474871
 ---
 
 What is the process of automatically detecting the data type of an expression in a formal language?

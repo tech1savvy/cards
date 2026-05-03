@@ -2,7 +2,7 @@
 id: define
 aliases: []
 tags: []
-noteId: 1757047061609
+noteId: 1777823467497
 ---
 
 What is a venv in Python?

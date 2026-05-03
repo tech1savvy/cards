@@ -2,7 +2,7 @@
 id: ls-l
 aliases: []
 tags: []
-noteId: 1765210328070
+noteId: 1777823475196
 ---
 
 Which command lists files and directories with details in long format?

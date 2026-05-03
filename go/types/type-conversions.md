@@ -1,3 +1,7 @@
+---
+noteId: 1777823470347
+---
+
 How do you convert between types in Go?
 
 ---

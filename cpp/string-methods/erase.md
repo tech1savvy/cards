@@ -4,6 +4,7 @@ backward:
   - "[replace](replace.md)"
 forward:
   - "[clear](clear.md)"
+noteId: 1777823458246
 ---
 
 How do you remove a portion of a `std::string`?

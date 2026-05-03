@@ -2,7 +2,7 @@
 id: create
 aliases: []
 tags: []
-noteId: 1757047060059
+noteId: 1777823465621
 ---
 
 What is the cmd to create a django project?

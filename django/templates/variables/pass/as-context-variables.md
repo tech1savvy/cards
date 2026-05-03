@@ -2,7 +2,7 @@
 id: template-context-variables
 aliases: []
 tags: []
-noteId: 1757047060960
+noteId: 1777823466771
 ---
 
 How do you pass context variables to a Django template?

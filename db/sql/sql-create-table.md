@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-create-table"
+noteId: 1777823458996
 ---
 
 ###### What is the **CREATE TABLE statement** in SQL?

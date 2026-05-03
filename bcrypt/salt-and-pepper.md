@@ -2,7 +2,7 @@
 id: salt-and-pepper
 aliases: []
 tags: []
-noteId: 1765210322420
+noteId: 1777823456746
 ---
 
 What is the difference between a salt and a pepper in password hashing?

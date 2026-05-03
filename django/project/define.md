@@ -2,7 +2,7 @@
 id: define
 aliases: []
 tags: []
-noteId: 1757047060084
+noteId: 1777823465648
 ---
 
 What is a Django project? Explain its structure?

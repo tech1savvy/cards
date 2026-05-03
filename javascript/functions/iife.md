@@ -4,7 +4,7 @@ forward:
   - "[Async IIFE](async-iife.md)"
 backward:
   - "[Async Function](async-function.md)"
-noteId: 1765210327371
+noteId: 1777823473896
 ---
 
 What is an IIFE (Immediately Invoked Function Expression)?

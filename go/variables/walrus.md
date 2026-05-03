@@ -1,3 +1,7 @@
+---
+noteId: 1777823470597
+---
+
 What is the walrus operator (`:=`) in Go?
 
 ---

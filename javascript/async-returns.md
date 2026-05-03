@@ -5,6 +5,7 @@ aliases:
 tags: []
 expection:
   - - awaiting-return-in-try-catch-block
+noteId: 1777823472697
 ---
 
 # Async Returns

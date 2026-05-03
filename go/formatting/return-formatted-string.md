@@ -1,3 +1,7 @@
+---
+noteId: 1777823469522
+---
+
 How do I return a formatted string in Go?
 
 ---

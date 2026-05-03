@@ -1,7 +1,7 @@
 ---
 id: cookies
 aliases: []
-noteId: 1757047059834
+noteId: 1777823464697
 ---
 
 How do you access cookies in a Django request object?

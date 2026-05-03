@@ -1,7 +1,7 @@
 ---
 id: str-converter
 aliases: []
-noteId: 1757047061260
+noteId: 1777823467097
 ---
 
 How do you capture a string parameter in a Django URL?

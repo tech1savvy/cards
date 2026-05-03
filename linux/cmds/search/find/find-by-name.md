@@ -1,6 +1,6 @@
 ---
 id: find-by-name
-noteId: 1765210330797
+noteId: 1777823477922
 ---
 
 Which option to use with `find` to search for a file or directory by its name?

@@ -1,7 +1,7 @@
 ---
 id: slug-converter
 aliases: []
-noteId: 1757047061234
+noteId: 1777823467071
 ---
 
 How do you capture a slug parameter in a Django URL?

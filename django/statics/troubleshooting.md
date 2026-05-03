@@ -1,7 +1,7 @@
 ---
 id: favicon-django-troubleshooting
 level: 1
-noteId: 1757047060310
+noteId: 1777823465871
 ---
 
 Why might a favicon not work in a Django project despite correct template syntax?

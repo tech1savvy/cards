@@ -1,3 +1,7 @@
+---
+noteId: 1777823469597
+---
+
 How do I format a boolean in Go?
 
 ---

@@ -1,6 +1,6 @@
 ---
 id: is-digit
-noteId: 1765210325395
+noteId: 1777823471372
 ---
 
 How to check if a character is a digit in Java?

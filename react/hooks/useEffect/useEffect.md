@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[useEffect-cleanup](useEffect-cleanup.md)"
-noteId: 1765210334295
+noteId: 1777823482622
 ---
 
 What is the `useEffect` hook, and how do you control when it runs?

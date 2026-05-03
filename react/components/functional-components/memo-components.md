@@ -2,7 +2,7 @@
 id: memo-components
 aliases: []
 tags: []
-noteId: 1757759276093
+noteId: 1777823481722
 ---
 
 What is `React.memo` and how does it work with functional components?

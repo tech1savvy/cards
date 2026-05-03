@@ -4,7 +4,7 @@ backward:
   - "[definition](definition.md)"
 forward:
   - "[break](break.md)"
-noteId: 1765210326020
+noteId: 1777823471997
 ---
 
 How to use the `continue` statement in a loop in Java?

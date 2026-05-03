@@ -1,7 +1,7 @@
 ---
 id: object-attributes
 aliases: []
-noteId: 1757047060885
+noteId: 1777823466697
 ---
 
 How do you access object attributes in Django templates?

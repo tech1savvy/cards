@@ -1,6 +1,6 @@
 ---
 id: single-line-comment
-noteId: 1765210327295
+noteId: 1777823473997
 ---
 
 Which option to use for single-line comments in JavaScript?

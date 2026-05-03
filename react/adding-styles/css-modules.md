@@ -2,7 +2,7 @@
 id: css-modules
 backward:
   - "[inline-styles](inline-styles.md)"
-noteId: 1765210333321
+noteId: 1777823481322
 ---
 
 How can you use CSS Modules to style a React component?

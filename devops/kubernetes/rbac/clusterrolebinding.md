@@ -1,0 +1,33 @@
+---
+noteId: 1777803544019
+---
+
+### What is a ClusterRoleBinding in Kubernetes?
+
+---
+
+Grants the permissions of a `ClusterRole` **cluster-wide** to a user, group, or ServiceAccount.
+
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: admin-binding
+subjects:
+- kind: User
+  name: alice
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: ClusterRole
+  name: cluster-admin
+  apiGroup: rbac.authorization.k8s.io
+```
+
+```bash
+kubectl get clusterrolebindings
+kubectl describe clusterrolebinding admin-binding
+```
+
+---
+
+ClusterRoleBinding is cluster-scoped (no namespace). Grants apply across **all** namespaces.

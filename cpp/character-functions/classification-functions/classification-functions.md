@@ -4,6 +4,7 @@ backward:
   - "[cctype Header](cctype-header.md)"
 forward:
   - "[Character Conversion Functions](conversion-functions.md)"
+noteId: 1777823457646
 ---
 
 What are character classification functions in C++?

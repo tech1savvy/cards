@@ -1,6 +1,6 @@
 ---
 id: choices
-noteId: 1757759274618
+noteId: 1777823465247
 ---
 
 How do you use choices field on Django Models?

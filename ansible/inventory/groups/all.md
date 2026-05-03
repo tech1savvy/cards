@@ -2,7 +2,7 @@
 id: all
 aliases: []
 tags: []
-noteId: 1765210321894
+noteId: 1777823456496
 ---
 
 Which special section in Ansible inventory defines variables that apply globally to all hosts?

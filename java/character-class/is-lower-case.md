@@ -1,6 +1,6 @@
 ---
 id: is-lower-case
-noteId: 1765210325445
+noteId: 1777823471421
 ---
 
 How to check if a character is a lowercase letter in Java?

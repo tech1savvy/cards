@@ -2,7 +2,7 @@
 id: switch
 backward:
   - "[else-if](else-if.md)"
-noteId: 1765210325721
+noteId: 1777823471696
 ---
 
 How to use the `switch` statement in Java?

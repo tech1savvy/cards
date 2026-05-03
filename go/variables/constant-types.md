@@ -1,3 +1,7 @@
+---
+noteId: 1777823470497
+---
+
 What types can constants be in Go?
 
 ---

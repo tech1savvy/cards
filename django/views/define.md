@@ -2,7 +2,7 @@
 id: define
 aliases: []
 tags: []
-noteId: 1757047061684
+noteId: 1777823467572
 ---
 
 # What are Views in Django?

@@ -2,7 +2,7 @@
 id: do-while-loop
 backward:
   - "[while-loop](while-loop.md)"
-noteId: 1765210326145
+noteId: 1777823472121
 ---
 
 How to use a `do-while` loop in Java?

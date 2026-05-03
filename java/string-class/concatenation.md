@@ -4,7 +4,7 @@ backward:
   - "[definition](definition.md)"
 forward:
   - "[char-at](char-at.md)"
-noteId: 1765210326521
+noteId: 1777823472497
 ---
 
 How to concatenate strings in Java?

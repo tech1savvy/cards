@@ -2,9 +2,10 @@
 id: event-delegation
 aliases: []
 tags:
-  - #pattern
+  - null
 backward:
   - "[Event Bubbling](phases/event-bubbling.md)"
+noteId: 1777823473346
 ---
 
 What is event delegation in JavaScript?

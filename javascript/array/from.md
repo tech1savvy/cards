@@ -2,6 +2,7 @@
 id: array-from
 aliases: []
 tags: []
+noteId: 1777823472672
 ---
 
 What does `Array.from()` do in JavaScript?

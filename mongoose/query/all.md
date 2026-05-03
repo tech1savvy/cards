@@ -1,6 +1,6 @@
 ---
 id: all
-noteId: 1757759275718
+noteId: 1777823479922
 ---
 
 How to query all documents in a Mongoose collection?

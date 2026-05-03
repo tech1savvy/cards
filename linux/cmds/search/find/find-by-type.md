@@ -1,6 +1,6 @@
 ---
 id: find-by-type
-noteId: 1765210330845
+noteId: 1777823477972
 ---
 
 Which options to use with `find` to search for only files or only directories?

@@ -2,7 +2,7 @@
 id: cd
 aliases: []
 tags: []
-noteId: 1765210327821
+noteId: 1777823474946
 ---
 
 Which command changes the current directory to a specified path?

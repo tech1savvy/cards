@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[creation](cards/django/apps/creation.md)"
-noteId: 1757047058983
+noteId: 1777823462947
 ---
 
 What are django apps? How they are different form django project?

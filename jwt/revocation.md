@@ -2,7 +2,8 @@
 id: jwt/revocation
 aliases: []
 tags:
-  - #flashcards/jwt/revocation
+  - null
+noteId: 1777823474796
 ---
 
 ###### Why is revoking JWTs a problem?

@@ -1,7 +1,7 @@
 ---
 id: re-path
 aliases: []
-noteId: 1757047061409
+noteId: 1777823467298
 ---
 
 What are regular expressions in Django URLs and how do you use them?

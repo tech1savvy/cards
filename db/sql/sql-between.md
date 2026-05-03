@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-between"
+noteId: 1777823458922
 ---
 
 ###### What is the **BETWEEN clause** in SQL?

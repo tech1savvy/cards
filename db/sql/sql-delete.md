@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-delete"
+noteId: 1777823459047
 ---
 
 ###### What is the **DELETE statement** in SQL?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/loops"
+noteId: 1777823480822
 ---
 
 ###### How do you use a **for loop with range** in Python?

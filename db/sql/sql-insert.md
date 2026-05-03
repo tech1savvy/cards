@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-insert"
+noteId: 1777823459248
 ---
 
 ###### What is the **INSERT INTO statement** in SQL?

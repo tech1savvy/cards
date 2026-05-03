@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/strings"
+noteId: 1777823480871
 ---
 
 ###### How do you **convert a string into a list** in Python?

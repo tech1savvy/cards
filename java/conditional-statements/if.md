@@ -2,7 +2,7 @@
 id: if
 forward:
   - "[else](else.md)"
-noteId: 1765210325695
+noteId: 1777823471671
 ---
 
 How to use the `if` statement in Java?

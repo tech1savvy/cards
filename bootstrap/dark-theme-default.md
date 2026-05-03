@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[toggle-theme](cards/bootstrap/toggle-theme.md)"
-noteId: 1757047058860
+noteId: 1777823457346
 ---
 
 How do you set Bootstrap's dark theme as the default theme?

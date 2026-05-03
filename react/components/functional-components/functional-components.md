@@ -1,6 +1,6 @@
 ---
 id: functional-components
-noteId: 1757759276067
+noteId: 1777823481696
 ---
 
 What are functional components in React?

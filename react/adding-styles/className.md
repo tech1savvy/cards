@@ -2,7 +2,7 @@
 id: className
 aliases: []
 tags: []
-noteId: 1765210333295
+noteId: 1777823481297
 ---
 
 - Why is `className` used instead of `class` in React?

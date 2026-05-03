@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[pass-context-variables-to-include](cards/django/templates/variables/pass.md)"
 level: 1
-noteId: 1757047060559
+noteId: 1777823466372
 ---
 
 How do you include other templates in Django?

@@ -2,7 +2,7 @@
 id: functionality
 backward:
   - "[setup](setup.md)"
-noteId: 1765210324795
+noteId: 1777823468222
 ---
 
 Which cookie-related methods are built into Express versus provided by `cookie-parser`?

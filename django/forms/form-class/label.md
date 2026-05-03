@@ -2,7 +2,7 @@
 id: label
 forward:
   - "[auto-label](auto-label.md)"
-noteId: 1757047059434
+noteId: 1777823464072
 ---
 
 How do you set labels for fields in a Django form class?

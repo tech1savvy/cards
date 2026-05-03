@@ -2,7 +2,7 @@
 id: nested-routes
 backward:
   - "[usage](usage.md)"
-noteId: 1765210333071
+noteId: 1777823481022
 ---
 
 How to define nested routes in React Router?

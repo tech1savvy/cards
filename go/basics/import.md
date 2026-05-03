@@ -1,3 +1,7 @@
+---
+noteId: 1777823468846
+---
+
 How do you import packages in Go?
 
 ---

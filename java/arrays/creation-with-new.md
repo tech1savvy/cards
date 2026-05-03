@@ -4,7 +4,7 @@ backward:
   - "[definition](definition.md)"
 forward:
   - "[creation-with-literal](creation-with-literal.md)"
-noteId: 1765210325245
+noteId: 1777823471222
 ---
 
 How to create an array in Java using the `new` keyword?

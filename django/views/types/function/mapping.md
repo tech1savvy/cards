@@ -2,7 +2,7 @@
 id: mapping
 aliases: []
 tags: []
-noteId: 1757047061884
+noteId: 1777823467772
 ---
 
 How to map a function based view to a url?

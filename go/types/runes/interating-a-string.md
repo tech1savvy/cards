@@ -1,3 +1,7 @@
+---
+noteId: 1777823470296
+---
+
 How to use runes to iterate over a string?
 
 ---

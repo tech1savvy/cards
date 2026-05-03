@@ -4,6 +4,7 @@ backward:
   - "[allow-any-origin](allow-any-origin.md)"
 forward:
   - "[allow-multiple-origins-with-different-config](allow-multiple-origins-with-different-config.md)"
+noteId: 1777823468371
 ---
 
 How can you configure the `cors` middleware to allow requests from multiple specific origins?

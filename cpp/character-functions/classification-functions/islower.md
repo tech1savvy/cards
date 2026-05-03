@@ -4,6 +4,7 @@ backward:
   - "[isdigit](isdigit.md)"
 forward:
   - "[isupper](isupper.md)"
+noteId: 1777823457796
 ---
 
 Which option checks if a character is a lowercase letter?

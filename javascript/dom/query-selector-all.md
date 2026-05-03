@@ -1,6 +1,6 @@
 ---
 id: query-selector-all
-noteId: 1765210327071
+noteId: 1777823473597
 ---
 
 How to select all elements matching a CSS selector?

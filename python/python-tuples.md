@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/tuples"
+noteId: 1777823480896
 ---
 
 ###### What is a **tuple** in Python?

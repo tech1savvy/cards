@@ -1,3 +1,7 @@
+---
+noteId: 1777823469921
+---
+
 Are functions as values supported in Go?
 
 ---

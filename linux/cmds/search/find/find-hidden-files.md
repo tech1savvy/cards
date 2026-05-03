@@ -1,6 +1,6 @@
 ---
 id: find-hidden-files
-noteId: 1765210330921
+noteId: 1777823478046
 ---
 
 Which options to use with `find` to search for hidden files?

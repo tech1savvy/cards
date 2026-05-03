@@ -2,7 +2,7 @@
 id: delete
 backward:
   - "[retrieve](cards/django/storage/session/retrieve.md)"
-noteId: 1757759275142
+noteId: 1777823466097
 ---
 
 Which option to use to delete data from Django session storage?

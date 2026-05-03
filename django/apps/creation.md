@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[register](cards/django/apps/register.md)"
-noteId: 1757047058959
+noteId: 1777823462922
 ---
 
 What is the cmd to create a django app?

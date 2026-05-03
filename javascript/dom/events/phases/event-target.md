@@ -4,6 +4,7 @@ backward:
   - "[Event Capturing](event-capturing.md)"
 forward:
   - "[Event Bubbling](event-bubbling.md)"
+noteId: 1777823473497
 ---
 
 What is the target phase of event propagation?

@@ -2,7 +2,7 @@
 id: activation
 aliases: []
 tags: []
-noteId: 1757047061533
+noteId: 1777823467422
 ---
 
 How to activate a venv?

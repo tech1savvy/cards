@@ -4,6 +4,7 @@ backward:
   - "[Character Classification Functions](classification-functions.md)"
 forward:
   - "[isalnum](isalnum.md)"
+noteId: 1777823457971
 ---
 
 What are character conversion functions in C++?

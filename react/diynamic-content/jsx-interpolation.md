@@ -2,7 +2,7 @@
 id: displaying-variables-in-jsx
 aliases: []
 tags: []
-noteId: 1765210333719
+noteId: 1777823482022
 ---
 
 What syntax is used to render a variable's value inside JSX in a React component?

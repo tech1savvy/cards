@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-select"
+noteId: 1777823459396
 ---
 
 ###### What is a **SELECT statement** in SQL?

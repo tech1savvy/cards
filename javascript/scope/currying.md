@@ -2,6 +2,7 @@
 id: currying
 backward:
   - "[Closures](closures.md)"
+noteId: 1777823474522
 ---
 
 What is currying in JavaScript?

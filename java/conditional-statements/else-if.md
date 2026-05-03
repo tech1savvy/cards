@@ -2,7 +2,7 @@
 id: else-if
 backward:
   - "[else](else.md)"
-noteId: 1765210325646
+noteId: 1777823471621
 ---
 
 How to use the `else if` statement in Java?

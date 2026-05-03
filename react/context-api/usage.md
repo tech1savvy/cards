@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[define](context-api/define.md)"
-noteId: 1765210333621
+noteId: 1777823481922
 ---
 
 How do you use the React Context API to share data?

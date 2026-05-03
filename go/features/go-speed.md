@@ -1,3 +1,7 @@
+---
+noteId: 1777823469271
+---
+
 How does Go's speed compare to other languages?
 
 ---

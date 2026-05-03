@@ -2,7 +2,7 @@
 id: generate-secret
 aliases: []
 tags: []
-noteId: 1765210327745
+noteId: 1777823474746
 ---
 
 ```sh

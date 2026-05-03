@@ -4,7 +4,7 @@ backward:
   - "[max](max.md)"
 forward:
   - "[random](random.md)"
-noteId: 1765210326346
+noteId: 1777823472321
 ---
 
 How to find the minimum of two numbers in Java?

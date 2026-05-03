@@ -2,7 +2,7 @@
 id: fetching-api-data
 aliases: []
 tags: []
-noteId: 1765210333919
+noteId: 1777823481471
 ---
 
 How to fetch data from an API only once after the initial render in a React functional component?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/lists"
+noteId: 1777823480796
 ---
 
 ###### What is a **list** in Python?

@@ -2,7 +2,7 @@
 id: install
 aliases: []
 tags: []
-noteId: 1757082389932
+noteId: 1777823480397
 ---
 
 To install packages as development dependencies (dev dependencies) in npm, use:

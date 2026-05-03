@@ -4,6 +4,7 @@ backward:
   - "[functionality](functionality.md)"
 forward:
   - "[allow-multiple-origins-with-same-config](allow-multiple-origins-with-same-config.md)"
+noteId: 1777823468321
 ---
 
 How can you configure the `cors` middleware to allow requests from any origin?

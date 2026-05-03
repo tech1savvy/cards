@@ -1,7 +1,7 @@
 ---
 id: int-converter
 aliases: []
-noteId: 1757047061184
+noteId: 1777823467022
 ---
 
 How do you capture an integer parameter in a Django URL?

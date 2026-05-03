@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[dark-theme-default](cards/bootstrap/dark-theme-default.md)"
-noteId: 1757047058883
+noteId: 1777823457497
 ---
 
 How do you create a theme toggler for Bootstrap's dark/light modes?

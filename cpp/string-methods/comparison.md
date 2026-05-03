@@ -4,6 +4,7 @@ backward:
   - "[resize](resize.md)"
 forward:
   - "[substr](substr.md)"
+noteId: 1777823458196
 ---
 
 How can you compare two `std::string` objects?

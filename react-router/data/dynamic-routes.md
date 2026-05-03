@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[usage](usage.md)"
-noteId: 1765210332995
+noteId: 1777823480972
 ---
 
 How to define and use dynamic routes in React Router?

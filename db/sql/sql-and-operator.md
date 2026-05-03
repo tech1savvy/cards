@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-and-operator"
+noteId: 1777823458870
 ---
 
 ###### What is the **AND logical operator** in SQL?

@@ -5,7 +5,7 @@ tags:
   - html
   - favicon
   - file-formats
-noteId: 1757047061985
+noteId: 1777823470696
 ---
 
 What are the supported file types for favicons and their uses?

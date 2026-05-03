@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/classes"
+noteId: 1777823480672
 ---
 
 ###### What is a **class** in Python?

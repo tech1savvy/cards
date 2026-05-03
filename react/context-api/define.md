@@ -2,7 +2,7 @@
 id: define
 aliases: []
 tags: []
-noteId: 1765210333595
+noteId: 1777823481896
 ---
 
 What is React Context API and Why it is used?

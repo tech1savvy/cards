@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[module-define](module-define.md)"
-noteId: 1765210321970
+noteId: 1777823456571
 ---
 
 What is an Ansible Role?

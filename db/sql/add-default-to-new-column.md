@@ -2,6 +2,7 @@
 id: add-default-to-new-column
 aliases: []
 tags: []
+noteId: 1777823458697
 ---
 
 ###### How to add a default value when creating a new column?

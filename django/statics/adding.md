@@ -1,7 +1,7 @@
 ---
 id: add-static-files-to-templates
 aliases: []
-noteId: 1757047060233
+noteId: 1777823465797
 ---
 
 How do you handle static files in Django templates?

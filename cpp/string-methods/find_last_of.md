@@ -4,6 +4,7 @@ backward:
   - "[find_first_of](find_first_of.md)"
 forward:
   - "[append](append.md)"
+noteId: 1777823458297
 ---
 
 Which method finds the last character in a `std::string` that matches any character in a specified set?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/encapsulation"
+noteId: 1777823480697
 ---
 
 ###### What is **encapsulation** in Python?

@@ -4,6 +4,7 @@ backward:
   - "[length-size](length-size.md)"
 forward:
   - "[at](at.md)"
+noteId: 1777823458223
 ---
 
 How do you check if a `std::string` has zero characters?

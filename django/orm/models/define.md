@@ -1,6 +1,6 @@
 ---
 id: define
-noteId: 1757759274292
+noteId: 1777823464922
 ---
 
 What is a Django model? Include basics, a quick example, and the resulting SQL table.

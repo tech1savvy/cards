@@ -2,6 +2,7 @@
 id: env
 aliases: []
 tags: []
+noteId: 1777823483246
 ---
 
 ###### Why do .env variables not work with psql even after sourcing the file?

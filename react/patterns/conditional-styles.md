@@ -3,6 +3,7 @@ id: conditional-styles-with-state
 aliases: []
 tags: []
 forward: []
+noteId: 1777823482821
 ---
 
 React components can dynamically apply CSS classes based on their internal state, offering a powerful way to manage conditional styling. This example demonstrates how to use the `useState` hook to toggle a CSS class, which in turn changes the visual appearance of a component.

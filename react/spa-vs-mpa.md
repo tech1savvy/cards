@@ -2,7 +2,7 @@
 id: spa-vs-mpa
 aliases: []
 tags: []
-noteId: 1757759276318
+noteId: 1777823483122
 ---
 
 What are the differences between a Single Page Application (SPA) and a Multi-Page Application (MPA)?

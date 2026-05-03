@@ -2,6 +2,7 @@
 id: substr
 backward:
   - "[comparison](comparison.md)"
+noteId: 1777823458521
 ---
 
 How do you extract a new substring from a `std::string`?

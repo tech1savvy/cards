@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[controlled-inputs](controlled-inputs.md)"
-noteId: 1765210334095
+noteId: 1777823482272
 ---
 
 How do you handle form submissions in React?

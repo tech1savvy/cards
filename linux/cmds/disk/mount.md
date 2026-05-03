@@ -2,7 +2,7 @@
 id: mount-basic-use
 aliases: []
 tags: []
-noteId: 1765210328244
+noteId: 1777823475372
 ---
 
 How to manually mount a storage device to a directory in Linux?

@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[text-input](text-input.md)"
-noteId: 1757047062109
+noteId: 1777823470821
 ---
 
 How do you create a basic HTML form container and what are its essential attributes?

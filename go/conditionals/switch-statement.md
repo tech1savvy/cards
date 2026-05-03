@@ -1,3 +1,7 @@
+---
+noteId: 1777823469046
+---
+
 How do I write a switch statement in Go?
 
 ---

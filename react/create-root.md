@@ -1,6 +1,6 @@
 ---
 id: create-root
-noteId: 1765210333646
+noteId: 1777823481946
 ---
 
 How do you render a React component to the screen using the modern API?

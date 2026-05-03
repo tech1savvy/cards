@@ -1,5 +1,5 @@
 ---
-noteId: 1765210327470
+noteId: 1777823474222
 ---
 
 The legacy CommonJS module system, typically uses `require` and `module.exports`. Nowadays, Node.js also supports the newer ECMAScript Modules (ESM), which use `import` and `export`.

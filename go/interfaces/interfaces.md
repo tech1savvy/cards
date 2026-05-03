@@ -1,3 +1,7 @@
+---
+noteId: 1777823470072
+---
+
 What are interfaces in Go?
 
 ---

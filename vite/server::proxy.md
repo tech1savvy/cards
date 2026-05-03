@@ -1,6 +1,7 @@
 ---
 id: server-proxy
-source: "https://github.com/vitejs/vite/blob/main/docs/config/server-options.md"
+source: https://github.com/vitejs/vite/blob/main/docs/config/server-options.md
+noteId: 1777823483897
 ---
 
 Which option to use in Vite to redirect dev server requests to a backend and avoid CORS issues?

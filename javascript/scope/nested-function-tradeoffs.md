@@ -2,6 +2,7 @@
 id: nested-function-tradeoffs
 backward:
   - "[Closures](closures.md)"
+noteId: 1777823474571
 ---
 
 What are the trade-offs of using a nested function vs. a separate helper function?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-having"
+noteId: 1777823459122
 ---
 
 ###### What is the **HAVING clause** in SQL?

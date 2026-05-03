@@ -1,3 +1,7 @@
+---
+noteId: 1777823470572
+---
+
 What are zero values in Go variables?
 
 ---

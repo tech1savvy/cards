@@ -1,6 +1,6 @@
 ---
 id: database-connection
-noteId: 1757759273119
+noteId: 1777823463048
 ---
 
 How do you configure the database connection in Django?

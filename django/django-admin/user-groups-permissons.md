@@ -1,6 +1,6 @@
 ---
 id: overview
-noteId: 1757759273441
+noteId: 1777823463373
 ---
 
 How do you manage users, groups, and permissions in Django Admin?

@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[IIFE](iife.md)"
 level: 0
-noteId: 1765210326721
+noteId: 1777823473823
 ---
 
 ## What are Async Functions?

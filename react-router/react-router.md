@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[modes](modes.md)"
-noteId: 1765210333220
+noteId: 1777823481221
 sources:
   - "[Master React Router by Nova Designs](https://youtu.be/c02YoWR9gSY)"
 ---

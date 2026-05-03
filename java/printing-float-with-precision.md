@@ -1,6 +1,6 @@
 ---
 id: printing-float-with-precision
-noteId: 1765210326396
+noteId: 1777823472370
 ---
 
 How to print a float with a specific precision in Java?

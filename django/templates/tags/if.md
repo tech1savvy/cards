@@ -1,7 +1,7 @@
 ---
 id: if
 aliases: []
-noteId: 1757047060758
+noteId: 1777823466572
 ---
 
 How do you use conditional statements in Django templates?

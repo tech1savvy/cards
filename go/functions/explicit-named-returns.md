@@ -1,3 +1,7 @@
+---
+noteId: 1777823469846
+---
+
 Can you explicitly return values with named returns in Go?
 
 ---

@@ -2,7 +2,7 @@
 id: react
 aliases: []
 tags: []
-noteId: 1757759276292
+noteId: 1777823482996
 ---
 
 What is React?

@@ -5,7 +5,7 @@ tags: []
 level: 1
 forward:
   - "[template-context-variables](cards/django/templates/variables/pass/as-context-variables.md)"
-noteId: 1757047060634
+noteId: 1777823466447
 ---
 
 How do you render a template in Django?

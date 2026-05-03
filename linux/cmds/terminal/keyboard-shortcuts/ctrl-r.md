@@ -2,7 +2,7 @@
 id: ctrl-r
 aliases: []
 tags: []
-noteId: 1765210331821
+noteId: 1777823478948
 ---
 
 Which keyboard shortcut is used to search and select from shell history?

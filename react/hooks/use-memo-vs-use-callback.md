@@ -4,6 +4,7 @@ backward:
   - "[useMemo](use-memo.md)"
 forward:
   - "[useCallback](use-callback.md)"
+noteId: 1777823482446
 ---
 
 What is the key difference between `useMemo` and `useCallback` React Hooks?

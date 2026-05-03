@@ -2,7 +2,7 @@
 id: iterating-over-string
 forward:
   - "[converting-string-to-char-array](converting-string-to-char-array.md)"
-noteId: 1765210325921
+noteId: 1777823471896
 ---
 
 How to iterate over a string in Java?

@@ -2,7 +2,7 @@
 id: desctucturing-props
 aliases: []
 tags: []
-noteId: 1765210334520
+noteId: 1777823482923
 ---
 
 ```jsx

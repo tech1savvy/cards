@@ -1,6 +1,6 @@
 ---
 id: definition
-noteId: 1765210325370
+noteId: 1777823471346
 ---
 
 What is the `Character` class in Java?

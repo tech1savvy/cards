@@ -1,3 +1,7 @@
+---
+noteId: 1777823470547
+---
+
 What does the size (8, 16, 32, 64, 128) represent in Go types?
 
 ---

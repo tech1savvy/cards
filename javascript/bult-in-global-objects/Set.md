@@ -2,6 +2,7 @@
 id: javascript-set
 aliases: []
 tags: []
+noteId: 1777823472971
 ---
 
 What is a `Set` in JavaScript and when would you use it?

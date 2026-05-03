@@ -1,6 +1,6 @@
 ---
 id: find-empty-files
-noteId: 1765210330870
+noteId: 1777823477996
 ---
 
 Which option to use with `find` to search for empty files?

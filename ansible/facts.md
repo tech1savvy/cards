@@ -2,7 +2,7 @@
 id: facts
 aliases: []
 tags: []
-noteId: 1765210321745
+noteId: 1777823456346
 ---
 
 What are Ansible facts and how are they used?

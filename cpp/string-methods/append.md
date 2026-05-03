@@ -4,6 +4,7 @@ backward:
   - "[find_last_of](find_last_of.md)"
 forward:
   - "[insert](insert.md)"
+noteId: 1777823458097
 ---
 
 How do you add a substring to the end of a `std::string`?

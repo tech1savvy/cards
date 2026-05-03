@@ -3,7 +3,7 @@ id: fields
 forward:
   - "[label](label.md)"
   - "[widgets](../widgets.md)"
-noteId: 1757047059409
+noteId: 1777823464047
 ---
 
 What are fields in Django forms and what are the common types?

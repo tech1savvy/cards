@@ -2,7 +2,7 @@
 id: type-coercion
 aliases: []
 tags: []
-noteId: 1765210327620
+noteId: 1777823474396
 ---
 
 What is type coercion in JavaScript?

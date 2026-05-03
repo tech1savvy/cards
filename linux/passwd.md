@@ -1,6 +1,6 @@
 ---
 id: passwd
-noteId: 1765210332296
+noteId: 1777823479423
 ---
 
 How to change a user password in Linux?

@@ -1,7 +1,7 @@
 ---
 id: path-converter
 aliases: []
-noteId: 1757047061211
+noteId: 1777823467047
 ---
 
 How do you capture a path parameter (including slashes) in a Django URL?

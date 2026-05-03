@@ -4,6 +4,7 @@ backward:
   - "[islower](islower.md)"
 forward:
   - "[isspace](isspace.md)"
+noteId: 1777823457896
 ---
 
 Which option checks if a character is an uppercase letter?

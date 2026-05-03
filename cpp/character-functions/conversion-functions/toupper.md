@@ -4,6 +4,7 @@ backward:
   - "[isgraph](isgraph.md)"
 forward:
   - "[tolower](tolower.md)"
+noteId: 1777823458022
 ---
 
 Which option converts a character to its uppercase equivalent?

@@ -1,6 +1,6 @@
 ---
 id: get-element-by-id
-noteId: 1765210327020
+noteId: 1777823473547
 ---
 
 How to select an HTML element by its ID?

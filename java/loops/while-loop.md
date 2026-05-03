@@ -4,7 +4,7 @@ backward:
   - "[for-loop](for-loop.md)"
 forward:
   - "[do-while-loop](do-while-loop.md)"
-noteId: 1765210326195
+noteId: 1777823472171
 ---
 
 How to use a `while` loop in Java?

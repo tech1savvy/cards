@@ -4,6 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[useMemo vs useCallback](use-memo-vs-use-callback.md)"
+noteId: 1777823482471
 ---
 
 What is the useMemo React Hook and when should you use it?

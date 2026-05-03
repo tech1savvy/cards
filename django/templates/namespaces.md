@@ -5,7 +5,7 @@ tags: []
 level: 1
 backward:
   - "[default-locations](cards/django/templates/default-locations.md)"
-noteId: 1757047060609
+noteId: 1777823466422
 ---
 
 How does Django handle template naming conflicts between project-level and app-level templates? What's the best practice?

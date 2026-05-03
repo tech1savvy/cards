@@ -2,7 +2,7 @@
 id: console-error-vs-log
 aliases: []
 tags: []
-noteId: 1765210332746
+noteId: 1777823480322
 ---
 
 In a Node.js environment, when should you use `console.error()` instead of `console.log()`?

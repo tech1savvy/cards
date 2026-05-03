@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-where"
+noteId: 1777823459496
 ---
 
 ###### What is the **WHERE clause** in SQL?

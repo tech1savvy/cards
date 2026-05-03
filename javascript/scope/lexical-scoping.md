@@ -2,6 +2,7 @@
 id: lexical-scoping
 forward:
   - "[Closures](closures.md)"
+noteId: 1777823474546
 ---
 
 What is lexical scoping in JavaScript?

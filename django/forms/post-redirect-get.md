@@ -2,7 +2,7 @@
 id: post-redirect-get
 aliases: []
 tags: []
-noteId: 1757047059483
+noteId: 1777823464572
 ---
 
 What is the POST-Redirect-GET pattern and how is it implemented in Django?

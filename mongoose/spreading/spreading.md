@@ -1,6 +1,6 @@
 ---
 id: spreading
-noteId: 1757759275868
+noteId: 1777823480172
 ---
 
 Why does spreading a Mongoose document (`...doc`) in `res.json()` include internal fields like `$__`, `$isNew`, `_doc`?

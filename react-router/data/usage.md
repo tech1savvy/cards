@@ -2,7 +2,7 @@
 id: data-mode-usage
 aliases: []
 tags: []
-noteId: 1765210332945
+noteId: 1777823481072
 ---
 
 How do you set up and render a router in React Router's **Data Mode**?

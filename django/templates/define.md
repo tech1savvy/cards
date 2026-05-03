@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[default-locations](cards/django/templates/default-locations.md)"
-noteId: 1757047060409
+noteId: 1777823466222
 ---
 
 What are Django templates and what is their purpose?

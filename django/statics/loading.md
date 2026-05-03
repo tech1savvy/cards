@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[adding](cards/django/statics/adding.md)"
   - "[collectstatic](cards/django/statics/collectstatic.md)"
-noteId: 1757047060283
+noteId: 1777823465847
 ---
 
 How do you configure static files settings in Django's settings.py?

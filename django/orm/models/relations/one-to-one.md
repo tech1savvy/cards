@@ -1,6 +1,6 @@
 ---
 id: one-to-one
-noteId: 1757759274818
+noteId: 1777823465447
 ---
 
 Which field should I use to define a one‑to‑one relationship?

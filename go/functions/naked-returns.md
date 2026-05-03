@@ -1,3 +1,7 @@
+---
+noteId: 1777823469972
+---
+
 What is a naked return in Go?
 
 ---

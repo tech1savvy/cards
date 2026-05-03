@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[react](cards/bootstrap/setup/react.md)"
-noteId: 1765210322520
+noteId: 1777823457447
 ---
 
 How to install and import Bootstrap into a React project using npm?

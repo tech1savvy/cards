@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[useEffect](useEffect.md)"
-noteId: 1757759276242
+noteId: 1777823482722
 ---
 
 What is the `useState` hook in React?

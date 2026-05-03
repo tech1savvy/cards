@@ -1,3 +1,7 @@
+---
+noteId: 1777823469671
+---
+
 How do I format an integer in Go?
 
 ---

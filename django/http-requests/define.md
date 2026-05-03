@@ -2,7 +2,7 @@
 id: http-requests
 aliases: []
 tags: []
-noteId: 1757047059859
+noteId: 1777823464722
 ---
 
 # HTTP Requests in Django

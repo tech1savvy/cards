@@ -1,6 +1,6 @@
 ---
 id: to-lower-case
-noteId: 1765210325521
+noteId: 1777823471497
 ---
 
 How to convert a character to lowercase in Java?

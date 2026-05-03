@@ -2,7 +2,7 @@
 id: taking-input
 forward:
   - "[printing-output](printing-output.md)"
-noteId: 1765210325894
+noteId: 1777823471871
 ---
 
 How to take input from the user in Java?

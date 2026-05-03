@@ -4,7 +4,7 @@ backward:
   - "[integer-input](integer-input.md)"
 forward:
   - "[array-input](array-input.md)"
-noteId: 1765210325870
+noteId: 1777823471847
 ---
 
 How to take string input from the user in Java?

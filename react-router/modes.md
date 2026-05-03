@@ -2,6 +2,7 @@
 id: react-router-modes
 backward:
   - "[React Router](../react-router.md)"
+noteId: 1777823481196
 ---
 
 What are the three primary modes for using React Router?

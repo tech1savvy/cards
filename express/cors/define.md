@@ -4,6 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[setup](setup.md)"
+noteId: 1777823468396
 ---
 
 What is the purpose of the `cors` middleware in Express?

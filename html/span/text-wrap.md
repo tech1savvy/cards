@@ -2,7 +2,7 @@
 id: span-text-wrap
 aliases: []
 tags: []
-noteId: 1765210325146
+noteId: 1777823471122
 ---
 
 Which CSS properties and display settings are needed to make text wrap inside a `<span>` element?

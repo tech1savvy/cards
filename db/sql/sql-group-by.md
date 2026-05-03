@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-group-by"
+noteId: 1777823459096
 ---
 
 ###### What is the **GROUP BY clause** in SQL?

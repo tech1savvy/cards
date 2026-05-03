@@ -2,7 +2,7 @@
 id: controlled-inputs
 aliases: []
 tags: []
-noteId: 1765210334020
+noteId: 1777823482197
 ---
 
 What are controlled inputs in React?

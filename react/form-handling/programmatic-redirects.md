@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[submit-event](submit-event.md)"
-noteId: 1765210334072
+noteId: 1777823482247
 ---
 
 How do you perform programmatic redirects after a form submission in React?

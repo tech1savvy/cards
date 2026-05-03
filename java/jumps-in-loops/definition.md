@@ -2,7 +2,7 @@
 id: definition
 forward:
   - "[continue](continue.md)"
-noteId: 1765210326046
+noteId: 1777823472022
 ---
 
 What are jumps in loops in Java?

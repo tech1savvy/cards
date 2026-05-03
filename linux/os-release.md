@@ -1,6 +1,6 @@
 ---
 id: os-release
-noteId: 1765210332270
+noteId: 1777823479397
 ---
 
 What is the most universally compatible command to check the Linux distribution and version?

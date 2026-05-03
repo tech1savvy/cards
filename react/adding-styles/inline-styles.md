@@ -6,7 +6,7 @@ backward:
   - "[css-stylesheet](css-stylesheet.md)"
 forward:
   - "[css-modules](css-modules.md)"
-noteId: 1765210333370
+noteId: 1777823481372
 ---
 
 How can you apply inline styles to a React component?

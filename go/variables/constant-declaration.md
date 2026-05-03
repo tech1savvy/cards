@@ -1,3 +1,7 @@
+---
+noteId: 1777823470471
+---
+
 How do you declare constants in Go?
 
 ---

@@ -2,7 +2,7 @@
 id: traditional-jsx-routes
 aliases: []
 tags: []
-noteId: 1765210333195
+noteId: 1777823481147
 ---
 
 How to define routes using the traditional JSX approach in React Router v6?

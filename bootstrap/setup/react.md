@@ -1,5 +1,6 @@
 ---
 id: react
+noteId: 1777823457472
 ---
 
 Why does importing Bootstrap's JavaScript in `src/main.jsx` fail while it works correctly in `src/App.jsx`?

@@ -2,7 +2,7 @@
 id: integer-input
 forward:
   - "[string-input](string-input.md)"
-noteId: 1765210325845
+noteId: 1777823471821
 ---
 
 How to take integer input from the user in Java?

@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[playbook-define](playbook-define.md)"
-noteId: 1765210321820
+noteId: 1777823456420
 ---
 
 What is an Ansible Inventory?

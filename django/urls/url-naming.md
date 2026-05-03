@@ -1,7 +1,7 @@
 ---
 id: url-naming
 aliases: []
-noteId: 1757047061460
+noteId: 1777823467347
 ---
 
 Why do you give names to URLs in Django and how do you use them?

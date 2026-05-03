@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-limit"
+noteId: 1777823459322
 ---
 
 ###### What is the **LIMIT clause** in SQL?

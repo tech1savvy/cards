@@ -1,6 +1,6 @@
 ---
 id: set-hostname
-noteId: 1765210332321
+noteId: 1777823479446
 ---
 
 How to set the system hostname?

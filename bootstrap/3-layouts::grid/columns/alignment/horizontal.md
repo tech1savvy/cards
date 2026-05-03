@@ -1,5 +1,6 @@
 ---
 id: horizontal-alignment-columns
+noteId: 1777823457072
 ---
 
 How can you horizontally align columns within Bootstrap's grid system?

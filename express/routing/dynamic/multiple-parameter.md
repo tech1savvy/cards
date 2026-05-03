@@ -1,6 +1,6 @@
 ---
 id: multiple-parameter
-noteId: 1757759275543
+noteId: 1777823468522
 ---
 
 How to create a dynamic route with multiple parameters in Express?

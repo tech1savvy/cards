@@ -2,7 +2,7 @@
 id: query
 aliases: []
 tags: []
-noteId: 1765210332870
+noteId: 1777823480520
 ---
 
 Which option to use to run a query on a pool?

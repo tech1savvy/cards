@@ -4,7 +4,7 @@ backward:
   - "[char-at](char-at.md)"
 forward:
   - "[replace](replace.md)"
-noteId: 1765210326570
+noteId: 1777823472546
 ---
 
 How to get the length of a string in Java?

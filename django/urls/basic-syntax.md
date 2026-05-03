@@ -1,7 +1,7 @@
 ---
 id: basic-syntax
 aliases: []
-noteId: 1757047061059
+noteId: 1777823466871
 ---
 
 What is the basic syntax for defining URL patterns in Django?

@@ -1,6 +1,6 @@
 ---
 id: is-whitespace
-noteId: 1765210325496
+noteId: 1777823471472
 ---
 
 How to check if a character is a whitespace in Java?

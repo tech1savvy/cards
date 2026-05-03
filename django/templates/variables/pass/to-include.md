@@ -2,7 +2,7 @@
 id: pass-context-variables-to-include
 aliases: []
 tags: []
-noteId: 1757047060984
+noteId: 1777823466797
 ---
 
 How do you pass context variables to an included template in Django?

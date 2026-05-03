@@ -2,7 +2,7 @@
 id: virtual-dom
 aliases: []
 tags: []
-noteId: 1757759276367
+noteId: 1777823483172
 ---
 
 What is the React virtual DOM and why is it used?

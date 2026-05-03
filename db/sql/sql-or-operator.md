@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-or-operator"
+noteId: 1777823459347
 ---
 
 ###### What is the **OR operator** in SQL?

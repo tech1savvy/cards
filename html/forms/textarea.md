@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[text-input](text-input.md)"
   - "[radio](radio.md)"
-noteId: 1757047062334
+noteId: 1777823471047
 ---
 
 How do you create a multi-line text input (textarea) in HTML?

@@ -2,7 +2,7 @@
 id: register
 aliases: []
 tags: []
-noteId: 1757047059008
+noteId: 1777823462972
 ---
 
 # How to register a app in a django project?

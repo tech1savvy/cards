@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-aliases"
+noteId: 1777823458847
 ---
 
 ###### What is the **AS clause** in SQL?

@@ -3,6 +3,7 @@ id: awaiting-return-in-try-catch-block
 aliases:
   - The Try/Catch Exception
 tags: []
+noteId: 1777823472721
 ---
 
 - Direct Return: Good for efficiency when you are just passing data along.

@@ -4,6 +4,7 @@ backward:
   - "[ispunct](ispunct.md)"
 forward:
   - "[iscntrl](iscntrl.md)"
+noteId: 1777823457821
 ---
 
 Which option checks if a character is printable?

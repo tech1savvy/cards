@@ -1,5 +1,6 @@
 ---
 id: for-each
+noteId: 1777823472897
 ---
 
 How to execute a function for each element of an array, set, or map?

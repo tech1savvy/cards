@@ -1,6 +1,6 @@
 ---
 id: find-exec
-noteId: 1765210330897
+noteId: 1777823478022
 ---
 
 Which option to use with `find` to execute a command on each found item?

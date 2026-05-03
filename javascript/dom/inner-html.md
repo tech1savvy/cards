@@ -1,6 +1,6 @@
 ---
 id: inner-html
-noteId: 1765210327045
+noteId: 1777823473572
 ---
 
 How to get or set the HTML content of an element?

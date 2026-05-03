@@ -1,7 +1,7 @@
 ---
 id: define
 aliases: []
-noteId: 1757047060710
+noteId: 1777823466522
 ---
 
 What are template tags in Django?

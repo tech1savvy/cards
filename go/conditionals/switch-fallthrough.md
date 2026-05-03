@@ -1,3 +1,7 @@
+---
+noteId: 1777823469021
+---
+
 How do I make a switch case fall through to the next case?
 
 ---

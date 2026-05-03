@@ -1,6 +1,6 @@
 ---
 id: orm
-noteId: 1757759274893
+noteId: 1777823465521
 ---
 
 What is Django's ORM and how do you use it?

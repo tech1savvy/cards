@@ -1,7 +1,7 @@
 ---
 id: url
 aliases: []
-noteId: 1757047060784
+noteId: 1777823466596
 ---
 
 How do you generate URLs in Django templates?

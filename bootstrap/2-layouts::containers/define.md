@@ -2,6 +2,7 @@
 id: bootstrap-containers-define
 aliases: []
 tags: []
+noteId: 1777823456896
 ---
 
 What is the purpose of containers in Bootstrap?

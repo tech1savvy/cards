@@ -2,6 +2,7 @@
 id: cross-origin-resource-sharing
 aliases: []
 tags: []
+noteId: 1777823483972
 ---
 
 ## What CORS is

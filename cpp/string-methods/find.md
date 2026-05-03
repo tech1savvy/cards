@@ -4,6 +4,7 @@ backward:
   - "[c_str](c_str.md)"
 forward:
   - "[rfind](rfind.md)"
+noteId: 1777823458321
 ---
 
 Which method finds the first occurrence of a substring within a `std::string`?

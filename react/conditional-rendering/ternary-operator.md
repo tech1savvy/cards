@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[conditional-rendering-logical-and](logical-and.md)"
-noteId: 1765210333522
+noteId: 1777823481822
 ---
 
 How to conditionally render different components or elements based on a condition in React, including an "else" case?

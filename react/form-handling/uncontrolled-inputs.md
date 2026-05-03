@@ -2,7 +2,7 @@
 id: uncontrolled-inputs
 forward:
   - "[controlled-inputs](controlled-inputs.md)"
-noteId: 1765210334121
+noteId: 1777823482296
 ---
 
 What are uncontrolled inputs in React?

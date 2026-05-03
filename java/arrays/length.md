@@ -1,6 +1,6 @@
 ---
 id: length
-noteId: 1765210325295
+noteId: 1777823471271
 ---
 
 How to find the size of an array in Java?

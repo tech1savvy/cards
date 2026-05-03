@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[useState](useState.md)"
-noteId: 1765210334370
+noteId: 1777823482697
 ---
 
 How do you update state in React based on the previous state?

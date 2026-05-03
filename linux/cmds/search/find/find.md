@@ -1,6 +1,6 @@
 ---
 id: find
-noteId: 1765210330945
+noteId: 1777823478071
 ---
 
 What is the purpose of the `find` command in Linux?

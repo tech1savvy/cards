@@ -2,7 +2,7 @@
 id: polling
 aliases: []
 tags: []
-noteId: 1757759273742
+noteId: 1777823463746
 ---
 
 To build the described polling application with user authentication and voting in Django, here is a detailed outline with code snippets for the key components:

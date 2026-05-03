@@ -1,7 +1,7 @@
 ---
 id: query-parameters
 aliases: []
-noteId: 1757047059959
+noteId: 1777823464822
 ---
 
 How do you access query parameters (from the URL) in a Django request object?

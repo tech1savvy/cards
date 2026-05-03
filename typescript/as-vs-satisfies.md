@@ -1,8 +1,7 @@
 ---
 id: as-vs-satisfies
-aliases:
-  - `as` vs `satisfies` keyword in TypeScript
 tags: []
+noteId: 1777823483796
 ---
 
 # `as` vs `satisfies` keyword in TypeScript

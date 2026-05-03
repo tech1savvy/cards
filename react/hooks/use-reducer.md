@@ -2,6 +2,7 @@
 id: use-reducer
 aliases: []
 tags: []
+noteId: 1777823482498
 ---
 
 > [!NOTE]

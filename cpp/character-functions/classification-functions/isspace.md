@@ -4,6 +4,7 @@ backward:
   - "[isupper](isupper.md)"
 forward:
   - "[ispunct](ispunct.md)"
+noteId: 1777823457871
 ---
 
 Which option checks if a character is a whitespace character?

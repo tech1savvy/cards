@@ -2,7 +2,7 @@
 id: pure-components
 aliases: []
 tags: []
-noteId: 1757759275993
+noteId: 1777823481622
 ---
 
 What is a **Pure React Component** and how does it optimize performance?

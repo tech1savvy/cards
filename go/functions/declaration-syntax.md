@@ -1,3 +1,7 @@
+---
+noteId: 1777823469822
+---
+
 Why does Go use "x int" instead of "int x"?
 
 ---

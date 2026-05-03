@@ -1,3 +1,7 @@
+---
+noteId: 1777823469346
+---
+
 What are goroutines in Go?
 
 ---

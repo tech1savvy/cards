@@ -1,6 +1,6 @@
 ---
 id: find-by-size
-noteId: 1765210330820
+noteId: 1777823477947
 ---
 
 Which option to use with `find` to search for files based on their size?

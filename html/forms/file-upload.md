@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[submit](submit.md)"
-noteId: 1757047062209
+noteId: 1777823470921
 ---
 
 How do you implement file upload in HTML forms?

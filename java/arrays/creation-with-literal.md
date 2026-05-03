@@ -2,7 +2,7 @@
 id: creation-with-literal
 backward:
   - "[creation-with-new](creation-with-new.md)"
-noteId: 1765210325221
+noteId: 1777823471197
 ---
 
 How to create an array in Java using an array literal?

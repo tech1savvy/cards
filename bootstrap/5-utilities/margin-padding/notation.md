@@ -1,5 +1,6 @@
 ---
 id: spacing-notation
+noteId: 1777823457222
 ---
 
 What is the notation format for Bootstrap's spacing utilities?

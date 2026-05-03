@@ -1,7 +1,7 @@
 ---
 id: define
 aliases: []
-noteId: 1757047061084
+noteId: 1777823466897
 ---
 
 What are URLs in Django and what is their purpose?

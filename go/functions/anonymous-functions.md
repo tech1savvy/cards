@@ -1,3 +1,7 @@
+---
+noteId: 1777823469772
+---
+
 How and where to use anonymous functions in Go?
 
 ---

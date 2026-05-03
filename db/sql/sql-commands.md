@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-commands"
+noteId: 1777823458946
 ---
 
 ###### What are the **5 categories** of SQL commands?

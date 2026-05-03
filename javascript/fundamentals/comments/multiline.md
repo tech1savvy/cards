@@ -2,7 +2,7 @@
 id: multi-line-comment
 aliases: []
 tags: []
-noteId: 1765210327270
+noteId: 1777823473972
 ---
 
 Which syntax to use for multi-line comments in JavaScript?

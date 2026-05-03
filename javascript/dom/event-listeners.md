@@ -1,6 +1,6 @@
 ---
 id: event-listeners
-noteId: 1765210326994
+noteId: 1777823473247
 ---
 
 What are event listeners in JavaScript and how are they used?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-constraints"
+noteId: 1777823458972
 ---
 
 ###### What are **constraints** in SQL?

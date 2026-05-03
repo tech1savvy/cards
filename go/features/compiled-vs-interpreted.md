@@ -1,3 +1,7 @@
+---
+noteId: 1777823469222
+---
+
 Compiled vs Interpreted Code
 
 ---

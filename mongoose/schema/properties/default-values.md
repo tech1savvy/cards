@@ -1,6 +1,6 @@
 ---
 id: default-values
-noteId: 1757082389856
+noteId: 1777823480072
 ---
 
 How do you add a default value to a property in a Mongoose schema?

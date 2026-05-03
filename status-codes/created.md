@@ -2,7 +2,7 @@
 id: created
 aliases: []
 tags: []
-noteId: 1765210335895
+noteId: 1777823483396
 ---
 
 - HTTP status code for successful creation of resource.

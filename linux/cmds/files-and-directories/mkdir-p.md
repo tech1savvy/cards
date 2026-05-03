@@ -1,6 +1,6 @@
 ---
 id: mkdir-p
-noteId: 1765210328495
+noteId: 1777823475621
 ---
 
 Which command line utility option is used to create nested directories and avoid errors if parent directories already exist?

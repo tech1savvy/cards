@@ -2,7 +2,7 @@
 id: fragments
 aliases: []
 tags: []
-noteId: 1757759276143
+noteId: 1777823482321
 ---
 
 What are React Fragments and why are they useful?

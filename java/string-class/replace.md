@@ -4,7 +4,7 @@ backward:
   - "[length](length.md)"
 forward:
   - "[substring](substring.md)"
-noteId: 1765210326596
+noteId: 1777823472571
 ---
 
 How to replace characters in a string?

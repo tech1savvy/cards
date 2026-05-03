@@ -1,5 +1,6 @@
 ---
 id: react-pub-sub
+noteId: 1777823482847
 ---
 
 What is the Publish-Subscribe (Pub-Sub) design pattern in React?

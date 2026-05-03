@@ -2,7 +2,7 @@
 id: definition
 forward:
   - "[creation-with-new](creation-with-new.md)"
-noteId: 1765210325271
+noteId: 1777823471246
 ---
 
 What is an Array in Java?

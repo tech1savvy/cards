@@ -4,6 +4,7 @@ backward:
   - "[rfind](rfind.md)"
 forward:
   - "[find_last_of](find_last_of.md)"
+noteId: 1777823458271
 ---
 
 Which method finds the first character in a `std::string` that matches any character in a specified set?

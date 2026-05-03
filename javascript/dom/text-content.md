@@ -1,6 +1,6 @@
 ---
 id: text-content
-noteId: 1765210327095
+noteId: 1777823473622
 ---
 
 How to get or set the text content of an element?

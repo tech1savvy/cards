@@ -2,7 +2,7 @@
 id: instantiate
 forward:
   - "[process](process.md)"
-noteId: 1757047059659
+noteId: 1777823464373
 ---
 
 How to define a basic Django Form class?

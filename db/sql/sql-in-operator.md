@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-in-operator"
+noteId: 1777823459172
 ---
 
 ###### What is the **IN operator** in SQL?

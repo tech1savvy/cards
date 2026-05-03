@@ -1,6 +1,6 @@
 ---
 id: meta-class
-noteId: 1757759274668
+noteId: 1777823465297
 ---
 
 What is a Django model's `Meta` class and when should you use it?

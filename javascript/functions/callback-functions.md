@@ -2,6 +2,7 @@
 id: callback-functions
 aliases: []
 tags: []
+noteId: 1777823473873
 ---
 
 What is a **callback function** in JavaScript?

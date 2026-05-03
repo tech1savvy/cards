@@ -2,7 +2,7 @@
 id: semicolons
 aliases: []
 tags: []
-noteId: 1765210327321
+noteId: 1777823474021
 ---
 
 When should semicolons be used in JavaScript statements?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-order-by"
+noteId: 1777823459372
 ---
 
 ###### What is the **ORDER BY clause** in SQL?

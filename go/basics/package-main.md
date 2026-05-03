@@ -1,3 +1,7 @@
+---
+noteId: 1777823468872
+---
+
 What does `package main` mean in Go?
 
 ---

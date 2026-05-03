@@ -2,7 +2,7 @@
 id: dotenvx
 aliases: []
 tags: []
-noteId: 1765210324945
+noteId: 1777823467871
 ---
 
 # Define

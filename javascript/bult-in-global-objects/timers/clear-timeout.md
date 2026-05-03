@@ -4,6 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[set-timeout](javascript/bult-in-global-objects/timers/set-timeout.md)"
+noteId: 1777823473097
 ---
 
 How to stop a `setTimeout` timer?

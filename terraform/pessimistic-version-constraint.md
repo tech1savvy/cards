@@ -2,7 +2,7 @@
 id: pessimistic-version-constraint
 aliases: []
 tags: []
-noteId: 1765210336020
+noteId: 1777823483597
 ---
 
 Which version constraint operator to use in Terraform to allow only patch updates within a specific minor version?

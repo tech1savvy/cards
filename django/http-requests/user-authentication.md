@@ -2,7 +2,7 @@
 id: user-authentication
 aliases: []
 tags: []
-noteId: 1757047059984
+noteId: 1777823464847
 ---
 
 How do you access the currently logged-in user in a Django request object (if authentication is enabled)?

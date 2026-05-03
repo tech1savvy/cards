@@ -2,7 +2,7 @@
 id: creation
 aliases: []
 tags: []
-noteId: 1757047061759
+noteId: 1777823467646
 ---
 
 How to define a class based view in Django?

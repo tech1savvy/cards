@@ -2,7 +2,7 @@
 id: attributes
 aliases: []
 tags: []
-noteId: 1757047059809
+noteId: 1777823464672
 ---
 
 List attributes of HTTP Request object passed to a view.

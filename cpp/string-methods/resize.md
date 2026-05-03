@@ -4,6 +4,7 @@ backward:
   - "[clear](clear.md)"
 forward:
   - "[comparison](comparison.md)"
+noteId: 1777823458446
 ---
 
 How do you change the size of a `std::string`?

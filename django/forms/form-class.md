@@ -2,7 +2,7 @@
 id: form-class
 aliases: []
 tags: []
-noteId: 1757759273793
+noteId: 1777823463947
 ---
 
 How do you handle a form submission using Django Form classes?

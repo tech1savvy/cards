@@ -1,6 +1,6 @@
 ---
 id: rm-r
-noteId: 1765210328720
+noteId: 1777823475847
 ---
 
 Which command line utility is used to recursively remove directories and their contents?

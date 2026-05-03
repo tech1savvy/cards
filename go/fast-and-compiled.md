@@ -2,6 +2,7 @@
 id: fast-and-compiled
 aliases: []
 tags: []
+noteId: 1777823469147
 ---
 
 Why is Go considered a "Fast and Compiled" language compared to interpreted languages?

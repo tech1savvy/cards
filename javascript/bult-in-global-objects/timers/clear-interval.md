@@ -4,6 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[set-interval](javascript/bult-in-global-objects/timers/set-interval.md)"
+noteId: 1777823473072
 ---
 
 How to stop a `setInterval` timer?

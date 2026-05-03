@@ -4,6 +4,7 @@ backward:
   - "[Add Event Listener](add-event-listener.md)"
 forward:
   - "[Event Capturing](phases/event-capturing.md)"
+noteId: 1777823473372
 ---
 
 What is the Event object in JavaScript event handling?

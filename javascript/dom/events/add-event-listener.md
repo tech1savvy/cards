@@ -4,6 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[Event Object](event-object.md)"
+noteId: 1777823473321
 ---
 
 How do you attach an event listener in JavaScript?

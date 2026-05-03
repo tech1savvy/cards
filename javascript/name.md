@@ -2,7 +2,7 @@
 id: name
 aliases: []
 tags: []
-noteId: 1765210327494
+noteId: 1777823474247
 ---
 
 Why is it called JavaScript?

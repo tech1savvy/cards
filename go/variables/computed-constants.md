@@ -1,3 +1,7 @@
+---
+noteId: 1777823470446
+---
+
 What are computed constants in Go?
 
 ---

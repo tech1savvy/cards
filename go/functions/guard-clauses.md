@@ -1,3 +1,7 @@
+---
+noteId: 1777823469947
+---
+
 What are guard clauses?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1777823468672
+---
+
 What are internal packages in Go?
 
 ---

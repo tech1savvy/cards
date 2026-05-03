@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-indexes"
+noteId: 1777823459195
 ---
 
 ###### What are **indexes** in SQL?

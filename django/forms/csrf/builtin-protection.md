@@ -2,7 +2,7 @@
 id: csrf-support
 aliases: []
 tags: []
-noteId: 1757047059211
+noteId: 1777823463847
 ---
 
 How does Django provide CSRF protection for forms?

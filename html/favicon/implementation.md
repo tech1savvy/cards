@@ -7,7 +7,7 @@ tags:
   - implementation
 forward:
   - "[file-types](file-types.md)"
-noteId: 1757047062010
+noteId: 1777823470721
 ---
 
 How do you add a favicon to an HTML page?

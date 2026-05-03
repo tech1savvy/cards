@@ -1,3 +1,7 @@
+---
+noteId: 1777823470222
+---
+
 When should you use specific types vs default types in Go?
 
 ---

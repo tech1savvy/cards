@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[for-loop](for-loop.md)"
-noteId: 1765210326120
+noteId: 1777823472098
 ---
 
 What is a loop in Java?

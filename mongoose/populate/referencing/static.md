@@ -1,6 +1,6 @@
 ---
 id: static
-noteId: 1757082389780
+noteId: 1777823479847
 ---
 
 How to link a document to a specific model and populate it (e.g., `Post.author -> User`)?

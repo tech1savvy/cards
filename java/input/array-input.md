@@ -2,7 +2,7 @@
 id: array-input
 backward:
   - "[string-input](string-input.md)"
-noteId: 1765210325821
+noteId: 1777823471797
 ---
 
 How to take array input from the user in Java?

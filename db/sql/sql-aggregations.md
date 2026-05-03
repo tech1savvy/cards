@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-aggregations"
+noteId: 1777823458823
 ---
 
 ###### What are **aggregations** in SQL?

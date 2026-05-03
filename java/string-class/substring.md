@@ -2,7 +2,7 @@
 id: substring
 backward:
   - "[replace](replace.md)"
-noteId: 1765210326620
+noteId: 1777823472596
 ---
 
 How to get a substring from a string?

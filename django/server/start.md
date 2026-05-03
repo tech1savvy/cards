@@ -2,7 +2,7 @@
 id: start
 aliases: []
 tags: []
-noteId: 1757047060159
+noteId: 1777823465721
 ---
 
 CMD to run Django server

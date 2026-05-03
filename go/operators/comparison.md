@@ -1,3 +1,7 @@
+---
+noteId: 1777823470147
+---
+
 What are the comparison operators in Go?
 
 ---

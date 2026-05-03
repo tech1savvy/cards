@@ -1,6 +1,6 @@
 ---
 id: to-string
-noteId: 1765210325545
+noteId: 1777823471522
 ---
 
 How to convert a character to a String in Java?

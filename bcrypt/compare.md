@@ -2,7 +2,7 @@
 id: compare
 aliases: []
 tags: []
-noteId: 1765210322345
+noteId: 1777823456671
 ---
 
 How do you securely compare a password with a hash using bcrypt?

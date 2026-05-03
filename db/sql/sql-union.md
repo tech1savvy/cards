@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-union"
+noteId: 1777823459447
 ---
 
 ###### What is the **UNION operator** in SQL?

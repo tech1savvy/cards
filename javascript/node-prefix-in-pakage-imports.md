@@ -3,6 +3,7 @@ id: node-prefix-in-pakage-imports
 aliases:
   - node:<package_name>
 tags: []
+noteId: 1777823474271
 ---
 
 # node:<package_name>

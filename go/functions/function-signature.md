@@ -1,3 +1,7 @@
+---
+noteId: 1777823469896
+---
+
 How do I define a function in Go?
 
 ---

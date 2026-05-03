@@ -2,7 +2,7 @@
 id: definition
 forward:
   - "[concatenation](concatenation.md)"
-noteId: 1765210326545
+noteId: 1777823472521
 ---
 
 What is a String in Java?

@@ -1,7 +1,7 @@
 ---
 id: views
 aliases: []
-noteId: 1757047059134
+noteId: 1777823463597
 ---
 
 How do you handle errors in Django views?

@@ -4,6 +4,7 @@ backward:
   - "[empty](empty.md)"
 forward:
   - "[c_str](c_str.md)"
+noteId: 1777823458121
 ---
 
 How do you access a character at a specific position in a `std::string` with bounds checking?

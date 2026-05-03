@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-subqueries"
+noteId: 1777823459422
 ---
 
 ###### What are **subqueries** in SQL?

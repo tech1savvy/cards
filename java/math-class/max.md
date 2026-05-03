@@ -4,7 +4,7 @@ backward:
   - "[definition](definition.md)"
 forward:
   - "[min](min.md)"
-noteId: 1765210326321
+noteId: 1777823472297
 ---
 
 How to find the maximum of two numbers in Java?

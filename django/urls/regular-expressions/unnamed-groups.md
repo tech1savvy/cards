@@ -1,7 +1,7 @@
 ---
 id: unnamed-groups
 aliases: []
-noteId: 1757047061434
+noteId: 1777823467322
 ---
 
 How do you use unnamed groups in Django regex URLs and how are they accessed in views?

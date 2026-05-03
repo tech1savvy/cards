@@ -1,7 +1,7 @@
 ---
 id: favicon-define
 aliases: []
-noteId: 1757047061960
+noteId: 1777823470672
 ---
 
 What is a favicon?

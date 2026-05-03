@@ -4,6 +4,7 @@ aliases: []
 tags: []
 sources:
   - https://youtu.be/xj_GjnD4uyI
+noteId: 1777823480247
 ---
 
 > Networking Fundamentals

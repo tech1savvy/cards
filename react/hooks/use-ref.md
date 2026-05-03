@@ -2,6 +2,7 @@
 id: use-ref
 aliases: []
 tags: []
+noteId: 1777823482521
 ---
 
 What is the `useRef` React Hook and when should you use it?

@@ -2,7 +2,7 @@
 id: fetching-api-data-error-handling
 forward:
   - "[fetching-api-data](fetch.md)"
-noteId: 1765210333895
+noteId: 1777823481446
 ---
 
 How to handle errors when fetching API data in React using `fetch` and `res.ok`?

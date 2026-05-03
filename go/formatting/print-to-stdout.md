@@ -1,3 +1,7 @@
+---
+noteId: 1777823469497
+---
+
 How do I print a formatted string to stdout in Go?
 
 ---

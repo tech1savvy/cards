@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[useEffect](useEffect.md)"
-noteId: 1765210334271
+noteId: 1777823482597
 ---
 
 How do you perform cleanup with `useEffect`?

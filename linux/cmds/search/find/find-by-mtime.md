@@ -1,6 +1,6 @@
 ---
 id: find-by-mtime
-noteId: 1765210330771
+noteId: 1777823477896
 ---
 
 Which option to use with `find` to search for files based on their modification time?

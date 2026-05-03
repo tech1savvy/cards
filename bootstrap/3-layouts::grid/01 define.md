@@ -2,6 +2,7 @@
 id: bootstrap-grid-define
 aliases: []
 tags: []
+noteId: 1777823456973
 ---
 
 What is the Bootstrap grid system?

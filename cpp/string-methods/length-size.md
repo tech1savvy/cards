@@ -4,6 +4,7 @@ backward:
   - "[header](header.md)"
 forward:
   - "[empty](empty.md)"
+noteId: 1777823458397
 ---
 
 How can you get the number of characters in a `std::string`?

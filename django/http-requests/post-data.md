@@ -1,7 +1,7 @@
 ---
 id: post-data
 aliases: []
-noteId: 1757047059934
+noteId: 1777823464797
 ---
 
 How do you access POST form data in a Django request object?

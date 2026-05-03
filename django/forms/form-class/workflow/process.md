@@ -5,7 +5,7 @@ backward:
 forward:
   - "[binding](binding.md)"
   - "[render](render.md)"
-noteId: 1757047059709
+noteId: 1777823464422
 ---
 
 How to process a Django form in a view?

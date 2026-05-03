@@ -2,7 +2,7 @@
 id: widgets
 forward:
   - "[forms/define](../forms/define.md)"
-noteId: 1757047059460
+noteId: 1777823464296
 ---
 
 What are Django form widgets and how do they relate to HTML form elements?

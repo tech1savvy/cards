@@ -2,7 +2,7 @@
 id: login
 forward:
   - "[signup](cards/django/django-authentication/signup.md)"
-noteId: 1757759273517
+noteId: 1777823463447
 ---
 
 How to implement user login using Django Builtin Authentication?

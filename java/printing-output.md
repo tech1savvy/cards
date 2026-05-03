@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[taking-input](taking-input.md)"
-noteId: 1765210326419
+noteId: 1777823472397
 ---
 
 How to print output in Java?

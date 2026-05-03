@@ -2,7 +2,7 @@
 id: install
 aliases: []
 tags: []
-noteId: 1765210333020
+noteId: 1777823481171
 ---
 
 How to install React Router using `npm`?

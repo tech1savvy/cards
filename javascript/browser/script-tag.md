@@ -2,7 +2,7 @@
 id: external-scripts
 aliases: []
 tags: []
-noteId: 1765210326821
+noteId: 1777823472797
 ---
 
 Which option to use to include external JavaScript files in HTML?

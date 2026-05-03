@@ -4,6 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[allow-multiple-origins-with-same-config](allow-multiple-origins-with-same-config.md)"
+noteId: 1777823468347
 ---
 
 How can you configure the `cors` middleware to allow requests from multiple specific origins with different settings for each?

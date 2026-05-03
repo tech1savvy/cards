@@ -5,7 +5,7 @@ tags: []
 backward:
   - "[define](cards/django/urls/define.md)"
   - "[basic-syntax](cards/django/urls/basic-syntax.md)"
-noteId: 1757047061309
+noteId: 1777823467147
 ---
 
 How do you register an app's URLs in Django's project URLs configuration?

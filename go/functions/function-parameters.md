@@ -1,3 +1,7 @@
+---
+noteId: 1777823469872
+---
+
 Can I omit the type for multiple parameters of the same type?
 
 ---

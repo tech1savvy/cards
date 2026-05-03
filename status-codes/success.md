@@ -1,6 +1,6 @@
 ---
 id: success
-noteId: 1757759276493
+noteId: 1777823483473
 ---
 
 What is the HTTP status code for successfully returning GET data and when is it used?

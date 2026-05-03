@@ -1,5 +1,6 @@
 ---
 id: jsdoc-define
+noteId: 1777823474671
 ---
 
 What is JSDoc in JavaScript and why is it used?

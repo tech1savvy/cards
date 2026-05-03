@@ -1,6 +1,6 @@
 ---
 id: dynamic
-noteId: 1757082389756
+noteId: 1777823479822
 ---
 
 How to link a document to different models and populate it (e.g., `Comment.parent -> Post|Photo`)?

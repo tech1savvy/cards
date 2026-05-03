@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[includes](cards/django/templates/includes.md)"
 level: 1
-noteId: 1757047060384
+noteId: 1777823466196
 ---
 
 Where does Django look for templates by default?

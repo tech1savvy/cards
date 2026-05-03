@@ -1,7 +1,7 @@
 ---
 id: uuid-converter
 aliases: []
-noteId: 1757047061284
+noteId: 1777823467122
 ---
 
 How do you capture a UUID parameter in a Django URL?

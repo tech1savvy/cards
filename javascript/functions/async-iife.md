@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[IIFE](iife.md)"
-noteId: 1765210326745
+noteId: 1777823473846
 ---
 
 What is an async IIFE?

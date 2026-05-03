@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/polymorphism"
+noteId: 1777823480747
 ---
 ###### What is **polymorphism** in Python?
 ***

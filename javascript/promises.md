@@ -1,7 +1,7 @@
 ---
 id: promises
 language: "[[javascript]]"
-noteId: 1765210327647
+noteId: 1777823474422
 bootdotdev: https://www.boot.dev/lessons/4f06bdf7-8b25-4481-ab27-dc1d581b9fe6
 ---
 

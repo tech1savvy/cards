@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[inline-styles](inline-styles.md)"
-noteId: 1765210333345
+noteId: 1777823481347
 ---
 
 How can you add styles to a React component using an external CSS stylesheet?

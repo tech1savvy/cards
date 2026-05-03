@@ -5,6 +5,7 @@ tags: []
 backward:
   - "[useMemo vs useCallback](use-memo-vs-use-callback.md)"
 forward: []
+noteId: 1777823482422
 ---
 
 What is the useCallback React Hook and when should you use it?

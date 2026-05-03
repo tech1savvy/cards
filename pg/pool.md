@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[query](query.md)"
-noteId: 1765210332821
+noteId: 1777823480471
 ---
 
 How do you create a database connection pool using the `pg` library?

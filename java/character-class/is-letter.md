@@ -1,6 +1,6 @@
 ---
 id: is-letter
-noteId: 1765210325419
+noteId: 1777823471395
 ---
 
 How to check if a character is a letter in Java?

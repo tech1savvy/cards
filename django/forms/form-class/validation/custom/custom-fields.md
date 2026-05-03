@@ -2,7 +2,7 @@
 id: custom-fields
 forward:
   - "[field-specific clean](./field-clean-method.md)"
-noteId: 1757047059559
+noteId: 1777823464247
 ---
 
 Can I create a reusable custom `AgeField` to enforce minimum age (13)?

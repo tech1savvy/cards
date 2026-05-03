@@ -2,7 +2,7 @@
 id: functions-as-props
 aliases: []
 tags: []
-noteId: 1765210334546
+noteId: 1777823482947
 ---
 
 Which option to use to pass a function from a parent component to a child component in React?

@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[textarea](textarea.md)"
   - "[checkbox](checkbox.md)"
-noteId: 1757047062234
+noteId: 1777823470946
 ---
 
 How do you create a group of radio buttons in HTML with proper semantic structure?

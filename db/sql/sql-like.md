@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-like"
+noteId: 1777823459297
 ---
 
 ###### What is the **LIKE operator** in SQL?

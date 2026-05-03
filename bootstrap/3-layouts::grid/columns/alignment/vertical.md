@@ -1,5 +1,6 @@
 ---
 id: vertical-alignment-columns
+noteId: 1777823457097
 ---
 
 How can you vertically align columns within Bootstrap's grid system?

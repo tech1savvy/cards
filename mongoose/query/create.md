@@ -1,6 +1,6 @@
 ---
 id: create
-noteId: 1757759275743
+noteId: 1777823479946
 ---
 
 How do you create a document in Mongoose using a model?

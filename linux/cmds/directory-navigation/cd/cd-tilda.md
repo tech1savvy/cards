@@ -2,7 +2,7 @@
 id: cd-tilda
 aliases: []
 tags: []
-noteId: 1765210327945
+noteId: 1777823475072
 ---
 
 Which command changes the directory to the home directory?

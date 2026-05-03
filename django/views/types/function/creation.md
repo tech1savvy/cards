@@ -2,7 +2,7 @@
 id: creation
 aliases: []
 tags: []
-noteId: 1757047061859
+noteId: 1777823467747
 ---
 
 How to define a function based view?

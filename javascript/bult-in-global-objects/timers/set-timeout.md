@@ -4,6 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[clear-timeout](javascript/bult-in-global-objects/timers/clear-timeout.md)"
+noteId: 1777823473147
 ---
 
 How to execute a function once after a given delay?

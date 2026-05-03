@@ -1,6 +1,6 @@
 ---
 id: migrations
-noteId: 1757759274691
+noteId: 1777823465323
 ---
 
 What are migrations in Django and How to use them?

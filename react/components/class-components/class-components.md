@@ -2,7 +2,7 @@
 id: class-components
 aliases: []
 tags: []
-noteId: 1757759275942
+noteId: 1777823481571
 ---
 
 What are class components in React?

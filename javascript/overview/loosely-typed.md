@@ -2,7 +2,7 @@
 id: loosely-typed
 forward:
   - "[type-coercion](type-coercion.md)"
-noteId: 1765210327596
+noteId: 1777823474372
 ---
 
 What does it mean for JavaScript to be loosely typed?

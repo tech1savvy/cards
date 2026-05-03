@@ -1,6 +1,7 @@
 ---
 id: directional-margin-shorthand
 source: https://getbootstrap.com/docs/5.0/utilities/spacing/
+noteId: 1777823457197
 ---
 
 Which Bootstrap 5 margin classes are used for directional spacing, and what was the key change from Bootstrap 4 regarding left/right margins?

@@ -1,7 +1,7 @@
 ---
 id: dynamic-urls
 aliases: []
-noteId: 1757047061108
+noteId: 1777823466922
 ---
 
 How do you create dynamic URLs in Django?

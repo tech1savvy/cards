@@ -5,6 +5,7 @@ backward:
 forward:
   - "[allow-any-origin](allow-any-origin.md)"
   - "[allow-multiple-origins-with-same-config](allow-multiple-origins-with-same-config.md)"
+noteId: 1777823468420
 ---
 
 What are the most common configuration options for the `cors` middleware?

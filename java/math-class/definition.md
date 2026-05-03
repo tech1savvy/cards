@@ -2,7 +2,7 @@
 id: definition
 forward:
   - "[max](max.md)"
-noteId: 1765210326295
+noteId: 1777823472271
 ---
 
 What is the `Math` class in Java?

@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/python/inheritance"
+noteId: 1777823480721
 ---
 
 ###### What is **inheritance** in Python?

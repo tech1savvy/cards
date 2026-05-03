@@ -2,7 +2,7 @@
 id: uri-format
 aliases: []
 tags: []
-noteId: 1765210332395
+noteId: 1777823458597
 ---
 
 What is the format for a MongoDB connection URI?

@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[usage](usage.md)"
-noteId: 1765210333045
+noteId: 1777823480996
 ---
 
 How to use the `Link` component for client-side navigation in `react-router-dom`?

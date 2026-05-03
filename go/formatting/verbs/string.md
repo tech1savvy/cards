@@ -1,3 +1,7 @@
+---
+noteId: 1777823469696
+---
+
 How do I format a string in Go?
 
 ---

@@ -2,7 +2,7 @@
 id: csrf-intro
 aliases: []
 tags: []
-noteId: 1757047062185
+noteId: 1777823470897
 ---
 
 What does it mean by CSRF?

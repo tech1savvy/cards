@@ -2,7 +2,7 @@
 id: mapping
 aliases: []
 tags: []
-noteId: 1757047061784
+noteId: 1777823467672
 ---
 
 How to map a class based view to a url?

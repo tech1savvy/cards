@@ -1,3 +1,7 @@
+---
+noteId: 1777823469422
+---
+
 Why choose Go for your next project?
 
 ---

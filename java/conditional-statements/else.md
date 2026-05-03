@@ -4,7 +4,7 @@ backward:
   - "[if](if.md)"
 forward:
   - "[else-if](else-if.md)"
-noteId: 1765210325670
+noteId: 1777823471647
 ---
 
 How to use the `else` statement in Java?

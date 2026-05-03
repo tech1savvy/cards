@@ -4,6 +4,7 @@ backward:
   - "[insert](insert.md)"
 forward:
   - "[erase](erase.md)"
+noteId: 1777823458422
 ---
 
 How do you replace a portion of a `std::string` with another substring?

@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[iterating-over-string](iterating-over-string.md)"
-noteId: 1765210325745
+noteId: 1777823471721
 ---
 
 How to convert a string to a character array in Java?

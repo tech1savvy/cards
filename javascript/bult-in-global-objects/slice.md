@@ -1,5 +1,6 @@
 ---
 id: slice
+noteId: 1777823472996
 ---
 
 How to extract a portion of an array or string?

@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[events-in-react](cards/react/events/events.md)"
-noteId: 1765210333795
+noteId: 1777823482096
 ---
 
 What is a event object parameter and how it is passed React event handlers?

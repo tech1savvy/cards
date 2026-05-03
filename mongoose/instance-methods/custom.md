@@ -4,7 +4,7 @@ aliases: []
 tags: []
 forward:
   - "[isModified](isModified.md)"
-noteId: 1765210332495
+noteId: 1777823479596
 ---
 
 What are instance methods in Mongoose and how are they defined?

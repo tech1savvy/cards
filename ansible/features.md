@@ -1,6 +1,6 @@
 ---
 id: features
-noteId: 1765210321770
+noteId: 1777823456371
 ---
 
 What are the key features of Ansible?

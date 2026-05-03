@@ -1,7 +1,7 @@
 ---
 id: http-method
 aliases: []
-noteId: 1757047059909
+noteId: 1777823464772
 ---
 
 How do you get the HTTP method (GET, POST, etc.) from a Django request object?

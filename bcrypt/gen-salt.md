@@ -2,7 +2,7 @@
 id: gen-salt
 forward:
   - "[hash](hash.md)"
-noteId: 1765210322370
+noteId: 1777823456696
 ---
 
 How do you generate a salt for password hashing using `bcrypt`?

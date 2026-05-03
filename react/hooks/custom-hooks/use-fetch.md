@@ -6,7 +6,7 @@ backward:
   - "[useEffect](useEffect/useEffect.md)"
 forward:
   - "[fetching-api-data](fetching-api-data/fetch.md)"
-noteId: 1765210334195
+noteId: 1777823482396
 ---
 
 How to create a reusable custom hook for fetching data in React, including loading and error states?

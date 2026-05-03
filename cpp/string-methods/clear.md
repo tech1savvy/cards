@@ -4,6 +4,7 @@ backward:
   - "[erase](erase.md)"
 forward:
   - "[resize](resize.md)"
+noteId: 1777823458171
 ---
 
 How do you remove all characters from a `std::string`?

@@ -2,7 +2,7 @@
 id: dotenv
 aliases: []
 tags: []
-noteId: 1765210324921
+noteId: 1777823467847
 ---
 
 # Getting Started

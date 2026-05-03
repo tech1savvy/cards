@@ -4,7 +4,7 @@ backward:
   - "[overview](django/models/field-options/overview.md)"
 forward:
   - "[verbose-name-relations](django/models/field-options/verbose-name-relations.md)"
-noteId: 1757759274543
+noteId: 1777823465172
 ---
 
 What is a field’s `verbose_name` in Django?

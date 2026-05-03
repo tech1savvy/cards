@@ -1,7 +1,7 @@
 ---
 id: for
 aliases: []
-noteId: 1757047060733
+noteId: 1777823466546
 ---
 
 How do you create loops in Django templates?

@@ -2,7 +2,7 @@
 id: rendering-lists
 aliases: []
 tags: []
-noteId: 1765210334670
+noteId: 1777823483097
 ---
 
 How to dynamically render a list of items from an array in React?

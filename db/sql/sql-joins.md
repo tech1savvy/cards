@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-joins"
+noteId: 1777823459272
 ---
 
 ###### What is a **JOIN** in SQL?

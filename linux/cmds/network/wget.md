@@ -2,7 +2,7 @@
 id: wget
 aliases: []
 tags: []
-noteId: 1765210329295
+noteId: 1777823476421
 ---
 
 Which command is used for downloading files from the internet?

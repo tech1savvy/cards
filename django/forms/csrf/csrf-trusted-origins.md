@@ -2,7 +2,7 @@
 id: csrf-trusted-origins
 aliases: []
 tags: []
-noteId: 1757047059233
+noteId: 1777823463872
 ---
 
 What is CSRF_TRUSTED_ORIGINS in Django and when should it be used?

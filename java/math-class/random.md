@@ -2,7 +2,7 @@
 id: random
 backward:
   - "[min](min.md)"
-noteId: 1765210326369
+noteId: 1777823472347
 ---
 
 How to generate a random number in Java?

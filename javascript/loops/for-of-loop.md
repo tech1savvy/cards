@@ -1,5 +1,6 @@
 ---
 id: for-of-loop
+noteId: 1777823474147
 ---
 
 What is the `for...of` loop in JavaScript and when should you use it?

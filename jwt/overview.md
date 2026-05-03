@@ -2,7 +2,8 @@
 id: jwt/overview
 aliases: []
 tags:
-  - #flashcards/jwt/concepts
+  - null
+noteId: 1777823474771
 ---
 
 ###### Why are JWTs secure for stateless authentication?

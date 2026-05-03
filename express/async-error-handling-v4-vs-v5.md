@@ -3,6 +3,7 @@ id: async-error-handling-v4-vs-v5
 aliases:
   - Express Async Error Handling (v4 vs v5)
 tags: []
+noteId: 1777823467947
 ---
 
 # Express Async Error Handling (v4 vs v5)

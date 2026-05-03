@@ -2,7 +2,7 @@
 id: strict-mode
 aliases: []
 tags: []
-noteId: 1765210334694
+noteId: 1777823483146
 ---
 
 What is React Strict Mode?

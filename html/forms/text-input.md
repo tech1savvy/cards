@@ -5,7 +5,7 @@ tags: []
 forward:
   - "[container](container.md)"
   - "[textarea](textarea.md)"
-noteId: 1757047062309
+noteId: 1777823471021
 ---
 
 How do you create a text input field in HTML with proper labeling and autocomplete?

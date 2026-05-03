@@ -2,7 +2,7 @@
 id: json-response
 aliases: []
 tags: []
-noteId: 1757759275468
+noteId: 1777823468446
 ---
 
 How to return JSON data to a request in Express?

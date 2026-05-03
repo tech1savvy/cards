@@ -4,7 +4,7 @@ aliases: []
 tags: []
 backward:
   - "[class-components](class-components.md)"
-noteId: 1757759275969
+noteId: 1777823481596
 ---
 
 What are the lifecycle phases and methods in a React class component?

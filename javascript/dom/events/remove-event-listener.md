@@ -2,6 +2,7 @@
 id: remove-event-listener
 backward:
   - "[Event Bubbling](phases/event-bubbling.md)"
+noteId: 1777823473521
 ---
 
 How do you remove an event listener in JavaScript?

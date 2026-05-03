@@ -1,3 +1,7 @@
+---
+noteId: 1777823470321
+---
+
 What is a rune in Go?
 
 ---

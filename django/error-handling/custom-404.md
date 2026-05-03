@@ -2,7 +2,7 @@
 id: custom-404
 aliases: []
 tags: []
-noteId: 1757047059109
+noteId: 1777823463572
 ---
 
 How do you automatically redirect all 404 errors to a custom view in Django?

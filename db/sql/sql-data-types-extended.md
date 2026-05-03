@@ -1,6 +1,7 @@
 ---
 tags:
   - "#flashcards/sql-data-types"
+noteId: 1777823459021
 ---
 
 ###### What are the **integer data types** in SQL?

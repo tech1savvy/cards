@@ -1,7 +1,7 @@
 ---
 id: headers-meta
 aliases: []
-noteId: 1757047059884
+noteId: 1777823464747
 ---
 
 How do you access HTTP headers and environment variables in a Django request object?

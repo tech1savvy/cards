@@ -2,7 +2,7 @@
 id: main-method
 aliases: []
 tags: []
-noteId: 1765210326221
+noteId: 1777823472196
 ---
 
 What is the entry point of a Java program and what is its syntax?
