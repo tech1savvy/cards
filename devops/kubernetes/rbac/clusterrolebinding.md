@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544019
+noteId: 1778320499415
 ---
 
 ### What is a ClusterRoleBinding in Kubernetes?

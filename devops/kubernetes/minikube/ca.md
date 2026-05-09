@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544028
+noteId: 1778320498866
 ---
 
 ### How do I find the Minikube CA certificate and key paths?

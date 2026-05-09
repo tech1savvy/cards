@@ -1,3 +1,7 @@
+---
+noteId: 1778320498490
+---
+
 ### How do I install a Helm chart?
 
 ---

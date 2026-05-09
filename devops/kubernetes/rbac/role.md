@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544016
+noteId: 1778320499439
 ---
 
 ### What is a Role in Kubernetes?

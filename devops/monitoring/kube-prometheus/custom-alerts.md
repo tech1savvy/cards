@@ -1,3 +1,7 @@
+---
+noteId: 1778320499815
+---
+
 ### How do I add custom high CPU and memory alerts via kube-prometheus-stack Helm values?
 
 ---

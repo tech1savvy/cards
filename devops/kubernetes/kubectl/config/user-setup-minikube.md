@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544027
+noteId: 1778320498766
 ---
 
 ### How do I set up a new user with client certificates in a minikube cluster?

@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544021
+noteId: 1778320498790
 ---
 
 ### How do I view the current kubeconfig?

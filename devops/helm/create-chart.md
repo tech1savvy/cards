@@ -1,3 +1,7 @@
+---
+noteId: 1778320498440
+---
+
 ### How do I create a new Helm chart?
 
 ---

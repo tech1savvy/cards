@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544006
+noteId: 1778320499115
 ---
 
 ### What are the Ingress path types?

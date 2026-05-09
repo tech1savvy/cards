@@ -1,3 +1,7 @@
+---
+noteId: 1778320498565
+---
+
 ### How do I upgrade a Helm release after changes?
 
 ---

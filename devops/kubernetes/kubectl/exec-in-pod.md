@@ -1,3 +1,7 @@
+---
+noteId: 1778320498816
+---
+
 ### How do I execute a command inside a pod or enter its terminal?
 
 ---

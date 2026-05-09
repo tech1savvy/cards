@@ -1,3 +1,7 @@
+---
+noteId: 1778320500040
+---
+
 ### How do I get the total number of running Pods per namespace?
 
 ---

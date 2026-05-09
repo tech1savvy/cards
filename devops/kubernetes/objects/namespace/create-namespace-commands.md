@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544011
+noteId: 1778320499140
 ---
 
 ### How do I create a Namespace imperatively with kubectl?

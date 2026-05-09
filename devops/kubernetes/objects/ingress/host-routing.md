@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544003
+noteId: 1778320499041
 ---
 
 ### How do I configure host-based routing in Ingress?

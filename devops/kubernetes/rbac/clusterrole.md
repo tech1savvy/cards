@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544017
+noteId: 1778320499389
 ---
 
 ### What is a ClusterRole in Kubernetes?

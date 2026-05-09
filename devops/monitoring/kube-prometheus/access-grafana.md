@@ -1,3 +1,7 @@
+---
+noteId: 1778320499790
+---
+
 ### How do I access Grafana after deploying kube-prometheus stack?
 
 ---

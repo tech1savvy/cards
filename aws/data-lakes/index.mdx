@@ -1,0 +1,155 @@
+# Data Lakes on AWS — Study Order
+
+Cards ordered by natural learning progression: lake concept → storage → fill it → organize → transform → query → govern → visualize → architect.
+
+---
+
+### introduction/ — Data Lake Fundamentals
+
+- data-lake-definition.md
+- data-warehouse-definition.md
+- data-lake-vs-data-warehouse/data-warehouse-and-database-disadvantage.md
+- data-lake-vs-data-warehouse/schema-on-write-vs-schema-on-read.md
+- data-lake-vs-data-warehouse/cost-comparison.md
+- data-lake-vs-data-warehouse/data-quality-guardrails.md
+- data-lake-vs-data-warehouse/target-users.md
+- advantages/real-time-answers.md
+- advantages/democratization-of-data.md
+- data-lake-functions.md
+- data-swamp.md
+
+### storage/ — Amazon S3
+
+- core-component.md
+- separation-of-storage-compute.md
+- s3-strengths.md
+- s3-storage-zones.md
+- s3-lifecycle-management.md
+
+### Root-level cards
+
+- data-value-progression.md
+- data-types.md
+
+### ingestion/ — Getting Data In
+
+- data-pipeline-overview.md
+- three-data-ingestion-types.md
+- data-ingestion-services.md
+- file-ingestion/file-ingestion-services.md
+- file-ingestion/amazon-appflow.md
+- file-ingestion/aws-transfer-family.md
+- file-ingestion/aws-snow-family.md
+- database-ingestion/transactional-data-ingestion.md
+- database-ingestion/aws-dms.md
+- database-ingestion/aws-sct.md
+- streaming-ingestion/streaming-data-ingestion.md
+- streaming-ingestion/amazon-kinesis.md
+- streaming-ingestion/kinesis-architecture.md
+- raw-vs-transformed-data.md
+
+### cataloging/ — AWS Glue Data Catalog
+
+- purpose-of-cataloging.md
+- glue-catalog/aws-glue-data-catalog.md
+- glue-catalog/glue-table-location.md
+- crawlers/glue-crawler.md
+- crawlers/crawler-data-sources.md
+- crawlers/glue-classifiers.md
+- crawlers/schema-inference.md
+
+### processing/ — Transforming & Managing Data
+
+- data-management/data-management-best-practices.md
+- data-formats/columnar-data-formats.md
+- data-formats/row-vs-columnar-storage.md
+- data-formats/convert-to-columnar-glue.md
+- data-formats/parquet-sorted-column-optimization.md
+- data-management/partitioning.md
+- data-management/partition-granularity.md
+- data-management/compression.md
+- data-management/compaction.md
+- data-management/encryption-s3.md
+- data-management/raw-data-query-cost.md
+- glue-etl/non-uniform-data-problem.md
+- glue-etl/glue-etl-basics.md
+- glue-etl/glue-etl-phases.md
+- glue-etl/glue-etl-serverless.md
+- glue-etl/glue-job-definition.md
+- glue-etl/glue-job-triggers.md
+- glue-etl/glue-lambda-trigger.md
+- glue-etl/glue-scripting-environments.md
+- glue-etl/glue-script-authoring-options.md
+- glue-etl/glue-studio-pii-detection-transforms.md
+- glue-etl/glue-studio-visual-workflow.md
+- glue-etl/glue-data-masking.md
+- glue-databrew.md
+- glue-databrew-profiler.md
+- glue-databrew-data-quality-rules.md
+- glue-workflows/glue-workflows.md
+- glue-workflows/glue-workflow-benefits.md
+
+### querying/ — Amazon Athena
+
+- athena-basics/amazon-athena-overview.md
+- athena-basics/athena-serverless-queries.md
+- athena-basics/athena-pricing.md
+- athena-basics/athena-supported-formats.md
+- athena-basics/athena-glue-relationship.md
+- federated-queries/athena-federated-queries.md
+- federated-queries/athena-federated-query-overview.md
+- federated-queries/athena-federated-query-lambda.md
+- federated-queries/athena-federated-query-performance.md
+- federated-queries/athena-federated-query-security.md
+- integrations/athena-lambda-integration.md
+- integrations/athena-quicksight-integration.md
+
+### formation/ — AWS Lake Formation
+
+- aws-lake-formation-overview.md
+- lake-formation-core-goals.md
+- lake-formation-three-steps.md
+- blueprints-workflows/lake-formation-blueprint-concept.md
+- blueprints-workflows/lake-formation-blueprint-setup.md
+- blueprints-workflows/lake-formation-blueprints.md
+- blueprints-workflows/lake-formation-workflow-definition.md
+- permissions/lake-formation-permissions-model.md
+- permissions/lake-formation-permissions-workflow.md
+- permissions/lake-formation-fine-grained-acl.md
+- permissions/lake-formation-credential-vending.md
+- permissions/lake-formation-hybrid-access-mode.md
+- permissions/lake-formation-lf-tags.md
+- permissions/lake-formation-suggested-roles.md
+- permissions/lake-formation-security.md
+- permissions/lake-formation-cross-account-sharing.md
+- permissions/lake-formation-data-sharing.md
+
+### visualization/ — Amazon QuickSight
+
+- amazon-quicksight-overview.md
+
+### architectures/ — Architecture & Governance
+
+- data-gravity.md
+- data-lake-monitoring.md
+- data-movement/data-movement-scenarios-overview.md
+- data-movement/inside-out-data-movement.md
+- data-movement/inside-out-neptune-example.md
+- data-movement/outside-in-data-movement.md
+- data-movement/outside-in-gaming-example.md
+- data-movement/around-perimeter-data-movement.md
+- data-movement/around-perimeter-reporting-example.md
+- data-movement/hybrid-migration-pattern.md
+- data-movement/data-movement-modern-architecture.md
+- modern-architecture/modern-data-architecture-categories.md
+- modern-architecture/modern-data-architecture-outcomes.md
+- modern-architecture/scalable-data-lake-services.md
+- modern-architecture/purpose-built-analytics-services.md
+- modern-architecture/unified-data-access-services.md
+- modern-architecture/performance-cost-effectiveness.md
+- data-mesh/data-mesh.md
+- data-mesh/data-mesh-multi-account.md
+- data-mesh/data-as-a-product.md
+- data-mesh/amazon-data-zone.md
+- well-architected/well-architected-framework.md
+- well-architected/data-analytics-lens.md

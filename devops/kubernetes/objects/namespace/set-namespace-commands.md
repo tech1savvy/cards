@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544013
+noteId: 1778320499165
 ---
 
 ### How do I set the namespace for a kubectl command imperatively?

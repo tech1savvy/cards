@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544007
+noteId: 1778320499016
 ---
 
 ### How do I use annotations to configure Ingress behavior?

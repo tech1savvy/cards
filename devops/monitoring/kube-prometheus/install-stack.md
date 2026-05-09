@@ -1,3 +1,7 @@
+---
+noteId: 1778320499865
+---
+
 ### How do I install kube-prometheus stack using Helm?
 
 ---

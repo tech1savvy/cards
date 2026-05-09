@@ -1,3 +1,7 @@
+---
+noteId: 1778320499665
+---
+
 ### How do I install VPA in Minikube?
 
 ---

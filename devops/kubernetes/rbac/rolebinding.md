@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544018
+noteId: 1778320499465
 ---
 
 ### What is a RoleBinding in Kubernetes?

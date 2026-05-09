@@ -1,3 +1,7 @@
+---
+noteId: 1778320499216
+---
+
 ### How do I enable dynamic provisioning in Minikube?
 
 ---

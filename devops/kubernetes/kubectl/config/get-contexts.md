@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544024
+noteId: 1778320498664
 ---
 
 ### How do I list all contexts in kubeconfig?

@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544004
+noteId: 1778320499091
 ---
 
 ### How do I configure path-based routing in Ingress?

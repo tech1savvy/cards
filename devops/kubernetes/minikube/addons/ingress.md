@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544010
+noteId: 1778320498841
 ---
 
 ### How do I enable the Ingress addon in Minikube?

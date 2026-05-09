@@ -1,3 +1,7 @@
+---
+noteId: 1778320498515
+---
+
 ### How do I see what Helm releases are deployed?
 
 ---

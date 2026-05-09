@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544023
+noteId: 1778320498741
 ---
 
 ### How do I switch between contexts with kubectl?

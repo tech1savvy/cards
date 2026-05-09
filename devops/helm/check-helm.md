@@ -1,3 +1,7 @@
+---
+noteId: 1778320498415
+---
+
 ### How do I check if Helm is installed?
 
 ---

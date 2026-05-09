@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544026
+noteId: 1778320498715
 ---
 
 ### How do I add user credentials to kubeconfig?

@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544014
+noteId: 1778320499515
 ---
 
 ### What is RBAC in Kubernetes?

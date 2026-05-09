@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544012
+noteId: 1778320498940
 ---
 
 ### How do I update a Deployment image imperatively with kubectl?

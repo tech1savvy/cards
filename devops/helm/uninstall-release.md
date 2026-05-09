@@ -1,3 +1,7 @@
+---
+noteId: 1778320498541
+---
+
 ### How do I uninstall a Helm release?
 
 ---

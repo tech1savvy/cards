@@ -1,3 +1,7 @@
+---
+noteId: 1778320499990
+---
+
 ### How do I get average CPU usage across all nodes?
 
 ---

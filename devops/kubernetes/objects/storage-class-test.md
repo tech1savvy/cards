@@ -1,3 +1,7 @@
+---
+noteId: 1778320499241
+---
+
 ### How do I verify storage actually works inside a pod?
 
 ---

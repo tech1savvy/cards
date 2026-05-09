@@ -1,3 +1,7 @@
+---
+noteId: 1778320499615
+---
+
 ### How do I enable metrics-server for VPA in Minikube?
 
 ---

@@ -1,5 +1,5 @@
 ---
-noteId: 1777803544022
+noteId: 1778320498691
 ---
 
 ### How do I create a new context in kubeconfig?
