@@ -1,9 +1,11 @@
 ---
 noteId: 1778320495941
+forward:
+  - "[[aws-sct]]"
 ---
 
-###### What is AWS Database Migration Service (DMS)?
+# What is AWS Database Migration Service (DMS)?
 
 ---
 
-A managed migration and replication service that moves databases to AWS with minimal downtime and zero data loss. Supports 20+ database engines.
+- A managed migration and replication service that moves databases to AWS with minimal downtime and zero data loss. Supports 20+ database engines.

@@ -1,9 +1,12 @@
 ---
 noteId: 1778320498341
+forward:
+  - "[[data-gravity]]"
 ---
 
-###### What problem does Amazon QuickSight solve?
+# What problem does Amazon QuickSight solve?
 
 ---
 
-Empowers non-technical users to create their own charts, graphs, and dashboards without relying on a data team. Democratizes data visualization so anyone can present data-backed insights in meetings.
+- Empowers non-technical users to create their own charts, graphs, and dashboards without relying on a data team.
+- Democratizes data visualization so anyone can present data-backed insights in meetings.

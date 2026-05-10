@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "384c7af437e1b31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfbe5aba8a46c697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7db157cd1fca8a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fine-tuning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "325e5791dd6f8a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "654f78ba0e084848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ef2c18da61670e",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "2cea2d55e302b11e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "edee225b9f1449c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8adf389b9a80daa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.5078125
+  },
+  "right": {
+    "id": "1e013f3c07534966",
+    "type": "split",
+    "children": [
+      {
+        "id": "974080476a29a185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85bca4f5b6260abd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "200e1be0d7e6e1a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "21fa72921abf9d00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of fine-tuning"
+            }
+          },
+          {
+            "id": "d8c4f8def59cafb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "aws/ai-ml/bedrock/fine-tuning.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for fine-tuning"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d8af328b4a90c555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc7c8a667019ec68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for fine-tuning"
+            }
+          },
+          {
+            "id": "abe7337222654c34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from fine-tuning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "d7db157cd1fca8a6",
+  "lastOpenFiles": [
+    "aws/ai-ml/bedrock/continued-pre-training.md",
+    "aws/ai-ml/q-developer/amazon-q-troubleshooting.md",
+    "aws/ai-ml/q-developer/amazon-q-connect.md",
+    "aws/data-lakes/architectures/modern-architecture/modern-data-architecture-categories.md",
+    "aws/data-lakes/data-lake.zip",
+    "aws/data-lakes/ass.zip",
+    "aws/data-lakes/zibpHhny",
+    "aws/meta/index.mdx",
+    "aws/index.mdx",
+    "aws/case-studies/index.mdx",
+    "aws/ai-ml/index.mdx",
+    "aws/monitoring-observability/index.mdx",
+    "aws/security-identity/index.mdx",
+    "aws/analytics/index.mdx",
+    "aws/meta/weekly-topics.md",
+    "aws/meta/week-4-account-governance.md",
+    "aws/meta/week-3-hybrid-container-architecture.md",
+    "aws/meta/week-2-serverless-data-analytics.md",
+    "aws/meta/week-1-roles.md",
+    "aws/meta/support-learning-process.md",
+    "aws/meta/real-world-context.md",
+    "aws/meta/overview.md",
+    "aws/meta/learning-strategy.md",
+    "aws/meta/learning-methodology.md",
+    "aws/meta/course-approach.md",
+    "aws/meta/architecture-process.md",
+    "aws/databases/database-selection/database-storage-options.md",
+    "aws/compute/api-gateway/api-types.md",
+    "aws/compute/api-gateway/amazon-api-gateway.md",
+    "aws/compute/api-gateway/api-gateway-entry-point.md",
+    "aws/quizzes/Week 4 Quiz - Monitoring and Optimization.md",
+    "aws/quizzes/Week 3 Quiz - Storage & Databases.md",
+    "aws/quizzes/Week 2 Quiz - Compute & Networking.md",
+    "aws/quizzes/Week 1 Quiz - Getting Started with AWS Cloud.md",
+    "aws/quizzes/End of Course Assessment.md",
+    "aws/recap/04-week-4-enterprise-governance.md"
+  ]
+}

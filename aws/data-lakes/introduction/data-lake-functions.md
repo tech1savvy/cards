@@ -1,8 +1,10 @@
 ---
 noteId: 1778320496390
+forward:
+  - "[[data-swamp]]"
 ---
 
-###### What are the core functions of a data lake?
+# What are the core functions of a data lake?
 
 ---
 

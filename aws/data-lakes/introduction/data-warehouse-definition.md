@@ -1,12 +1,14 @@
 ---
 noteId: 1778320496640
+forward:
+  - "[[data-warehouse-and-database-disadvantage]]"
 ---
 
-###### What is a data warehouse?
+# What is a data warehouse?
 
 ---
 
-A relational database that holds massive amounts of structured data. Data must fit predefined rules and schemas before loading.
+- A relational database that holds massive amounts of structured data. Data must fit predefined rules and schemas before loading.
 
 ---
 

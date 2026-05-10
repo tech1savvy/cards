@@ -6,150 +6,146 @@ Cards ordered by natural learning progression: lake concept → storage → fill
 
 ### introduction/ — Data Lake Fundamentals
 
-- data-lake-definition.md
-- data-warehouse-definition.md
-- data-lake-vs-data-warehouse/data-warehouse-and-database-disadvantage.md
-- data-lake-vs-data-warehouse/schema-on-write-vs-schema-on-read.md
-- data-lake-vs-data-warehouse/cost-comparison.md
-- data-lake-vs-data-warehouse/data-quality-guardrails.md
-- data-lake-vs-data-warehouse/target-users.md
-- advantages/real-time-answers.md
-- advantages/democratization-of-data.md
-- data-lake-functions.md
-- data-swamp.md
+- [data-lake-definition](introduction/data-lake-definition.md)
+- [data-warehouse-definition](introduction/data-warehouse-definition.md)
+- [data-lake-vs-data-warehouse/data-warehouse-and-database-disadvantage](introduction/data-lake-vs-data-warehouse/data-warehouse-and-database-disadvantage.md)
+- [data-lake-vs-data-warehouse/schema-on-write-vs-schema-on-read](introduction/data-lake-vs-data-warehouse/schema-on-write-vs-schema-on-read.md)
+- [data-lake-vs-data-warehouse/cost-comparison](introduction/data-lake-vs-data-warehouse/cost-comparison.md)
+- [data-lake-vs-data-warehouse/data-quality-guardrails](introduction/data-lake-vs-data-warehouse/data-quality-guardrails.md)
+- [data-lake-vs-data-warehouse/target-users](introduction/data-lake-vs-data-warehouse/target-users.md)
+- [advantages/real-time-answers](introduction/advantages/real-time-answers.md)
+- [advantages/democratization-of-data](introduction/advantages/democratization-of-data.md)
+- [data-lake-functions](introduction/data-lake-functions.md)
+- [data-swamp](introduction/data-swamp.md)
+- [data-types](introduction/data-types.md)
+- [data-pipeline-overview](introduction/data-pipeline-overview.md)
 
 ### storage/ — Amazon S3
 
-- core-component.md
-- separation-of-storage-compute.md
-- s3-strengths.md
-- s3-storage-zones.md
-- s3-lifecycle-management.md
-
-### Root-level cards
-
-- data-value-progression.md
-- data-types.md
+- [core-component](storage/core-component.md)
+- [separation-of-storage-compute](storage/separation-of-storage-compute.md)
+- [s3-strengths](storage/s3-strengths.md)
+- [s3-storage-zones](storage/s3-storage-zones.md)
+- [s3-lifecycle-management](storage/s3-lifecycle-management.md)
 
 ### ingestion/ — Getting Data In
 
-- data-pipeline-overview.md
-- three-data-ingestion-types.md
-- data-ingestion-services.md
-- file-ingestion/file-ingestion-services.md
-- file-ingestion/amazon-appflow.md
-- file-ingestion/aws-transfer-family.md
-- file-ingestion/aws-snow-family.md
-- database-ingestion/transactional-data-ingestion.md
-- database-ingestion/aws-dms.md
-- database-ingestion/aws-sct.md
-- streaming-ingestion/streaming-data-ingestion.md
-- streaming-ingestion/amazon-kinesis.md
-- streaming-ingestion/kinesis-architecture.md
-- raw-vs-transformed-data.md
+- [three-data-ingestion-types](ingestion/three-data-ingestion-types.md)
+- [data-ingestion-services](ingestion/data-ingestion-services.md)
+- [file-ingestion/file-ingestion-services](ingestion/file-ingestion/file-ingestion-services.md)
+- [file-ingestion/amazon-appflow](ingestion/file-ingestion/amazon-appflow.md)
+- [file-ingestion/aws-transfer-family](ingestion/file-ingestion/aws-transfer-family.md)
+- [file-ingestion/aws-snow-family](ingestion/file-ingestion/aws-snow-family.md)
+- [database-ingestion/transactional-data-ingestion](ingestion/database-ingestion/transactional-data-ingestion.md)
+- [database-ingestion/aws-dms](ingestion/database-ingestion/aws-dms.md)
+- [database-ingestion/aws-sct](ingestion/database-ingestion/aws-sct.md)
+- [streaming-ingestion/streaming-data-ingestion](ingestion/streaming-ingestion/streaming-data-ingestion.md)
+- [streaming-ingestion/amazon-kinesis](ingestion/streaming-ingestion/amazon-kinesis.md)
+- [streaming-ingestion/kinesis-architecture](ingestion/streaming-ingestion/kinesis-architecture.md)
+- [raw-vs-transformed-data](ingestion/raw-vs-transformed-data.md)
 
 ### cataloging/ — AWS Glue Data Catalog
 
-- purpose-of-cataloging.md
-- glue-catalog/aws-glue-data-catalog.md
-- glue-catalog/glue-table-location.md
-- crawlers/glue-crawler.md
-- crawlers/crawler-data-sources.md
-- crawlers/glue-classifiers.md
-- crawlers/schema-inference.md
+- [purpose-of-cataloging](cataloging/purpose-of-cataloging.md)
+- [glue-catalog/aws-glue-data-catalog](cataloging/glue-catalog/aws-glue-data-catalog.md)
+- [glue-catalog/glue-table-location](cataloging/glue-catalog/glue-table-location.md)
+- [crawlers/glue-crawler](cataloging/crawlers/glue-crawler.md)
+- [crawlers/crawler-data-sources](cataloging/crawlers/crawler-data-sources.md)
+- [crawlers/glue-classifiers](cataloging/crawlers/glue-classifiers.md)
+- [crawlers/schema-inference](cataloging/crawlers/schema-inference.md)
 
 ### processing/ — Transforming & Managing Data
 
-- data-management/data-management-best-practices.md
-- data-formats/columnar-data-formats.md
-- data-formats/row-vs-columnar-storage.md
-- data-formats/convert-to-columnar-glue.md
-- data-formats/parquet-sorted-column-optimization.md
-- data-management/partitioning.md
-- data-management/partition-granularity.md
-- data-management/compression.md
-- data-management/compaction.md
-- data-management/encryption-s3.md
-- data-management/raw-data-query-cost.md
-- glue-etl/non-uniform-data-problem.md
-- glue-etl/glue-etl-basics.md
-- glue-etl/glue-etl-phases.md
-- glue-etl/glue-etl-serverless.md
-- glue-etl/glue-job-definition.md
-- glue-etl/glue-job-triggers.md
-- glue-etl/glue-lambda-trigger.md
-- glue-etl/glue-scripting-environments.md
-- glue-etl/glue-script-authoring-options.md
-- glue-etl/glue-studio-pii-detection-transforms.md
-- glue-etl/glue-studio-visual-workflow.md
-- glue-etl/glue-data-masking.md
-- glue-databrew.md
-- glue-databrew-profiler.md
-- glue-databrew-data-quality-rules.md
-- glue-workflows/glue-workflows.md
-- glue-workflows/glue-workflow-benefits.md
+- [data-value-progression](processing/data-value-progression.md)
+- [data-formats/columnar-data-formats](processing/data-formats/columnar-data-formats.md)
+- [data-formats/row-vs-columnar-storage](processing/data-formats/row-vs-columnar-storage.md)
+- [data-formats/convert-to-columnar-glue](processing/data-formats/convert-to-columnar-glue.md)
+- [data-formats/parquet-sorted-column-optimization](processing/data-formats/parquet-sorted-column-optimization.md)
+- [data-management/partitioning](processing/data-management/partitioning.md)
+- [data-management/partition-granularity](processing/data-management/partition-granularity.md)
+- [data-management/compression](processing/data-management/compression.md)
+- [data-management/compaction](processing/data-management/compaction.md)
+- [data-management/encryption-s3](processing/data-management/encryption-s3.md)
+- [data-management/best-practices](processing/data-management/best-practices.md)
+- [data-management/raw-data-query-cost](processing/data-management/raw-data-query-cost.md)
+- [glue-etl/non-uniform-data-problem](processing/glue-etl/non-uniform-data-problem.md)
+- [glue-etl/glue-etl-basics](processing/glue-etl/glue-etl-basics.md)
+- [glue-etl/glue-etl-phases](processing/glue-etl/glue-etl-phases.md)
+- [glue-etl/glue-etl-serverless](processing/glue-etl/glue-etl-serverless.md)
+- [glue-etl/glue-jobs/definition](processing/glue-etl/glue-jobs/definition.md)
+- [glue-etl/glue-jobs/triggers](processing/glue-etl/glue-jobs/triggers.md)
+- [glue-etl/glue-jobs/lambda-trigger](processing/glue-etl/glue-jobs/lambda-trigger.md)
+- [glue-etl/glue-scripting-environments](processing/glue-etl/glue-scripting-environments.md)
+- [glue-etl/glue-script-authoring-options](processing/glue-etl/glue-script-authoring-options.md)
+- [glue-etl/glue-data-masking](processing/glue-etl/glue-data-masking.md)
+- [glue-etl/glue-studio-visual-workflow](processing/glue-etl/glue-studio-visual-workflow.md)
+- [glue-etl/glue-studio-pii-detection-transforms](processing/glue-etl/glue-studio-pii-detection-transforms.md)
+- [glue-databrew/glue-databrew](processing/glue-databrew/glue-databrew.md)
+- [glue-databrew/glue-databrew-profiler](processing/glue-databrew/glue-databrew-profiler.md)
+- [glue-databrew/glue-databrew-data-quality-rules](processing/glue-databrew/glue-databrew-data-quality-rules.md)
+- [glue-workflows/glue-workflows](processing/glue-workflows/glue-workflows.md)
+- [glue-workflows/glue-workflow-benefits](processing/glue-workflows/glue-workflow-benefits.md)
 
 ### querying/ — Amazon Athena
 
-- athena-basics/amazon-athena-overview.md
-- athena-basics/athena-serverless-queries.md
-- athena-basics/athena-pricing.md
-- athena-basics/athena-supported-formats.md
-- athena-basics/athena-glue-relationship.md
-- federated-queries/athena-federated-queries.md
-- federated-queries/athena-federated-query-overview.md
-- federated-queries/athena-federated-query-lambda.md
-- federated-queries/athena-federated-query-performance.md
-- federated-queries/athena-federated-query-security.md
-- integrations/athena-lambda-integration.md
-- integrations/athena-quicksight-integration.md
+- [athena-basics/amazon-athena-overview](querying/athena-basics/amazon-athena-overview.md)
+- [athena-basics/amazon-athena-serverless-queries](querying/athena-basics/amazon-athena-serverless-queries.md)
+- [athena-basics/amazon-athena-pricing](querying/athena-basics/amazon-athena-pricing.md)
+- [athena-basics/amazon-athena-supported-formats](querying/athena-basics/amazon-athena-supported-formats.md)
+- [athena-basics/amazon-athena-glue-relationship](querying/athena-basics/amazon-athena-glue-relationship.md)
+- [federated-queries/amazon-athena-federated-query-overview](querying/federated-queries/amazon-athena-federated-query-overview.md)
+- [federated-queries/amazon-athena-federated-query-lambda](querying/federated-queries/amazon-athena-federated-query-lambda.md)
+- [federated-queries/amazon-athena-federated-query-security](querying/federated-queries/amazon-athena-federated-query-security.md)
+- [federated-queries/amazon-athena-federated-query-performance](querying/federated-queries/amazon-athena-federated-query-performance.md)
+- [integrations/amazon-athena-lambda-integration](querying/integrations/amazon-athena-lambda-integration.md)
+- [integrations/amazon-athena-quicksight-integration](querying/integrations/amazon-athena-quicksight-integration.md)
 
 ### formation/ — AWS Lake Formation
 
-- aws-lake-formation-overview.md
-- lake-formation-core-goals.md
-- lake-formation-three-steps.md
-- blueprints-workflows/lake-formation-blueprint-concept.md
-- blueprints-workflows/lake-formation-blueprint-setup.md
-- blueprints-workflows/lake-formation-blueprints.md
-- blueprints-workflows/lake-formation-workflow-definition.md
-- permissions/lake-formation-permissions-model.md
-- permissions/lake-formation-permissions-workflow.md
-- permissions/lake-formation-fine-grained-acl.md
-- permissions/lake-formation-credential-vending.md
-- permissions/lake-formation-hybrid-access-mode.md
-- permissions/lake-formation-lf-tags.md
-- permissions/lake-formation-suggested-roles.md
-- permissions/lake-formation-security.md
-- permissions/lake-formation-cross-account-sharing.md
-- permissions/lake-formation-data-sharing.md
+- [aws-lake-formation-overview](formation/aws-lake-formation-overview.md)
+- [aws-lake-formation-core-goals](formation/aws-lake-formation-core-goals.md)
+- [aws-lake-formation-three-steps](formation/aws-lake-formation-three-steps.md)
+- [blueprints-workflows/aws-lake-formation-blueprint-concept](formation/blueprints-workflows/aws-lake-formation-blueprint-concept.md)
+- [blueprints-workflows/aws-lake-formation-blueprint-setup](formation/blueprints-workflows/aws-lake-formation-blueprint-setup.md)
+- [blueprints-workflows/aws-lake-formation-blueprints](formation/blueprints-workflows/aws-lake-formation-blueprints.md)
+- [blueprints-workflows/aws-lake-formation-workflow-definition](formation/blueprints-workflows/aws-lake-formation-workflow-definition.md)
+- [permissions/aws-lake-formation-permissions-model](formation/permissions/aws-lake-formation-permissions-model.md)
+- [permissions/aws-lake-formation-permissions-workflow](formation/permissions/aws-lake-formation-permissions-workflow.md)
+- [permissions/aws-lake-formation-fine-grained-acl](formation/permissions/aws-lake-formation-fine-grained-acl.md)
+- [permissions/aws-lake-formation-credential-vending](formation/permissions/aws-lake-formation-credential-vending.md)
+- [permissions/aws-lake-formation-hybrid-access-mode](formation/permissions/aws-lake-formation-hybrid-access-mode.md)
+- [permissions/aws-lake-formation-lf-tags](formation/permissions/aws-lake-formation-lf-tags.md)
+- [permissions/aws-lake-formation-suggested-roles](formation/permissions/aws-lake-formation-suggested-roles.md)
+- [permissions/aws-lake-formation-security](formation/permissions/aws-lake-formation-security.md)
+- [permissions/aws-lake-formation-cross-account-sharing](formation/permissions/aws-lake-formation-cross-account-sharing.md)
+- [permissions/aws-lake-formation-data-sharing](formation/permissions/aws-lake-formation-data-sharing.md)
 
 ### visualization/ — Amazon QuickSight
 
-- amazon-quicksight-overview.md
+- [amazon-quicksight-overview](visualization/amazon-quicksight-overview.md)
 
 ### architectures/ — Architecture & Governance
 
-- data-gravity.md
-- data-lake-monitoring.md
-- data-movement/data-movement-scenarios-overview.md
-- data-movement/inside-out-data-movement.md
-- data-movement/inside-out-neptune-example.md
-- data-movement/outside-in-data-movement.md
-- data-movement/outside-in-gaming-example.md
-- data-movement/around-perimeter-data-movement.md
-- data-movement/around-perimeter-reporting-example.md
-- data-movement/hybrid-migration-pattern.md
-- data-movement/data-movement-modern-architecture.md
-- modern-architecture/modern-data-architecture-categories.md
-- modern-architecture/modern-data-architecture-outcomes.md
-- modern-architecture/scalable-data-lake-services.md
-- modern-architecture/purpose-built-analytics-services.md
-- modern-architecture/unified-data-access-services.md
-- modern-architecture/performance-cost-effectiveness.md
-- data-mesh/data-mesh.md
-- data-mesh/data-mesh-multi-account.md
-- data-mesh/data-as-a-product.md
-- data-mesh/amazon-data-zone.md
-- well-architected/well-architected-framework.md
-- well-architected/data-analytics-lens.md
+- [data-gravity](architectures/data-gravity.md)
+- [data-lake-monitoring](architectures/data-lake-monitoring.md)
+- [data-movement/data-movement-scenarios-overview](architectures/data-movement/data-movement-scenarios-overview.md)
+- [data-movement/inside-out-data-movement](architectures/data-movement/inside-out-data-movement.md)
+- [data-movement/inside-out-neptune-example](architectures/data-movement/inside-out-neptune-example.md)
+- [data-movement/outside-in-data-movement](architectures/data-movement/outside-in-data-movement.md)
+- [data-movement/outside-in-gaming-example](architectures/data-movement/outside-in-gaming-example.md)
+- [data-movement/around-perimeter-data-movement](architectures/data-movement/around-perimeter-data-movement.md)
+- [data-movement/around-perimeter-reporting-example](architectures/data-movement/around-perimeter-reporting-example.md)
+- [data-movement/hybrid-migration-pattern](architectures/data-movement/hybrid-migration-pattern.md)
+- [data-movement/data-movement-modern-architecture](architectures/data-movement/data-movement-modern-architecture.md)
+- [modern-architecture/modern-data-architecture-categories](architectures/modern-architecture/modern-data-architecture-categories.md)
+- [modern-architecture/modern-data-architecture-outcomes](architectures/modern-architecture/modern-data-architecture-outcomes.md)
+- [modern-architecture/scalable-data-lake-services](architectures/modern-architecture/scalable-data-lake-services.md)
+- [modern-architecture/purpose-built-analytics-services](architectures/modern-architecture/purpose-built-analytics-services.md)
+- [modern-architecture/unified-data-access-services](architectures/modern-architecture/unified-data-access-services.md)
+- [modern-architecture/performance-cost-effectiveness](architectures/modern-architecture/performance-cost-effectiveness.md)
+- [data-mesh/data-mesh](architectures/data-mesh/data-mesh.md)
+- [data-mesh/data-mesh-multi-account](architectures/data-mesh/data-mesh-multi-account.md)
+- [data-mesh/data-as-a-product](architectures/data-mesh/data-as-a-product.md)
+- [data-mesh/amazon-data-zone](architectures/data-mesh/amazon-data-zone.md)
+- [well-architected/well-architected-framework](architectures/well-architected/well-architected-framework.md)
+- [well-architected/data-analytics-lens](architectures/well-architected/data-analytics-lens.md)

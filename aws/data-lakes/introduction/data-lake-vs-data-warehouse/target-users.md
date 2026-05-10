@@ -1,11 +1,12 @@
 ---
 noteId: 1778320496689
+forward:
+  - "[[real-time-answers]]"
 ---
 
-###### Who uses data warehouses vs data lakes?
+# Who uses data warehouses vs data lakes?
 
 ---
 
-**Data warehouse**: business analysts — BI reports, visualizations, day-to-day and long-term decision making.
-
-**Data lake**: data scientists — ML models, LLMs, predictive analytics, data discovery. Business analysts may dip into curated sections.
+- **Data warehouse**: business analysts — BI reports, visualizations, day-to-day and long-term decision making.
+- **Data lake**: data scientists — ML models, LLMs, predictive analytics, data discovery. Business analysts may dip into curated sections.

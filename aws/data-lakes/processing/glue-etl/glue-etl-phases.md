@@ -1,13 +1,15 @@
 ---
 noteId: 1778320497316
+forward:
+  - "[[glue-etl-serverless]]"
 ---
 
-###### What are the three phases of an ETL job in AWS Glue?
+# What are the three phases of an ETL job in AWS Glue?
 
 ---
 
-**Extract** — query the data source for the information needed (new data, specific time periods, data types, or fields)
+- **Extract** — query the data source for relevant data (new records, time ranges, specific fields)
+- **Transform** — reshape and clean raw data via Apache Spark or Python scripts
+- **Load** — write transformed data to its destination (database, warehouse, or S3)
 
-**Transform** — use Apache Spark or Python scripts to reshape and clean the raw data
-
-**Load** — place the transformed data into its destination (database, data warehouse, or S3 bucket)
+![etl](./etl.png)

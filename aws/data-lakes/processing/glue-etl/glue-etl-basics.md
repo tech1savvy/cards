@@ -1,9 +1,14 @@
 ---
 noteId: 1778320497290
+forward:
+  - "[[glue-etl-phases]]"
 ---
 
-###### What does AWS Glue ETL do?
+# What does AWS Glue ETL do?
 
 ---
 
-Extract, Transform, Load (ETL) jobs that massage raw data into a cleaned, usable format ready for querying.
+- Extract — pull raw data from sources
+- Transform — clean, reshape, and enrich
+- Load — write the processed data to its destination (S3, database, etc.)
+- Output is a cleaned, query-ready dataset

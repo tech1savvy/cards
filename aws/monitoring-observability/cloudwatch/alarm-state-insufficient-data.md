@@ -1,0 +1,9 @@
+---
+noteId: 1778392170173
+---
+
+# What does the INSUFFICIENT_DATA state indicate in CloudWatch?
+
+---
+
+Not enough data points to determine the state.
