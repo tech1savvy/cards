@@ -2,7 +2,7 @@
 noteId: 1778392157799
 ---
 
-# Compute Model Comparison
+# How do EC2, containers, and Lambda compare as compute models?
 
 ---
 

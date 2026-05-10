@@ -2,7 +2,7 @@
 noteId: 1778392163173
 ---
 
-# AWS Config
+# What is AWS Config and how does it track resource configuration changes?
 
 ---
 

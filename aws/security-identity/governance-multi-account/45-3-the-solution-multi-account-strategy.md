@@ -2,7 +2,7 @@
 noteId: 1778392163373
 ---
 
-# The Solution: Multi-Account Strategy
+# How does a multi-account strategy solve the problems of single-account setups?
 
 ---
 

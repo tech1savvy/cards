@@ -2,7 +2,7 @@
 noteId: 1778392160023
 ---
 
-# DynamoDB Streams
+# What are DynamoDB Streams?
 
 ---
 

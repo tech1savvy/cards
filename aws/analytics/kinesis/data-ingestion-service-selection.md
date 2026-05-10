@@ -2,7 +2,7 @@
 noteId: 1778392158673
 ---
 
-# Data Ingestion – Service Selection
+# How was the data ingestion service selected?
 
 ---
 

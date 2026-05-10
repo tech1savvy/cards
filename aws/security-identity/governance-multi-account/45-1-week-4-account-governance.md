@@ -2,7 +2,7 @@
 noteId: 1778392163322
 ---
 
-# Week 4: Account Governance
+# What is the focus of the account governance section?
 
 ---
 

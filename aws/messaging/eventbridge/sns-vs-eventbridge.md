@@ -2,7 +2,7 @@
 noteId: 1778392166622
 ---
 
-# SNS vs EventBridge
+# How does SNS compare to EventBridge?
 
 ---
 

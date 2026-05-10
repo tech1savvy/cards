@@ -2,7 +2,7 @@
 noteId: 1778392164123
 ---
 
-# Centralized Service Control
+# How does centralized service control work across AWS Organizations?
 
 ---
 

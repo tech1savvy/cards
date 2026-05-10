@@ -2,7 +2,7 @@
 noteId: 1778392160097
 ---
 
-# Stream View Types
+# What Stream View Types does DynamoDB Streams support?
 
 ---
 

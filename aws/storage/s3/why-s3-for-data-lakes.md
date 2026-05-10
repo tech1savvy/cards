@@ -2,7 +2,7 @@
 noteId: 1778392159573
 ---
 
-# Why S3 for Data Lakes
+# Why is S3 well-suited for data lakes?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392159447
 ---
 
-# Role in Restaurant Menu Solution
+# What role does S3 play in the restaurant menu solution?
 
 ---
 

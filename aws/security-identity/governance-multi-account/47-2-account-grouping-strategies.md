@@ -2,7 +2,7 @@
 noteId: 1778392163473
 ---
 
-# Account Grouping Strategies
+# What are the common account grouping strategies in AWS Organizations?
 
 ---
 

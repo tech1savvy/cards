@@ -2,7 +2,7 @@
 noteId: 1778392162098
 ---
 
-# Federation in AWS
+# What is federation in AWS?
 
 ---
 

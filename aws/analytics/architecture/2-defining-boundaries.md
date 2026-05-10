@@ -2,7 +2,7 @@
 noteId: 1778392157948
 ---
 
-# 2. Defining Boundaries
+# What boundaries define the scope of the analytics solution?
 
 ---
 

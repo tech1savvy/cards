@@ -2,7 +2,7 @@
 noteId: 1778392162897
 ---
 
-# 3-Step Implementation Plan
+# What is the 3-step implementation plan for a landing zone?
 
 ---
 

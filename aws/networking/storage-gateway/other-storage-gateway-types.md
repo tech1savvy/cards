@@ -2,7 +2,7 @@
 noteId: 1778392165472
 ---
 
-# Other Storage Gateway Types
+# What other types of Storage Gateways does AWS offer?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392163247
 ---
 
-# 4. Operational Monitoring
+# How does operational monitoring work with Amazon CloudWatch?
 
 ---
 

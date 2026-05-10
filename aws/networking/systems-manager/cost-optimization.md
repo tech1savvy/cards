@@ -2,7 +2,7 @@
 noteId: 1778392165247
 ---
 
-# 4. Cost Optimization
+# How is cost optimization handled in hybrid architectures?
 
 ---
 

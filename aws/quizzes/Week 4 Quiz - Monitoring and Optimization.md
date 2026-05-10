@@ -2,7 +2,7 @@
 noteId: 1778392171772
 ---
 
-# Week 4 Quiz: Monitoring and Optimization (Study Questions)
+# What AWS monitoring and optimization services and features should you know?
 
 # Question 1
 What are the three components of Amazon EC2 Auto Scaling?

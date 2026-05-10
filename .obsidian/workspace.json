@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "file": "aws/quizzes/final-assessment.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "fine-tuning"
+              "title": "final-assessment"
             }
           }
         ]
@@ -148,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/ai-ml/bedrock/fine-tuning.md"
+                "file": "aws/quizzes/final-assessment.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for fine-tuning"
+              "title": "File properties for final-assessment"
             }
           }
         ],
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "file": "aws/quizzes/final-assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fine-tuning"
+              "title": "Backlinks for final-assessment"
             }
           },
           {
@@ -214,6 +224,8 @@
   },
   "active": "d7db157cd1fca8a6",
   "lastOpenFiles": [
+    "aws/quizzes/Week 1 Quiz - Getting Started with AWS Cloud.md",
+    "aws/ai-ml/bedrock/fine-tuning.md",
     "aws/ai-ml/bedrock/continued-pre-training.md",
     "aws/ai-ml/q-developer/amazon-q-troubleshooting.md",
     "aws/ai-ml/q-developer/amazon-q-connect.md",
@@ -247,8 +259,6 @@
     "aws/quizzes/Week 4 Quiz - Monitoring and Optimization.md",
     "aws/quizzes/Week 3 Quiz - Storage & Databases.md",
     "aws/quizzes/Week 2 Quiz - Compute & Networking.md",
-    "aws/quizzes/Week 1 Quiz - Getting Started with AWS Cloud.md",
-    "aws/quizzes/End of Course Assessment.md",
-    "aws/recap/04-week-4-enterprise-governance.md"
+    "aws/quizzes/End of Course Assessment.md"
   ]
 }

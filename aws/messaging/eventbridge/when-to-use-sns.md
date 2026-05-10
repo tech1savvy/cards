@@ -2,7 +2,7 @@
 noteId: 1778392166673
 ---
 
-# When to Use SNS
+# When should you use SNS instead of EventBridge?
 
 ---
 

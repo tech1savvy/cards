@@ -2,7 +2,7 @@
 noteId: 1778392166098
 ---
 
-# AWS VPN Services
+# What VPN services does AWS provide?
 
 ---
 

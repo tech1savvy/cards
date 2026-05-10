@@ -2,7 +2,7 @@
 noteId: 1778392165074
 ---
 
-# Case Study Implementation
+# What was the case study implementation for hybrid connectivity?
 
 ---
 

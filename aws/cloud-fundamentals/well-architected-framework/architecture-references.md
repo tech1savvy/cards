@@ -2,7 +2,7 @@
 noteId: 1778392161549
 ---
 
-# Architecture References
+# What architecture references does AWS offer?
 
 ---
 

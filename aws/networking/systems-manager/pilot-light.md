@@ -2,7 +2,7 @@
 noteId: 1778392164473
 ---
 
-# 2. Pilot Light
+# What is the pilot light DR strategy?
 
 ---
 

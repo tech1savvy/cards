@@ -2,7 +2,7 @@
 noteId: 1778392166247
 ---
 
-# Core Concepts
+# What are the core concepts of SQS?
 
 ---
 

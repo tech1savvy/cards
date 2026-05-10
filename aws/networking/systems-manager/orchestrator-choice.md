@@ -2,7 +2,7 @@
 noteId: 1778392164299
 ---
 
-# Orchestrator Choice
+# What orchestrator was chosen for the hybrid architecture?
 
 ---
 

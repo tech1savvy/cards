@@ -2,7 +2,7 @@
 noteId: 1778392158847
 ---
 
-# Kinesis Video Streams (KVS)
+# What is Kinesis Video Streams used for?
 
 ---
 

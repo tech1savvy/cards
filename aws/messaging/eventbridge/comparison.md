@@ -2,7 +2,7 @@
 noteId: 1778392166598
 ---
 
-# Comparison
+# How do Amazon SNS and EventBridge compare across features?
 
 ---
 

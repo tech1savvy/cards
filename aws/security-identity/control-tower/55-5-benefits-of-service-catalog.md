@@ -2,7 +2,7 @@
 noteId: 1778392161997
 ---
 
-# Benefits of Service Catalog
+# What are the benefits of using AWS Service Catalog?
 
 ---
 

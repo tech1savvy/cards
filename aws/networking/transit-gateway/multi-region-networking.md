@@ -2,7 +2,7 @@
 noteId: 1778392166023
 ---
 
-# Multi-Region Networking
+# How does Transit Gateway support multi-region networking?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392162473
 ---
 
-# IAM Identity Center
+# What is IAM Identity Center?
 
 ---
 

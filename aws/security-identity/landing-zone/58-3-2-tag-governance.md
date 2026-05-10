@@ -2,7 +2,7 @@
 noteId: 1778392163022
 ---
 
-# 2. Tag Governance
+# What is tag governance and why is it important in a multi-account environment?
 
 ---
 

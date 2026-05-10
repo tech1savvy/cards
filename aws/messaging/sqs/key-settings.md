@@ -2,7 +2,7 @@
 noteId: 1778392166272
 ---
 
-# Key Settings
+# What are the key configurable settings in SQS?
 
 ---
 

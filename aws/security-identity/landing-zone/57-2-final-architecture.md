@@ -2,7 +2,7 @@
 noteId: 1778392162849
 ---
 
-# Final Architecture
+# What does the final architecture of a landing zone look like?
 
 ---
 

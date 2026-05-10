@@ -2,7 +2,7 @@
 noteId: 1778392162873
 ---
 
-# Developer / Workload Accounts
+# What are developer and workload accounts in a landing zone?
 
 ---
 

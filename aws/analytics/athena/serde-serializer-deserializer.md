@@ -2,7 +2,7 @@
 noteId: 1778392158248
 ---
 
-# SerDe (Serializer / Deserializer)
+# What is a SerDe and why is it needed in Athena?
 
 ---
 

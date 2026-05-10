@@ -2,7 +2,7 @@
 noteId: 1778392157698
 ---
 
-# Amazon API Gateway
+# What is Amazon API Gateway?
 
 ---
 

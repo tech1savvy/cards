@@ -2,7 +2,7 @@
 noteId: 1778392171748
 ---
 
-# Week 3 Quiz: Storage & Databases (Study Questions)
+# What are the key AWS storage and database services and their use cases?
 
 # Question 1
 What is a typical use case for Amazon Simple Storage Service (Amazon S3)?

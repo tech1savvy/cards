@@ -2,7 +2,7 @@
 noteId: 1778392160848
 ---
 
-# Messaging Service Options
+# What messaging service options were considered and which was selected?
 
 ---
 

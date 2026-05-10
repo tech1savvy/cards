@@ -2,7 +2,7 @@
 noteId: 1778392161648
 ---
 
-# Useful Links
+# What useful links are available for AWS architecture?
 
 ---
 

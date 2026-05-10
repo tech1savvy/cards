@@ -2,7 +2,7 @@
 noteId: 1778392166473
 ---
 
-# Pub/Sub Model
+# How does the SNS pub/sub model work?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392160248
 ---
 
-# Read Replicas
+# What are Read Replicas used for in RDS?
 
 ---
 

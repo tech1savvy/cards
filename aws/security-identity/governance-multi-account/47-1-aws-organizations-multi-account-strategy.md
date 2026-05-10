@@ -2,7 +2,7 @@
 noteId: 1778392163448
 ---
 
-# AWS Organizations & Multi-Account Strategy
+# What is AWS Organizations and how does it support a multi-account strategy?
 
 ---
 

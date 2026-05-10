@@ -2,7 +2,7 @@
 noteId: 1778392160998
 ---
 
-# Buffer Options
+# What buffer options were considered and which was selected?
 
 ---
 

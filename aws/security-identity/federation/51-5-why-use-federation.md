@@ -2,7 +2,7 @@
 noteId: 1778392162198
 ---
 
-# Why Use Federation
+# Why use federation instead of IAM users in AWS?
 
 ---
 

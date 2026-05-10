@@ -2,7 +2,7 @@
 noteId: 1778392162274
 ---
 
-# IAM Roles & Cross-Account Access
+# How do IAM roles enable cross-account access in AWS?
 
 ---
 

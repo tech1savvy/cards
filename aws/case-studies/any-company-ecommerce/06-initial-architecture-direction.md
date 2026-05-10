@@ -2,7 +2,7 @@
 noteId: 1778392157223
 ---
 
-# Initial Architecture Direction
+# What is the initial architecture direction for the migration?
 
 ---
 

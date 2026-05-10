@@ -2,7 +2,7 @@
 noteId: 1778392164423
 ---
 
-# DR Best Practices
+# What are the best practices for disaster recovery in AWS?
 
 ---
 

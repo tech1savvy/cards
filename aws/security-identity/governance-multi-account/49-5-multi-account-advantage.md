@@ -2,7 +2,7 @@
 noteId: 1778392163847
 ---
 
-# Multi-Account Advantage
+# What advantage do multiple accounts provide for service quotas?
 
 ---
 

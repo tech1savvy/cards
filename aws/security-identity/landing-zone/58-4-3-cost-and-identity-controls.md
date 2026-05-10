@@ -2,7 +2,7 @@
 noteId: 1778392163048
 ---
 
-# 3. Cost and Identity Controls
+# How do cost and identity controls work in a multi-account landing zone?
 
 ---
 

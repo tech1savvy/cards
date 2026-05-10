@@ -2,7 +2,7 @@
 noteId: 1778392164148
 ---
 
-# 1. Advanced Service Control Policies (SCPs)
+# What are advanced Service Control Policies (SCPs)?
 
 ---
 

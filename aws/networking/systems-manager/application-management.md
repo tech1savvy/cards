@@ -2,7 +2,7 @@
 noteId: 1778392165623
 ---
 
-# Application Management
+# How does SSM support application management?
 
 ---
 

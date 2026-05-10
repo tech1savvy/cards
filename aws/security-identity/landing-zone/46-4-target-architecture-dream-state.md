@@ -2,7 +2,7 @@
 noteId: 1778392162773
 ---
 
-# Target Architecture ("Dream State")
+# What is the target architecture (dream state) for a multi-account landing zone?
 
 ---
 

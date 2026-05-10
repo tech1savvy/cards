@@ -2,7 +2,7 @@
 noteId: 1778392160423
 ---
 
-# DynamoDB Basics
+# What are the core concepts of DynamoDB?
 
 ---
 

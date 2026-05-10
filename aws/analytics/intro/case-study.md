@@ -2,7 +2,7 @@
 noteId: 1778392158398
 ---
 
-# Case Study
+# What is the case study about?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392159848
 ---
 
-# AWS Database Migration Service (DMS)
+# What is AWS Database Migration Service (DMS)?
 
 ---
 

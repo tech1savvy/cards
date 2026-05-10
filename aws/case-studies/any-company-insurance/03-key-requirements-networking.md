@@ -2,7 +2,7 @@
 noteId: 1778392157348
 ---
 
-# Key Requirements — Networking
+# What are the key networking requirements for the hybrid environment?
 
 ---
 

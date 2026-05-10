@@ -2,7 +2,7 @@
 noteId: 1778392159722
 ---
 
-# Data Lakes & Storage
+# What AWS services are used for data lakes and storage?
 
 ---
 

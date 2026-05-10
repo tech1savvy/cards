@@ -2,7 +2,7 @@
 noteId: 1778392162548
 ---
 
-# Multi-Account Permissions
+# How does IAM Identity Center handle multi-account permissions?
 
 ---
 

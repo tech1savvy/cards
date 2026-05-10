@@ -2,7 +2,7 @@
 noteId: 1778392162673
 ---
 
-# Landing Zone Concept
+# What is a landing zone in AWS?
 
 ---
 

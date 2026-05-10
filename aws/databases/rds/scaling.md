@@ -2,7 +2,7 @@
 noteId: 1778392160272
 ---
 
-# Scaling
+# How does RDS handle scaling?
 
 ---
 

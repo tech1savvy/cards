@@ -2,7 +2,7 @@
 noteId: 1778392163548
 ---
 
-# Benefits of Multi-Account AWS Environments
+# What are the benefits of using multiple AWS accounts?
 
 ---
 

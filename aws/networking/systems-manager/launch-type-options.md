@@ -2,7 +2,7 @@
 noteId: 1778392164273
 ---
 
-# Launch Type Options
+# What launch type options are available for ECS?
 
 ---
 

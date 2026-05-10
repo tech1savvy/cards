@@ -2,7 +2,7 @@
 noteId: 1778392163748
 ---
 
-# IT Operating Models & Service Quotas
+# How do IT operating models and service quotas relate to multi-account architecture?
 
 ---
 

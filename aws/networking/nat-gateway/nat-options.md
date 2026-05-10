@@ -2,7 +2,7 @@
 noteId: 1778392164972
 ---
 
-# NAT Options
+# What NAT options does AWS offer?
 
 ---
 

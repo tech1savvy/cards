@@ -2,7 +2,7 @@
 noteId: 1778392164248
 ---
 
-# Final Architecture Choice
+# What was the final architecture choice for the hybrid solution?
 
 ---
 

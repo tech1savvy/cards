@@ -2,7 +2,7 @@
 noteId: 1778392160048
 ---
 
-# How Streams Work
+# How do DynamoDB Streams capture table changes?
 
 ---
 

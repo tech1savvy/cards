@@ -2,7 +2,7 @@
 noteId: 1778392160673
 ---
 
-# Observability
+# How is observability implemented in the architecture?
 
 ---
 

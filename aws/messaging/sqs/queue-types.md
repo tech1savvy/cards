@@ -2,7 +2,7 @@
 noteId: 1778392166323
 ---
 
-# Queue Types
+# What SQS queue types are available and when should you use each?
 
 ---
 

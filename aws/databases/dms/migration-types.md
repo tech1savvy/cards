@@ -2,7 +2,7 @@
 noteId: 1778392159923
 ---
 
-# Migration Types
+# What types of migrations does DMS support?
 
 ---
 

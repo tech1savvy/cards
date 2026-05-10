@@ -2,7 +2,7 @@
 noteId: 1778392163648
 ---
 
-# 4. Limited Blast Radius
+# How does a multi-account strategy limit the blast radius of failures?
 
 ---
 

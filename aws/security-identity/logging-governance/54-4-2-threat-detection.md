@@ -2,7 +2,7 @@
 noteId: 1778392163197
 ---
 
-# 2. Threat Detection
+# How does AWS handle threat detection?
 
 ---
 

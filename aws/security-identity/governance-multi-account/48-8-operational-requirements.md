@@ -2,7 +2,7 @@
 noteId: 1778392163722
 ---
 
-# Operational Requirements
+# What are the operational requirements of multi-account environments?
 
 ---
 

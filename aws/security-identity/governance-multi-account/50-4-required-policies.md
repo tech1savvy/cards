@@ -2,7 +2,7 @@
 noteId: 1778392162348
 ---
 
-# Required Policies
+# What policies are required for cross-account access?
 
 ---
 

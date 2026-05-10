@@ -2,7 +2,7 @@
 noteId: 1778392162322
 ---
 
-# Cross-Account Access
+# What is cross-account access in AWS?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392160823
 ---
 
-# Implementation Flow
+# What is the implementation flow for the event-driven architecture?
 
 ---
 

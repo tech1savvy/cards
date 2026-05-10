@@ -2,7 +2,7 @@
 noteId: 1778392165123
 ---
 
-# High Availability Design
+# What is the high availability design for Direct Connect?
 
 ---
 

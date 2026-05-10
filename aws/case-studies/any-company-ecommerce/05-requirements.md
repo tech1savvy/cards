@@ -2,7 +2,7 @@
 noteId: 1778392157197
 ---
 
-# Requirements
+# What are the requirements for the new cloud-native architecture?
 
 ---
 

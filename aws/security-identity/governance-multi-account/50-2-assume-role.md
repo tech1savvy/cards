@@ -2,7 +2,7 @@
 noteId: 1778392162297
 ---
 
-# Assume Role
+# What is the Assume Role operation in AWS IAM?
 
 ---
 

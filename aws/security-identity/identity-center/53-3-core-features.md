@@ -2,7 +2,7 @@
 noteId: 1778392162523
 ---
 
-# Core Features
+# What are the core features of IAM Identity Center?
 
 ---
 

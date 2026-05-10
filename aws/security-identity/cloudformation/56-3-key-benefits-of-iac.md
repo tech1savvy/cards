@@ -2,7 +2,7 @@
 noteId: 1778392161773
 ---
 
-# Key Benefits of IaC
+# What are the key benefits of Infrastructure as Code?
 
 ---
 

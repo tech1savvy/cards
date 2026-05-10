@@ -2,7 +2,7 @@
 noteId: 1778392163147
 ---
 
-# 1. Auditing & Change Tracking
+# How do AWS services support auditing and change tracking?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392158023
 ---
 
-# Data Cleaning Strategy
+# What strategies can be used for data cleaning in the analytics pipeline?
 
 ---
 

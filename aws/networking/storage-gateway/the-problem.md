@@ -2,7 +2,7 @@
 noteId: 1778392165523
 ---
 
-# The Problem
+# What problem does AWS Storage Gateway solve?
 
 ---
 

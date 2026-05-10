@@ -2,7 +2,7 @@
 noteId: 1778392159047
 ---
 
-# Data Lake Choice
+# What was chosen as the data lake and why?
 
 ---
 

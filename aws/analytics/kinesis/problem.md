@@ -2,7 +2,7 @@
 noteId: 1778392158873
 ---
 
-# Problem
+# What problem arises when a web client tries to call Kinesis directly?
 
 ---
 

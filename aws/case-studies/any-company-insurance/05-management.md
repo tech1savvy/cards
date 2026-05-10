@@ -2,7 +2,7 @@
 noteId: 1778392157398
 ---
 
-# Management
+# What management requirements must the hybrid solution support?
 
 ---
 

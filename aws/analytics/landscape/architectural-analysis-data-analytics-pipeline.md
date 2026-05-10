@@ -2,7 +2,7 @@
 noteId: 1778392159023
 ---
 
-# Architectural Analysis – Data Analytics Pipeline
+# What is the goal of the architectural analysis for the data analytics pipeline?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392165299
 ---
 
-# Hybrid Architecture Optimizations
+# What optimizations are needed for hybrid architectures?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392162123
 ---
 
-# Federated Login Flow
+# How does the federated login flow work in AWS?
 
 ---
 

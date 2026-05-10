@@ -2,7 +2,7 @@
 noteId: 1778392171723
 ---
 
-# Week 2 Quiz: Compute & Networking (Study Questions)
+# What are the key compute and networking services in AWS?
 
 # Question 1
 Which information is needed to create a virtual private cloud (VPC)?

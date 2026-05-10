@@ -2,7 +2,7 @@
 noteId: 1778392159673
 ---
 
-# Data Analytics & Query
+# What AWS services are used for data analytics and querying?
 
 ---
 

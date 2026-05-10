@@ -2,7 +2,7 @@
 noteId: 1778392163348
 ---
 
-# The Problem
+# What problem does a multi-account strategy solve?
 
 ---
 

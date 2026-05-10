@@ -2,7 +2,7 @@
 noteId: 1778392158598
 ---
 
-# Architecture Flow
+# What is the end-to-end architecture flow for data ingestion?
 
 ---
 

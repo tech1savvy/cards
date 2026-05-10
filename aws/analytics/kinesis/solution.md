@@ -2,7 +2,7 @@
 noteId: 1778392158899
 ---
 
-# Solution
+# What is the solution for enabling web clients to send data to Kinesis?
 
 ---
 

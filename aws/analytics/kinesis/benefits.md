@@ -2,7 +2,7 @@
 noteId: 1778392158623
 ---
 
-# Benefits
+# What are the benefits of using API Gateway with Kinesis?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392158223
 ---
 
-# Key Capability
+# What key capability does Athena provide for querying data?
 
 ---
 

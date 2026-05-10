@@ -2,7 +2,7 @@
 noteId: 1778392159547
 ---
 
-# Storage Options Comparison
+# How do EBS, EFS, and S3 compare for data lake storage?
 
 ---
 

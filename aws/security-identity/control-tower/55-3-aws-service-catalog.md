@@ -2,7 +2,7 @@
 noteId: 1778392161947
 ---
 
-# AWS Service Catalog
+# What is AWS Service Catalog?
 
 ---
 

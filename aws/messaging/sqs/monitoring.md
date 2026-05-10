@@ -2,7 +2,7 @@
 noteId: 1778392166298
 ---
 
-# Monitoring
+# How can you monitor SQS queues?
 
 ---
 

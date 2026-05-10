@@ -2,7 +2,7 @@
 noteId: 1778392165098
 ---
 
-# Connectivity Options
+# What connectivity options are available for hybrid networking in AWS?
 
 ---
 

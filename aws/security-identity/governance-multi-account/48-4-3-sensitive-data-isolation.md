@@ -2,7 +2,7 @@
 noteId: 1778392163622
 ---
 
-# 3. Sensitive Data Isolation
+# How does a multi-account structure enable sensitive data isolation?
 
 ---
 

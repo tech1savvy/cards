@@ -2,7 +2,7 @@
 noteId: 1778392162172
 ---
 
-# Federated User
+# What is a federated user in AWS?
 
 ---
 

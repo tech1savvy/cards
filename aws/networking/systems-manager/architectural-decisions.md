@@ -2,7 +2,7 @@
 noteId: 1778392164648
 ---
 
-# Architectural Decisions
+# What architectural decisions were made for the hybrid solution?
 
 ---
 

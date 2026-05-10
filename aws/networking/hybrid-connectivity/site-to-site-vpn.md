@@ -2,7 +2,7 @@
 noteId: 1778392166123
 ---
 
-# Site-to-Site VPN
+# What is AWS Site-to-Site VPN?
 
 ---
 

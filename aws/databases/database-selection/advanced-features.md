@@ -2,7 +2,7 @@
 noteId: 1778392160349
 ---
 
-# Advanced Features
+# What advanced features does DynamoDB offer?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392164098
 ---
 
-# Consolidated Billing
+# What is consolidated billing in AWS Organizations?
 
 ---
 

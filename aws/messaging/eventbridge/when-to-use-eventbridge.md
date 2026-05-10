@@ -2,7 +2,7 @@
 noteId: 1778392166648
 ---
 
-# When to Use EventBridge
+# When should you use EventBridge instead of SNS?
 
 ---
 

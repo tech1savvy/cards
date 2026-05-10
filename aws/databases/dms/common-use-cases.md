@@ -2,7 +2,7 @@
 noteId: 1778392159872
 ---
 
-# Common Use Cases
+# What are common use cases for DMS?
 
 ---
 

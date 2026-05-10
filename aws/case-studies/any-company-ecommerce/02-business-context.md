@@ -2,7 +2,7 @@
 noteId: 1778392157122
 ---
 
-# Business Context
+# What is the business context for the AnyCompany Ecommerce case study?
 
 ---
 

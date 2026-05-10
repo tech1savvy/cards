@@ -2,7 +2,7 @@
 noteId: 1778392163974
 ---
 
-# AWS Organizations
+# What is AWS Organizations?
 
 ---
 

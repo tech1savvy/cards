@@ -2,7 +2,7 @@
 noteId: 1778392159248
 ---
 
-# Integration in the Architecture
+# How does QuickSight fit into the analytics pipeline architecture?
 
 ---
 

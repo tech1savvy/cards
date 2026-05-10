@@ -2,7 +2,7 @@
 noteId: 1778392164723
 ---
 
-# Enterprise Resilience
+# How is enterprise resilience achieved in AWS?
 
 ---
 

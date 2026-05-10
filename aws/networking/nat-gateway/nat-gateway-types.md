@@ -2,7 +2,7 @@
 noteId: 1778392164948
 ---
 
-# NAT Gateway Types
+# What types of NAT Gateways does AWS offer?
 
 ---
 

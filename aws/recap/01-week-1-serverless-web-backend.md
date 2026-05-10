@@ -2,7 +2,7 @@
 noteId: 1778392166898
 ---
 
-# Week 1: Serverless Web Backend
+# How does a serverless web backend use event-driven architecture for async processing?
 
 ---
 

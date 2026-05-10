@@ -2,7 +2,7 @@
 noteId: 1778392162997
 ---
 
-# Advanced Multi-Account Optimizations
+# What are advanced multi-account optimizations in AWS?
 
 ---
 

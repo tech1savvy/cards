@@ -2,7 +2,7 @@
 noteId: 1778392164698
 ---
 
-# Database Migration
+# How was database migration handled in the hybrid architecture?
 
 ---
 

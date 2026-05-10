@@ -2,7 +2,7 @@
 noteId: 1778392158572
 ---
 
-# Amazon Kinesis
+# What is Amazon Kinesis?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392163673
 ---
 
-# 5. Cost Management
+# How does cost management work across multiple AWS accounts?
 
 ---
 

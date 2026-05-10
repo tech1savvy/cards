@@ -2,7 +2,7 @@
 noteId: 1778392159373
 ---
 
-# Case Study Choice
+# What storage design was chosen for the case study and why?
 
 ---
 

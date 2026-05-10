@@ -2,7 +2,7 @@
 noteId: 1778392159523
 ---
 
-# S3 Storage Classes
+# What are the S3 storage classes?
 
 ---
 

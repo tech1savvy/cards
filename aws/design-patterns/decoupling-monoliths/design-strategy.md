@@ -2,7 +2,7 @@
 noteId: 1778392160622
 ---
 
-# Design Strategy
+# What is the design strategy for the Orders Service?
 
 ---
 

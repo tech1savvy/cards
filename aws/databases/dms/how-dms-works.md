@@ -2,7 +2,7 @@
 noteId: 1778392159898
 ---
 
-# How DMS Works
+# How does DMS migrate databases to AWS?
 
 ---
 

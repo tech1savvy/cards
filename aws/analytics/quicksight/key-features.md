@@ -2,7 +2,7 @@
 noteId: 1778392159272
 ---
 
-# Key Features
+# What are the key features of Amazon QuickSight?
 
 ---
 

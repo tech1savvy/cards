@@ -2,7 +2,7 @@
 noteId: 1778392159772
 ---
 
-# Term: Clickstream Data
+# What is clickstream data?
 
 ---
 

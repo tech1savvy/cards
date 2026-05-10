@@ -2,7 +2,7 @@
 noteId: 1778392165222
 ---
 
-# 2. Container Scaling (ECS)
+# How does ECS container scaling work in AWS?
 
 ---
 

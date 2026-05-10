@@ -2,7 +2,7 @@
 noteId: 1778392165922
 ---
 
-# AWS Transit Gateway
+# What is AWS Transit Gateway?
 
 ---
 

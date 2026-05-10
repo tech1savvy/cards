@@ -2,7 +2,7 @@
 noteId: 1778392163797
 ---
 
-# 2. Environment Segmentation
+# How does environment segmentation work in a multi-account structure?
 
 ---
 

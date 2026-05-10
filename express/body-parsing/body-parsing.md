@@ -1,7 +1,7 @@
 
 ---
 id: body-parsing
-noteId: 1778430031522
+noteId: 1778456406023
 ---
 
 How do you access data from the request body in Express?

@@ -2,7 +2,7 @@
 noteId: 1778392166974
 ---
 
-# Week 4: Enterprise Governance
+# How do you securely manage multiple AWS accounts with enterprise governance?
 
 ---
 

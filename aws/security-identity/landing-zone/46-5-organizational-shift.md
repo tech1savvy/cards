@@ -2,7 +2,7 @@
 noteId: 1778392162798
 ---
 
-# Organizational Shift
+# What organizational shift is needed to adopt a multi-account strategy?
 
 ---
 

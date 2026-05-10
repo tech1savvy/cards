@@ -2,7 +2,7 @@
 noteId: 1778392165772
 ---
 
-# Hybrid Architecture Toolset (Case Study)
+# What toolset was used in the hybrid architecture case study?
 
 ---
 

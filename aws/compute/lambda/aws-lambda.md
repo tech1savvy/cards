@@ -2,7 +2,7 @@
 noteId: 1778392157774
 ---
 
-# AWS Lambda
+# What is an AWS Lambda execution environment?
 
 ---
 

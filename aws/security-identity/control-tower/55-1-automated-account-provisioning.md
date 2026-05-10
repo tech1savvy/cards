@@ -2,7 +2,7 @@
 noteId: 1778392161897
 ---
 
-# Automated Account Provisioning
+# How does automated account provisioning work with AWS Control Tower?
 
 ---
 

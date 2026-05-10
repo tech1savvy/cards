@@ -2,7 +2,7 @@
 noteId: 1778392160072
 ---
 
-# Implementation Pattern
+# What is the typical implementation pattern for DynamoDB Streams?
 
 ---
 

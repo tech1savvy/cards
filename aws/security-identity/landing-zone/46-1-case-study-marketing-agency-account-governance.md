@@ -2,7 +2,7 @@
 noteId: 1778392162698
 ---
 
-# Case Study: Marketing Agency (Account Governance)
+# What does the case study of a marketing agency reveal about account governance?
 
 ---
 

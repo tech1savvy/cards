@@ -2,7 +2,7 @@
 noteId: 1778392164898
 ---
 
-# How NAT Works
+# How does NAT work in AWS?
 
 ---
 

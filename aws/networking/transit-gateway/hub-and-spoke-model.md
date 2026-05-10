@@ -2,7 +2,7 @@
 noteId: 1778392165972
 ---
 
-# Hub-and-Spoke Model
+# What is the hub-and-spoke model in AWS Transit Gateway?
 
 ---
 

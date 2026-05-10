@@ -2,7 +2,7 @@
 noteId: 1778392166498
 ---
 
-# Supported Subscribers
+# What types of subscribers does SNS support?
 
 ---
 

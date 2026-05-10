@@ -2,7 +2,7 @@
 noteId: 1778392165722
 ---
 
-# Change Management
+# How does SSM handle change management?
 
 ---
 

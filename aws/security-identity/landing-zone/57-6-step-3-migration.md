@@ -2,7 +2,7 @@
 noteId: 1778392162947
 ---
 
-# Step 3 – Migration
+# What is involved in the migration step of the landing zone implementation?
 
 ---
 

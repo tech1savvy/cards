@@ -2,7 +2,7 @@
 noteId: 1778392163498
 ---
 
-# Organizational Structure
+# What is the organizational structure of AWS Organizations?
 
 ---
 

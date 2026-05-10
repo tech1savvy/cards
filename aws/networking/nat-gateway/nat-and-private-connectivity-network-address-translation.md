@@ -2,7 +2,7 @@
 noteId: 1778392164923
 ---
 
-# NAT and Private Connectivity: Network Address Translation
+# What is NAT and how does it enable private connectivity in AWS?
 
 ---
 

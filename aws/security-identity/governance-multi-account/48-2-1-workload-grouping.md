@@ -2,7 +2,7 @@
 noteId: 1778392163573
 ---
 
-# 1. Workload Grouping
+# How can workload grouping be used to organize AWS accounts?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392171673
 ---
 
-# End of Course Assessment: Study Questions
+# What are the key concepts covered in the AWS Cloud Technical Essentials course?
 
 # Question 1
 What are the four main factors that a solutions architect should consider when they must choose a Region?

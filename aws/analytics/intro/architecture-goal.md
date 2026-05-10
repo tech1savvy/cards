@@ -2,7 +2,7 @@
 noteId: 1778392158372
 ---
 
-# Architecture Goal
+# What is the goal of the serverless data analytics architecture?
 
 ---
 

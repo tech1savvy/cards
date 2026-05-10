@@ -2,7 +2,7 @@
 noteId: 1778392161523
 ---
 
-# Architectural Resources
+# What architectural resources does AWS provide?
 
 ---
 

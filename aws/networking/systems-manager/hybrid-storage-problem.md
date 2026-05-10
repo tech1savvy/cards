@@ -2,7 +2,7 @@
 noteId: 1778392164772
 ---
 
-# Hybrid Storage Problem
+# What is the hybrid storage problem in AWS?
 
 ---
 

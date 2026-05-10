@@ -2,7 +2,7 @@
 noteId: 1778392165323
 ---
 
-# 5. Lambda Optimization Tools
+# What tools optimize Lambda functions in AWS?
 
 ---
 

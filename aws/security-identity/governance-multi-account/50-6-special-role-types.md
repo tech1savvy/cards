@@ -2,7 +2,7 @@
 noteId: 1778392162398
 ---
 
-# Special Role Types
+# What are the special IAM role types in AWS?
 
 ---
 

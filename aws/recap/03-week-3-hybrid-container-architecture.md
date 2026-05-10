@@ -2,7 +2,7 @@
 noteId: 1778392166947
 ---
 
-# Week 3: Hybrid Container Architecture
+# How does a hybrid container architecture connect on-premises workloads to AWS?
 
 ---
 

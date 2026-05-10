@@ -2,7 +2,7 @@
 noteId: 1778392165497
 ---
 
-# Solution: S3 File Gateway
+# What is the S3 File Gateway solution?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392163872
 ---
 
-# 4. Tiered Governance Model
+# What is a tiered governance model in AWS Organizations?
 
 ---
 

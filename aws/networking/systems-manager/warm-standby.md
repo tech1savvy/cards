@@ -2,7 +2,7 @@
 noteId: 1778392164497
 ---
 
-# 3. Warm Standby
+# What is the warm standby DR strategy?
 
 ---
 

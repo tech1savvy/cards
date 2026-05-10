@@ -2,7 +2,7 @@
 noteId: 1778392160773
 ---
 
-# Event-Driven Architecture (EDA)
+# What is Event-Driven Architecture (EDA)?
 
 ---
 

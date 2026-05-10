@@ -2,7 +2,7 @@
 noteId: 1778392157423
 ---
 
-# High-Level Architecture Needs
+# What high-level architecture needs must the AWS solution address?
 
 ---
 

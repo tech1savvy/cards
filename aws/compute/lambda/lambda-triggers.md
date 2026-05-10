@@ -2,7 +2,7 @@
 noteId: 1778392157848
 ---
 
-# Lambda Triggers
+# What are common Lambda trigger event sources?
 
 ---
 

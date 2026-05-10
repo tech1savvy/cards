@@ -2,7 +2,7 @@
 noteId: 1778392165797
 ---
 
-# Node Management
+# How does SSM handle node management?
 
 ---
 

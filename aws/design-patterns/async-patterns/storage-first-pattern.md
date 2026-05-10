@@ -2,7 +2,7 @@
 noteId: 1778392161023
 ---
 
-# Storage-First Pattern
+# What is the Storage-First Pattern?
 
 ---
 

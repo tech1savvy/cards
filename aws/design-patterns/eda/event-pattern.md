@@ -2,7 +2,7 @@
 noteId: 1778392160797
 ---
 
-# Event Pattern
+# What is the event pattern in an event-driven architecture?
 
 ---
 

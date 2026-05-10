@@ -2,7 +2,7 @@
 noteId: 1778392171698
 ---
 
-# Week 1 Quiz: Getting Started with AWS Cloud (Answer Key)
+# What are the foundational concepts and best practices for getting started with AWS Cloud?
 
 # Question 1
 What are the four main factors that a solutions architect should consider when they must choose a Region?

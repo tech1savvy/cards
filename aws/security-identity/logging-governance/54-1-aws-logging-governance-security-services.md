@@ -2,7 +2,7 @@
 noteId: 1778392163123
 ---
 
-# AWS Logging, Governance & Security Services
+# What AWS services provide logging, governance, and security?
 
 ---
 

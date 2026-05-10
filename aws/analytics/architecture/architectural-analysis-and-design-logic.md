@@ -2,7 +2,7 @@
 noteId: 1778392157973
 ---
 
-# Architectural Analysis and Design Logic
+# How are requirements synthesized into design choices in the architectural analysis?
 
 ---
 

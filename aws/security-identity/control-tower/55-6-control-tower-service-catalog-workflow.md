@@ -2,7 +2,7 @@
 noteId: 1778392162023
 ---
 
-# Control Tower + Service Catalog Workflow
+# How do Control Tower and Service Catalog work together?
 
 ---
 

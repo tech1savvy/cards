@@ -2,7 +2,7 @@
 noteId: 1778392165448
 ---
 
-# Key Benefits
+# What are the key benefits of AWS Storage Gateway?
 
 ---
 

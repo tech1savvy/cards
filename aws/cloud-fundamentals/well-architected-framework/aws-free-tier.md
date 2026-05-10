@@ -2,7 +2,7 @@
 noteId: 1778392161573
 ---
 
-# AWS Free Tier
+# What is the AWS Free Tier?
 
 ---
 

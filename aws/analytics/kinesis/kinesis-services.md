@@ -2,7 +2,7 @@
 noteId: 1778392158824
 ---
 
-# Kinesis Services
+# What are the different Kinesis services and their characteristics?
 
 ---
 

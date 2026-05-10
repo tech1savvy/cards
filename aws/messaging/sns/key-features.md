@@ -2,7 +2,7 @@
 noteId: 1778392166448
 ---
 
-# Key Features
+# What are the key features of Amazon SNS?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392162573
 ---
 
-# Application Integration
+# How does IAM Identity Center integrate with applications?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392160223
 ---
 
-# High Availability – Multi-AZ
+# How does Multi-AZ deployment provide high availability in RDS?
 
 ---
 

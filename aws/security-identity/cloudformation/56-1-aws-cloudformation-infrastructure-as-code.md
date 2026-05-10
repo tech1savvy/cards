@@ -2,7 +2,7 @@
 noteId: 1778392161724
 ---
 
-# AWS CloudFormation (Infrastructure as Code)
+# What is AWS CloudFormation and how does it enable Infrastructure as Code?
 
 ---
 

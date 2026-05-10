@@ -2,7 +2,7 @@
 noteId: 1778392166524
 ---
 
-# Topic Types
+# What SNS topic types are available and when should you use each?
 
 ---
 

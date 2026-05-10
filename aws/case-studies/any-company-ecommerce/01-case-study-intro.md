@@ -2,7 +2,7 @@
 noteId: 1778392157098
 ---
 
-# Case Study: Any Company Ecommerce
+# What is the AnyCompany Ecommerce case study about?
 
 ---
 

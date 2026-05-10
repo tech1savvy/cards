@@ -2,7 +2,7 @@
 noteId: 1778392163948
 ---
 
-# Governance Mechanisms
+# What governance mechanisms are available in AWS Organizations?
 
 ---
 

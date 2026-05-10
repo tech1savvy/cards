@@ -2,7 +2,7 @@
 noteId: 1778392158423
 ---
 
-# Data Analytics Lifecycle
+# What are the stages of the data analytics lifecycle?
 
 ---
 

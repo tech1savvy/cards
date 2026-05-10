@@ -2,7 +2,7 @@
 noteId: 1778392160648
 ---
 
-# Monolith → Decoupled Architecture
+# How does a monolith compare to a decoupled architecture?
 
 ---
 

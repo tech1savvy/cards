@@ -2,7 +2,7 @@
 noteId: 1778392158273
 ---
 
-# Typical Workflow
+# What is the typical workflow for querying data with Athena?
 
 ---
 

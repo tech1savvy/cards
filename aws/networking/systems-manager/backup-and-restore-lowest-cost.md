@@ -2,7 +2,7 @@
 noteId: 1778392164398
 ---
 
-# 1. Backup and Restore (Lowest Cost)
+# What is the backup and restore DR strategy?
 
 ---
 

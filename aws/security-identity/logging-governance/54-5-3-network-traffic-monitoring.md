@@ -2,7 +2,7 @@
 noteId: 1778392163222
 ---
 
-# 3. Network Traffic Monitoring
+# How does network traffic monitoring work with VPC Flow Logs?
 
 ---
 

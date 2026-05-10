@@ -2,7 +2,7 @@
 noteId: 1778392165148
 ---
 
-# Hybrid Networking – Connectivity Choice
+# How should you choose a hybrid networking connectivity option?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392159123
 ---
 
-# Scope Definition
+# What is in scope and out of scope for the analytics solution?
 
 ---
 

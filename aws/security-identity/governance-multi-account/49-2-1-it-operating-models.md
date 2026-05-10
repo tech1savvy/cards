@@ -2,7 +2,7 @@
 noteId: 1778392163773
 ---
 
-# 1. IT Operating Models
+# What are IT operating models in the context of multi-account architecture?
 
 ---
 

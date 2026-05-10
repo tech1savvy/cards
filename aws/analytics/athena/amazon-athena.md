@@ -2,7 +2,7 @@
 noteId: 1778392158172
 ---
 
-# Amazon Athena
+# What is Amazon Athena?
 
 ---
 

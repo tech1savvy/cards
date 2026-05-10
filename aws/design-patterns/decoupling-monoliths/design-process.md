@@ -2,7 +2,7 @@
 noteId: 1778392160598
 ---
 
-# Design Process
+# What is the design process for building the architecture?
 
 ---
 

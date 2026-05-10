@@ -2,7 +2,7 @@
 noteId: 1778392158447
 ---
 
-# Key AWS Services
+# What are the key AWS services used in the analytics pipeline?
 
 ---
 

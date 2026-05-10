@@ -2,7 +2,7 @@
 noteId: 1778392158748
 ---
 
-# Kinesis Data Firehose (KDF)
+# What is Kinesis Data Firehose and what destinations does it support?
 
 ---
 

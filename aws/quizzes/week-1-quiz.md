@@ -2,7 +2,7 @@
 noteId: 1778392166774
 ---
 
-# Week 1 Quiz: Designing a Serverless Web Backend
+# How do you design a serverless web backend on AWS?
 
 ---
 

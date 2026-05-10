@@ -2,7 +2,7 @@
 noteId: 1778392158772
 ---
 
-# Kinesis Data Firehose
+# What is Kinesis Data Firehose and why was it selected?
 
 ---
 

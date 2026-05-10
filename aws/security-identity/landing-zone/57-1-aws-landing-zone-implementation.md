@@ -2,7 +2,7 @@
 noteId: 1778392162823
 ---
 
-# AWS Landing Zone Implementation
+# What does an AWS Landing Zone implementation involve?
 
 ---
 

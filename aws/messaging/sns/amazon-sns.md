@@ -2,7 +2,7 @@
 noteId: 1778392166423
 ---
 
-# Amazon SNS
+# What is Amazon SNS and what is it used for?
 
 ---
 

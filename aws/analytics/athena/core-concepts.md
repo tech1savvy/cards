@@ -2,7 +2,7 @@
 noteId: 1778392158199
 ---
 
-# Core Concepts
+# What are the core concepts behind Athena external tables?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392163597
 ---
 
-# 2. Centralized Logging
+# How does centralized logging work in a multi-account environment?
 
 ---
 

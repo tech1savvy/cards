@@ -2,7 +2,7 @@
 noteId: 1778392159097
 ---
 
-# Requirement → Service Mapping
+# How are requirements mapped to AWS services?
 
 ---
 

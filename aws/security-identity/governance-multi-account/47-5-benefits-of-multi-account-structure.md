@@ -2,7 +2,7 @@
 noteId: 1778392163523
 ---
 
-# Benefits of Multi-Account Structure
+# What are the benefits of a multi-account structure in AWS?
 
 ---
 

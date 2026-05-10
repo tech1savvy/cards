@@ -2,7 +2,7 @@
 noteId: 1778392164747
 ---
 
-# Hybrid Migration Strategy – AnyCompany Insurance
+# What was AnyCompany Insurance's hybrid migration strategy?
 
 ---
 

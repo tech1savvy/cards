@@ -2,7 +2,7 @@
 noteId: 1778392165673
 ---
 
-# AWS Outposts
+# What is AWS Outposts?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392163398
 ---
 
-# Core Learning Areas
+# What are the core learning areas for AWS account governance?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392160948
 ---
 
-# Asynchronous (New Design)
+# How does the new asynchronous design work?
 
 ---
 

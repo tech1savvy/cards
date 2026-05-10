@@ -2,7 +2,7 @@
 noteId: 1778392165048
 ---
 
-# AWS Direct Connect
+# What are the benefits and connection types of AWS Direct Connect?
 
 ---
 

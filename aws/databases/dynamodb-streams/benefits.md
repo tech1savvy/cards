@@ -2,7 +2,7 @@
 noteId: 1778392159998
 ---
 
-# Benefits
+# What are the benefits of using DynamoDB Streams?
 
 ---
 

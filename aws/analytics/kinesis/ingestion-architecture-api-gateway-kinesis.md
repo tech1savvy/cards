@@ -2,7 +2,7 @@
 noteId: 1778392158723
 ---
 
-# Ingestion Architecture – API Gateway → Kinesis
+# How does the ingestion architecture work from API Gateway to Kinesis?
 
 ---
 

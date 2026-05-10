@@ -2,7 +2,7 @@
 noteId: 1778392164798
 ---
 
-# Operational Consistency
+# How is operational consistency maintained in the hybrid architecture?
 
 ---
 

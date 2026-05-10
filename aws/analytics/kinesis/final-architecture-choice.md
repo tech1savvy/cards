@@ -2,7 +2,7 @@
 noteId: 1778392158698
 ---
 
-# Final Architecture Choice
+# What is the final architecture choice for data ingestion?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392164048
 ---
 
-# Key SCP Characteristics
+# What are the key characteristics of Service Control Policies?
 
 ---
 

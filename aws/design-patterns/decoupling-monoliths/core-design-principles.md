@@ -2,7 +2,7 @@
 noteId: 1778392160546
 ---
 
-# Core Design Principles
+# What are the core design principles for this architecture?
 
 ---
 

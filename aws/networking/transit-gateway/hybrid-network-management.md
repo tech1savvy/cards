@@ -2,7 +2,7 @@
 noteId: 1778392165998
 ---
 
-# Hybrid Network Management
+# How does Transit Gateway simplify hybrid network management?
 
 ---
 

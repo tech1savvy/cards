@@ -2,7 +2,7 @@
 noteId: 1778392158073
 ---
 
-# Operational Characteristics
+# What are the operational characteristics of the serverless analytics architecture?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392164074
 ---
 
-# Account Automation
+# How does account automation work in AWS Organizations?
 
 ---
 

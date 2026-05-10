@@ -2,7 +2,7 @@
 noteId: 1778392165273
 ---
 
-# 3. Database Scaling (RDS)
+# How does RDS database scaling work in AWS?
 
 ---
 

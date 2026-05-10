@@ -2,7 +2,7 @@
 noteId: 1778392162598
 ---
 
-# Key Relationship
+# What is the relationship between IAM Identity Center and AWS Organizations?
 
 ---
 

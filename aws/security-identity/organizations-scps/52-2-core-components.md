@@ -2,7 +2,7 @@
 noteId: 1778392163998
 ---
 
-# Core Components
+# What are the core components of AWS Organizations?
 
 ---
 

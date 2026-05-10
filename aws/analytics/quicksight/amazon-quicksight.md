@@ -2,7 +2,7 @@
 noteId: 1778392159197
 ---
 
-# Amazon QuickSight
+# What is Amazon QuickSight?
 
 ---
 

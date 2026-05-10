@@ -2,7 +2,7 @@
 noteId: 1778392157998
 ---
 
-# Architecture Pipeline
+# What is the complete architecture pipeline for the analytics solution?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392158798
 ---
 
-# Kinesis Options
+# What Kinesis options were considered and which was rejected?
 
 ---
 

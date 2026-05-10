@@ -2,7 +2,7 @@
 noteId: 1778392157723
 ---
 
-# API Types
+# What API types does Amazon API Gateway support?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392162148
 ---
 
-# Authentication Protocols
+# What authentication protocols are used for AWS federation?
 
 ---
 

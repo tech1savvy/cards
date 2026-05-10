@@ -2,7 +2,7 @@
 noteId: 1778392165848
 ---
 
-# Why SSM in Hybrid Environments
+# Why use AWS Systems Manager in hybrid environments?
 
 ---
 

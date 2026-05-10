@@ -2,7 +2,7 @@
 noteId: 1778392165347
 ---
 
-# 1. Redundant Connectivity
+# How is redundant connectivity achieved in hybrid architectures?
 
 ---
 

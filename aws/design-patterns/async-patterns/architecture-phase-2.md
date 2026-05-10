@@ -2,7 +2,7 @@
 noteId: 1778392160922
 ---
 
-# Architecture (Phase 2)
+# What does the Phase 2 architecture look like?
 
 ---
 

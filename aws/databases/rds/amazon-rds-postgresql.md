@@ -2,7 +2,7 @@
 noteId: 1778392160172
 ---
 
-# Amazon RDS (PostgreSQL)
+# What is Amazon RDS for PostgreSQL?
 
 ---
 

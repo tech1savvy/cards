@@ -2,7 +2,7 @@
 noteId: 1778392161749
 ---
 
-# Core Concepts
+# What are the core concepts of AWS CloudFormation?
 
 ---
 

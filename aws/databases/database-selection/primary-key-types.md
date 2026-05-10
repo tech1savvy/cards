@@ -2,7 +2,7 @@
 noteId: 1778392160473
 ---
 
-# Primary Key Types
+# What primary key and capacity options does DynamoDB offer?
 
 ---
 

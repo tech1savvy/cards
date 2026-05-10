@@ -2,7 +2,7 @@
 noteId: 1778392159073
 ---
 
-# Data Strategy
+# What is the data strategy for the analytics pipeline?
 
 ---
 

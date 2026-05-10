@@ -2,7 +2,7 @@
 noteId: 1778392162497
 ---
 
-# AWS IAM Identity Center (SSO)
+# What is AWS IAM Identity Center (SSO)?
 
 ---
 

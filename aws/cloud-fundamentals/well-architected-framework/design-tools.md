@@ -2,7 +2,7 @@
 noteId: 1778392161622
 ---
 
-# Design Tools
+# What design tools does AWS provide?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1778392157523
 ---
 
-# API Gateway (Entry Point)
+# How does API Gateway function as an entry point?
 
 ---
 

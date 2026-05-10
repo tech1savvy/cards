@@ -2,7 +2,7 @@
 noteId: 1778392158923
 ---
 
-# Streams vs Firehose
+# How do Kinesis Data Streams and Data Firehose compare?
 
 ---
 

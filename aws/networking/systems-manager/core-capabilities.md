@@ -2,7 +2,7 @@
 noteId: 1778392165748
 ---
 
-# Core Capabilities
+# What are the core capabilities of AWS Systems Manager?
 
 ---
 

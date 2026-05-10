@@ -2,7 +2,7 @@
 noteId: 1778392159223
 ---
 
-# AWS Integration
+# What AWS services can QuickSight integrate with?
 
 ---
 

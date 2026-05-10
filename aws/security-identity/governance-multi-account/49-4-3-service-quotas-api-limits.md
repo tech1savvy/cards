@@ -2,7 +2,7 @@
 noteId: 1778392163822
 ---
 
-# 3. Service Quotas & API Limits
+# What are service quotas and API limits in AWS?
 
 ---
 

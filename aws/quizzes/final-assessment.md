@@ -2,7 +2,7 @@
 noteId: 1778392166748
 ---
 
-# Final Assessment: Architecting Solutions on AWS
+# What key concepts and services are covered in the Architecting Solutions on AWS assessment?
 
 ---
 

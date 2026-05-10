@@ -2,7 +2,7 @@
 noteId: 1778392159398
 ---
 
-# Cross-Region Replication (CRR)
+# What is Cross-Region Replication (CRR) in S3?
 
 ---
 

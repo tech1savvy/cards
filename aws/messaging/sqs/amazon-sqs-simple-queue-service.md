@@ -2,7 +2,7 @@
 noteId: 1778392166223
 ---
 
-# Amazon SQS: Simple Queue Service
+# What is Amazon SQS and what is it used for?
 
 ---
 

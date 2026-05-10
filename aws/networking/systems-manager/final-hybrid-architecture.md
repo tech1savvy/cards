@@ -2,7 +2,7 @@
 noteId: 1778392164573
 ---
 
-# Final Hybrid Architecture
+# What does the final hybrid architecture look like?
 
 ---
 

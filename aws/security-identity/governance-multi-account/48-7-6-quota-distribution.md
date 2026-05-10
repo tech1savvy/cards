@@ -2,7 +2,7 @@
 noteId: 1778392163697
 ---
 
-# 6. Quota Distribution
+# How does quota distribution work across multiple AWS accounts?
 
 ---
 

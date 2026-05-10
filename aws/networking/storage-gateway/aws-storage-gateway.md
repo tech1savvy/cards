@@ -2,7 +2,7 @@
 noteId: 1778392165423
 ---
 
-# AWS Storage Gateway
+# What is AWS Storage Gateway?
 
 ---
 

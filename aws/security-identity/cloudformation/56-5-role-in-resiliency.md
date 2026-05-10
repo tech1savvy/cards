@@ -2,7 +2,7 @@
 noteId: 1778392161823
 ---
 
-# Role in Resiliency
+# What role does Infrastructure as Code play in resiliency?
 
 ---
 

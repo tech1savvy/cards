@@ -2,7 +2,7 @@
 noteId: 1778392157873
 ---
 
-# Operational Principles
+# What are the operational principles of AWS Lambda?
 
 ---
 
