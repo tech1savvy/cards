@@ -1,0 +1,3 @@
+- CNAMEs can only point to ~~domain names~~, never directly to ~~IP addresses~~.
+- You can't have ~~two records _e.g. A + CNAME_~~ for the same subdomain.
+- If the target has multiple A records, the CNAME chains to ~~all of them~~.
