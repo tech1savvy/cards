@@ -1,6 +1,4 @@
 ---
-tags:
-  - "#flashcards/sql-create-table"
 noteId: 1777823458996
 ---
 
