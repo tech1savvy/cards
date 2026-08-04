@@ -1,3 +1,7 @@
+---
+noteId: 1785850790267
+---
+
 # What is an ARN in AWS?
 
 ---

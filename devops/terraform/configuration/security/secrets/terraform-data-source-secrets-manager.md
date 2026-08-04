@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811517
 ---
 
 # How do you use a data source to fetch a secret from AWS Secrets Manager?

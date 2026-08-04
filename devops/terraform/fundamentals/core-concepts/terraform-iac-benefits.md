@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812542
 ---
 
 # What is Infrastructure as Code (IaC) and what are its main benefits?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811491
 ---
 
 # How does CI/CD enable secret rotation with Terraform?

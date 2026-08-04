@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809342
 ---
 
 # What does `terraform state rm` do?

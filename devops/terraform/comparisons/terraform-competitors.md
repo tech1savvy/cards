@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809841
 ---
 
 # Who are the key competitors to Terraform in the IaC market?

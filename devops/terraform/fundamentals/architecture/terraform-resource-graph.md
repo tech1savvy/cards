@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812418
 ---
 
 # What is a Resource Graph in Terraform?

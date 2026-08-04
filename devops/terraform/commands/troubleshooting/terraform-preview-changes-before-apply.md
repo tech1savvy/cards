@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809717
 ---
 
 # How does `terraform plan` help with troubleshooting?

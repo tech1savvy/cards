@@ -1,3 +1,7 @@
+---
+noteId: 1785850815892
+---
+
 # What is a DNS NS (nameserver) record?
 
 ---

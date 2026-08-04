@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814492
 ---
 
 # How can Terraform handle duplicate resource errors during `terraform apply`?

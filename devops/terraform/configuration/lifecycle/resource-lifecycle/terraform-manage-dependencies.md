@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810568
 ---
 
 # How do you manage dependencies between resources in Terraform?

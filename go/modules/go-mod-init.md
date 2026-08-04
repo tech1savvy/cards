@@ -1,3 +1,7 @@
+---
+noteId: 1785850816243
+---
+
 How do I initialize a Go module?
 
 ---

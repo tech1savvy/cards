@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813142
 ---
 
 # How do you make an object from one module available to another module?

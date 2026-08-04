@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813493
 ---
 
 # How do Terraform providers integrate with Terraform core?

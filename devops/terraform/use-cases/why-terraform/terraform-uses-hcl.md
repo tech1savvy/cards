@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815142
 ---
 
 # Why does Terraform use HCL (HashiCorp Configuration Language)?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812967
 ---
 
 # What is the difference between `terraform apply -auto-approve` and regular `terraform apply`?

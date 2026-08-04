@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815042
 ---
 
 # Why is Terraform portable across providers?

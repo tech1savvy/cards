@@ -1,4 +1,5 @@
 ---
+noteId: 1785850808817
 ---
 
 # How does `terraform apply` differ from `terraform plan`?

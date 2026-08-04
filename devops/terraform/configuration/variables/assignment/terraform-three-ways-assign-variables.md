@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811817
 ---
 
 # What are three common ways to assign values to Terraform variables?

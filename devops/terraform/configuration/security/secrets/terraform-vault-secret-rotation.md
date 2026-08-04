@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811567
 ---
 
 # How do you integrate HashiCorp Vault for secret rotation in Terraform?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812742
 ---
 
 # What is an `output` block in HCL?

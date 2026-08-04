@@ -1,3 +1,7 @@
+---
+noteId: 1785850815918
+---
+
 # What is a DNS SOA (Start of Authority) record?
 
 ---

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810293
 ---
 
 # How do you use `for_each` to create multiple S3 buckets from a list?

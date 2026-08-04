@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812892
 ---
 
 # What is HCL and why is it used in Terraform?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814691
 ---
 
 # What is the difference between Terraform Enterprise and open-source Terraform?

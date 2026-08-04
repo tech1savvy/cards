@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814245
 ---
 
 # What are some examples of Sentinel policy use cases?

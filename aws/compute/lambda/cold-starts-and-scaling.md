@@ -1,3 +1,7 @@
+---
+noteId: 1785850790641
+---
+
 # What happens when an AWS Lambda function is invoked?
 
 ---

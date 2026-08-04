@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810542
 ---
 
 # What are the lifecycle configuration options in Terraform?

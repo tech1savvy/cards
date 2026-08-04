@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811968
 ---
 
 # How do Terraform locals enhance configuration readability?

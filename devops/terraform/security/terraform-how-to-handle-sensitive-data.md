@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814117
 ---
 
 # How do you handle sensitive data in Terraform?

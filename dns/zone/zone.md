@@ -1,3 +1,7 @@
+---
+noteId: 1785850815942
+---
+
 # What is a DNS zone?
 
 ---

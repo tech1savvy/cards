@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812517
 ---
 
 # What is the difference between declarative and imperative IaC?

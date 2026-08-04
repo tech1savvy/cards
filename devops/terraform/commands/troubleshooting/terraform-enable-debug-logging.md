@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809692
 ---
 
 # How do you enable debug logging for Terraform troubleshooting?

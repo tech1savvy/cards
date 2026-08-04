@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810418
 ---
 
 # How do you create parallel environments for blue-green deployments?

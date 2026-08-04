@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814342
 ---
 
 # What is state locking and why is it critical for collaboration?

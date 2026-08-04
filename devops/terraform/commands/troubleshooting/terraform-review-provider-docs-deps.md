@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809767
 ---
 
 # How do provider documentation and resource dependencies help troubleshoot Terraform?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811692
 ---
 
 # How do you manage remote state in Terraform?

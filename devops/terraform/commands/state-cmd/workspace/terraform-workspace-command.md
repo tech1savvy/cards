@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809442
 ---
 
 # What does `terraform workspace` do?

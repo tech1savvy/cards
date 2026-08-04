@@ -1,3 +1,7 @@
+---
+noteId: 1785850815592
+---
+
 # What is DNS TTL (Time to Live)?
 
 ---

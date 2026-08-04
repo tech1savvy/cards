@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815318
 ---
 
 # How do you manage environments using distinct state files?

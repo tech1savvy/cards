@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812717
 ---
 
 # What is the difference between `count` and `for_each` in Terraform?

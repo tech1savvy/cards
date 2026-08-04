@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810891
 ---
 
 # What naming conventions should Terraform resources follow?

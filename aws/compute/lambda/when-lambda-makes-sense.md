@@ -1,3 +1,7 @@
+---
+noteId: 1785850790692
+---
+
 # When does AWS Lambda make sense to use?
 
 ---

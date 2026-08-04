@@ -1,3 +1,7 @@
+---
+noteId: 1785850816342
+---
+
 # How do I safely join path segments in Go?
 
 ---

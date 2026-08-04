@@ -1,3 +1,7 @@
+---
+noteId: 1785850815492
+---
+
 # How do I initialize a Vagrant environment with a specific box and version?
 
 ---

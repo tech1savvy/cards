@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812343
 ---
 
 # What are the components of Terraform's architecture?

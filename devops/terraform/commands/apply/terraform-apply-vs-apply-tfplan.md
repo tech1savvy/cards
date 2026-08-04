@@ -1,4 +1,5 @@
 ---
+noteId: 1785850808718
 ---
 
 # What is the difference between `terraform apply` and `terraform apply tfplan`?

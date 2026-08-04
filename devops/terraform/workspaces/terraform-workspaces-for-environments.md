@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815391
 ---
 
 # How do you manage environments using Terraform workspaces?

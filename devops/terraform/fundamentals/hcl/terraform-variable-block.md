@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812867
 ---
 
 # What is a `variable` block in HCL?

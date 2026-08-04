@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812017
 ---
 
 # What is the difference between Terraform outputs and data sources?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810917
 ---
 
 # How do workspaces help with multi-deployment management?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811167
 ---
 
 # How does Semantic Versioning apply to Terraform modules?

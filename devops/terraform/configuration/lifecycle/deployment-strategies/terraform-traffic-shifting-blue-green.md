@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810468
 ---
 
 # How do you shift traffic in a blue-green deployment with Terraform?

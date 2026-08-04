@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814017
 ---
 
 # Scenario: Multiple engineers are applying Terraform changes and state conflicts occur. How do you prevent this?

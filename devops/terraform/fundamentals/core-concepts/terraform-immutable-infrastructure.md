@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812568
 ---
 
 # How does Terraform support immutable infrastructure?

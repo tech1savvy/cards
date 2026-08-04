@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813442
 ---
 
 # Can Terraform manage on-premises infrastructure?

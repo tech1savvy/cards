@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813517
 ---
 
 # How do Terraform providers and resources differ?

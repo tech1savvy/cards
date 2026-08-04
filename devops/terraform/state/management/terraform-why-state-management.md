@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814417
 ---
 
 # Why is state management important in Terraform?

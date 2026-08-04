@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809892
 ---
 
 # How does Terraform differ from CloudFormation?

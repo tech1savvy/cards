@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813116
 ---
 
 # How do you reuse code across multiple Terraform projects?

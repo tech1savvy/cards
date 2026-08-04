@@ -1,4 +1,5 @@
 ---
+noteId: 1785850808642
 ---
 
 # Are callbacks possible with Terraform on Azure?

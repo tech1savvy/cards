@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811942
 ---
 
 # What is the difference between input variables and local variables (`locals`)?

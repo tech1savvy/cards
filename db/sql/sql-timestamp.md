@@ -1,3 +1,7 @@
+---
+noteId: 1785850807867
+---
+
 # What is the `TIMESTAMP` data type in SQL?
 
 ---

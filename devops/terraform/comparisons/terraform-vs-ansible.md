@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809867
 ---
 
 # How does Terraform differ from Ansible?

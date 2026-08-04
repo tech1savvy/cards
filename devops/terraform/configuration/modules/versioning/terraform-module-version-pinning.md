@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811092
 ---
 
 # How does module version pinning help manage dependencies?

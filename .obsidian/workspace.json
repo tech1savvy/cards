@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfbe5aba8a46c697",
+        "id": "857bd1e3160c3ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "d7db157cd1fca8a6",
+            "id": "5f663b6eee417ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/quizzes/final-assessment.md",
+                "file": "aws/storage/object/s3/fundamentals/s3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "final-assessment"
+              "title": "s3"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/quizzes/final-assessment.md"
+                "file": "aws/storage/object/s3/fundamentals/s3.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for final-assessment"
+              "title": "File properties"
             }
           }
         ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/quizzes/final-assessment.md",
+                "file": "aws/storage/object/s3/fundamentals/s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for final-assessment"
+              "title": "Backlinks"
             }
           },
           {
@@ -222,8 +222,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d7db157cd1fca8a6",
+  "active": "5f663b6eee417ad9",
   "lastOpenFiles": [
+    "aws/storage/object/object-storage.md",
+    "aws/storage/object/s3/storage-classes/s3-standard-ia.md",
     "aws/quizzes/Week 1 Quiz - Getting Started with AWS Cloud.md",
     "aws/ai-ml/bedrock/fine-tuning.md",
     "aws/ai-ml/bedrock/continued-pre-training.md",
@@ -257,8 +259,6 @@
     "aws/compute/api-gateway/amazon-api-gateway.md",
     "aws/compute/api-gateway/api-gateway-entry-point.md",
     "aws/quizzes/Week 4 Quiz - Monitoring and Optimization.md",
-    "aws/quizzes/Week 3 Quiz - Storage & Databases.md",
-    "aws/quizzes/Week 2 Quiz - Compute & Networking.md",
-    "aws/quizzes/End of Course Assessment.md"
+    "aws/quizzes/Week 3 Quiz - Storage & Databases.md"
   ]
 }

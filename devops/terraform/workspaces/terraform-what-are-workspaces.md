@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815367
 ---
 
 # What are workspaces in Terraform?

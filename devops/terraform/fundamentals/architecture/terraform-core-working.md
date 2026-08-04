@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812392
 ---
 
 # How does Terraform core work?

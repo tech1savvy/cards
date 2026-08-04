@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813992
 ---
 
 # Scenario: A team member manually changed an EC2 instance type in the AWS console. How do you detect and reconcile this?

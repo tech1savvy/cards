@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813967
 ---
 
 # Scenario: A Terraform state file became corrupted due to a system failure. How do you recover?

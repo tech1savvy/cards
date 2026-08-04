@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810867
 ---
 
 # How do outputs and variables enable parameterization?

@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815342
 ---
 
 # How do you manage environments using separate directories?

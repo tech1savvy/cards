@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813643
 ---
 
 # What are common use cases for `null_resource` in Terraform?

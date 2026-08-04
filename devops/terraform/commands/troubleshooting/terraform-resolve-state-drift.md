@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809742
 ---
 
 # How does `terraform refresh` help resolve state drift?

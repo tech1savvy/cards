@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809967
 ---
 
 # What does a basic Terraform configuration for a single EC2 instance on AWS look like?

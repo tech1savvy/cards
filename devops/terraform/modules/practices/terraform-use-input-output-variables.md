@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813342
 ---
 
 # Why use input and output variables in Terraform modules?

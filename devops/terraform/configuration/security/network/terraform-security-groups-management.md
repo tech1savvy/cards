@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811392
 ---
 
 # How do you manage security groups and firewall rules in Terraform?

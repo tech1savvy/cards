@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814542
 ---
 
 # How does Terraform handle resources deleted outside of Terraform (orphaned resources)?

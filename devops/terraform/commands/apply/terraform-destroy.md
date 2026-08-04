@@ -1,4 +1,5 @@
 ---
+noteId: 1785850808742
 ---
 
 # What does `terraform destroy` do?

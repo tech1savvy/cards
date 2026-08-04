@@ -1,4 +1,5 @@
 ---
+noteId: 1785850815419
 ---
 
 # How do Terraform workspaces differ from modules?

@@ -1,3 +1,7 @@
+---
+noteId: 1785850807417
+---
+
 RTT is the time for ~~a request to go from your computer to the server and back~~.
 
 ---

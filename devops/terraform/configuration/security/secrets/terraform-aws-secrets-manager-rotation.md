@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811466
 ---
 
 # How do you integrate AWS Secrets Manager for secret rotation in Terraform?

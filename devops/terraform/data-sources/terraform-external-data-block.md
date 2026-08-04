@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812242
 ---
 
 # What is the external data block in Terraform?

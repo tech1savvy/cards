@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813542
 ---
 
 # What are Terraform resources?

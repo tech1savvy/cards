@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813942
 ---
 
 # Scenario: How do you integrate Terraform into a CI/CD pipeline?

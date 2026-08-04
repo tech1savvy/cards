@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814667
 ---
 
 # What is the difference between Terraform Cloud and Terraform Enterprise?

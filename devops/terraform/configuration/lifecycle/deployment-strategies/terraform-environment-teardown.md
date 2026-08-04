@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810392
 ---
 
 # How do you tear down old environments after a blue-green deployment?

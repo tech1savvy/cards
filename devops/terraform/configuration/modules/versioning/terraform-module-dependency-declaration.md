@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811017
 ---
 
 # How should modules declare their provider dependencies?

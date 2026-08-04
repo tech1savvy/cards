@@ -1,4 +1,5 @@
 ---
+noteId: 1785850813867
 ---
 
 # What rollback strategies can you implement in Terraform for failed deployments?

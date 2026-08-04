@@ -1,3 +1,7 @@
+---
+noteId: 1785850807893
+---
+
 # Does SQL have a native `UUID` data type?
 
 ---

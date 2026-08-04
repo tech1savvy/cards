@@ -1,3 +1,7 @@
+---
+noteId: 1785850815667
+---
+
 # What is a DNS A (address) record?
 
 ---

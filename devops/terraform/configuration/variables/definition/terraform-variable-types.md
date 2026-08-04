@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812042
 ---
 
 # What are the different types of Terraform variables?

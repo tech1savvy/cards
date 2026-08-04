@@ -1,4 +1,5 @@
 ---
+noteId: 1785850810243
 ---
 
 # What are dynamic blocks in Terraform?

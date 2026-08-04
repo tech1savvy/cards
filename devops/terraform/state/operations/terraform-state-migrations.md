@@ -1,4 +1,5 @@
 ---
+noteId: 1785850814567
 ---
 
 # When are Terraform state migrations necessary?

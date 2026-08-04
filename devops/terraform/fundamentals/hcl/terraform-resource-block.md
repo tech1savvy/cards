@@ -1,4 +1,5 @@
 ---
+noteId: 1785850812842
 ---
 
 # What is a `resource` block in HCL?

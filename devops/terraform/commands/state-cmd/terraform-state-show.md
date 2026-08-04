@@ -1,4 +1,5 @@
 ---
+noteId: 1785850809367
 ---
 
 # What does `terraform state show` do?

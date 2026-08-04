@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811917
 ---
 
 # How do you define variables in Terraform?

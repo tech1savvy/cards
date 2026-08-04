@@ -1,4 +1,5 @@
 ---
+noteId: 1785850811718
 ---
 
 # How do you manage Terraform state in a CI/CD pipeline?

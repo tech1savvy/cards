@@ -1,3 +1,7 @@
+---
+noteId: 1785850790341
+---
+
 # What is a CloudFront distribution?
 
 ---
