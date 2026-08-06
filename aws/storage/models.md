@@ -1,0 +1,1 @@
+- The three primary storage models in AWS are ==Block==, ==File==, and ==Object==.

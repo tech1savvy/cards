@@ -1,0 +1,5 @@
+.markdown-source-view .cm-custom-highlight,
+.markdown-source-view .cm-highlight,
+.markdown-source-view .cm-formatting-highlight {
+  background-color: var(--hl2);
+}

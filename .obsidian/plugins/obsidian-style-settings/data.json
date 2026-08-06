@@ -1,0 +1,15 @@
+{
+  "minimal-style@@bold-color@@light": "#008080",
+  "minimal-style@@bold-color@@dark": "#008080",
+  "minimal-style@@italic-color@@light": "#3cb371",
+  "minimal-style@@italic-color@@dark": "#3cb371",
+  "minimal-style@@hl2@@light": "#3a7d70",
+  "minimal-style@@hl2@@dark": "#3a7d70",
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h2-l": true,
+  "minimal-style@@h3-l": true,
+  "minimal-style@@h5-l": true,
+  "minimal-style@@h4-l": true,
+  "minimal-style@@h6-l": true,
+  "minimal-style@@metadata-heading-off": true
+}

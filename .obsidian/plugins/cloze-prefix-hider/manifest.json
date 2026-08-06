@@ -1,0 +1,9 @@
+{
+  "id": "cloze-prefix-hider",
+  "name": "Cloze Prefix Hider",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Hides cloze card number prefixes (1;;, 2;;, etc.) from rendered italic text in reading mode.",
+  "author": "tech1savvy",
+  "isDesktopOnly": false
+}

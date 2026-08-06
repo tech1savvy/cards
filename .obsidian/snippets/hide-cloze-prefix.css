@@ -1,0 +1,7 @@
+.markdown-reading-view em,
+.markdown-source-view .cm-em,
+span.cm-em {
+  overflow: hidden;
+  display: inline-block;
+  text-indent: -4ch;
+}

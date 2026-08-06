@@ -1,0 +1,178 @@
+{
+  "presetAgents": {
+    "claude-code-acp": {
+      "id": "claude-code-acp",
+      "displayName": "Claude Code",
+      "apiKeySecretId": "",
+      "command": "claude-agent-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "codex-acp": {
+      "id": "codex-acp",
+      "displayName": "Codex",
+      "apiKeySecretId": "",
+      "command": "codex-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "gemini-cli": {
+      "id": "gemini-cli",
+      "displayName": "Gemini CLI",
+      "apiKeySecretId": "",
+      "command": "gemini",
+      "args": [
+        "--experimental-acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "mistral-vibe": {
+      "id": "mistral-vibe",
+      "displayName": "Mistral Vibe",
+      "apiKeySecretId": "",
+      "command": "vibe-acp",
+      "args": [],
+      "env": [],
+      "enabled": true
+    },
+    "opencode": {
+      "id": "opencode",
+      "displayName": "OpenCode",
+      "apiKeySecretId": "",
+      "command": "opencode",
+      "args": [
+        "acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "kiro-cli": {
+      "id": "kiro-cli",
+      "displayName": "Kiro",
+      "apiKeySecretId": "",
+      "command": "kiro-cli",
+      "args": [
+        "acp"
+      ],
+      "env": [],
+      "enabled": true
+    },
+    "hermes-agent": {
+      "id": "hermes-agent",
+      "displayName": "Hermes Agent",
+      "apiKeySecretId": "",
+      "command": "hermes",
+      "args": [
+        "acp"
+      ],
+      "env": [],
+      "enabled": true
+    }
+  },
+  "customAgents": [],
+  "defaultAgentId": "opencode",
+  "autoAllowPermissions": false,
+  "autoMentionActiveNote": true,
+  "expandWikilinkContext": true,
+  "enableSystemNotifications": true,
+  "promptInjection": {
+    "enabled": true,
+    "latex": true,
+    "wikiLinks": true,
+    "tables": true
+  },
+  "debugMode": false,
+  "nodePath": "/run/current-system/sw/bin/node",
+  "exportSettings": {
+    "defaultFolder": "Agent Client",
+    "filenameTemplate": "agent_client_{date}_{time}",
+    "autoExportOnNewChat": false,
+    "autoExportOnCloseChat": false,
+    "openFileAfterExport": true,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "Agent Client",
+    "frontmatterTag": "agent-client"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "chatViewLocation": "right-tab",
+  "displaySettings": {
+    "autoCollapseDiffs": false,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000,
+    "showEmojis": true,
+    "fontSize": null
+  },
+  "savedSessions": [
+    {
+      "sessionId": "ses_029377e02ffeSJ5FHW8hwM74FN",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "@[[comparisons]] , use same cloze card approch ...",
+      "createdAt": "2026-08-06T11:15:44.190Z",
+      "updatedAt": "2026-08-06T11:15:44.194Z"
+    },
+    {
+      "sessionId": "ses_0296f2f01ffeM5GRNXaB5QAeNG",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "lets create a seprate file for s3",
+      "createdAt": "2026-08-06T10:16:40.535Z",
+      "updatedAt": "2026-08-06T10:39:21.605Z"
+    },
+    {
+      "sessionId": "ses_0297039a8ffe9ZWPANhk1agaUE",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "pwd",
+      "createdAt": "2026-08-06T10:13:19.086Z",
+      "updatedAt": "2026-08-06T10:13:59.742Z"
+    },
+    {
+      "sessionId": "ses_02970ff5affe0p1yraUGN5uQEv",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "try pwd, and ls cmds",
+      "createdAt": "2026-08-06T10:12:17.650Z",
+      "updatedAt": "2026-08-06T10:12:35.144Z"
+    },
+    {
+      "sessionId": "ses_02976f437ffeuEhZb5WAz4feEp",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "pwd?",
+      "createdAt": "2026-08-06T10:10:25.209Z",
+      "updatedAt": "2026-08-06T10:11:58.647Z"
+    },
+    {
+      "sessionId": "ses_0297a0786ffe4H1qFU87lCTqn5",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "hi",
+      "createdAt": "2026-08-06T10:02:24.595Z",
+      "updatedAt": "2026-08-06T10:05:17.534Z"
+    }
+  ],
+  "lastUsedModels": {
+    "opencode": "opencode-go/deepseek-v4-pro"
+  },
+  "lastUsedModes": {},
+  "lastUsedConfigOptions": {
+    "opencode": {
+      "effort": "medium"
+    }
+  },
+  "enableFloatingChat": false,
+  "floatingButtonImage": "",
+  "floatingWindowSize": {
+    "width": 400,
+    "height": 500
+  },
+  "floatingWindowPosition": null,
+  "floatingButtonPosition": null
+}

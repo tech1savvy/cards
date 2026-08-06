@@ -1,5 +1,9 @@
 {
   "theme": "obsidian",
   "showViewHeader": true,
-  "baseFontSize": 20
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "live-preview-highlight"
+  ],
+  "cssTheme": "Minimal"
 }

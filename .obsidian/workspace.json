@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "857bd1e3160c3ce3",
+        "id": "3b34c041b795844a",
         "type": "tabs",
         "children": [
           {
-            "id": "5f663b6eee417ad9",
+            "id": "e9de6792d79e8e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/storage/object/s3/fundamentals/s3.md",
+                "file": "aws/storage/object/s3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -83,22 +85,14 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "8adf389b9a80daa8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 437.5078125
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1e013f3c07534966",
@@ -143,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "file": "aws/storage/object/s3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fine-tuning"
+              "title": "Outline"
             }
           },
           {
@@ -158,26 +152,39 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/storage/object/s3/fundamentals/s3.md"
+                "file": "aws/storage/test.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "d8af328b4a90c555",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bc7c8a667019ec68",
+            "id": "0145052c1bc77975",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "13c22ca2b721679c",
+            "type": "leaf",
+            "state": {
+              "type": "agent-client-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "New session"
+            }
+          },
+          {
+            "id": "4b9be9c16d5a4633",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/storage/object/s3/fundamentals/s3.md",
+                "file": "aws/storage/object/s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,39 +198,56 @@
             }
           },
           {
-            "id": "abe7337222654c34",
+            "id": "e04aebb4da852149",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/ai-ml/bedrock/fine-tuning.md",
+                "file": "aws/storage/object/s3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from fine-tuning"
+              "title": "Outgoing links"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 384.98046875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "agent-client:Open agent client": false
     }
   },
-  "active": "5f663b6eee417ad9",
+  "active": "0145052c1bc77975",
   "lastOpenFiles": [
+    "aws/storage/object/s3.md",
+    "aws/storage/object/object.md",
+    "aws/storage/object",
+    "aws/storage/s3.md",
+    "aws/storage/decisions.md",
+    "aws/storage/file.md",
+    "opencode.json",
+    "aws/storage/comparisons.md",
+    "aws/storage/models.md",
+    "aws/storage/block.md",
+    "aws/storage/test.md",
+    "aws/storage/test.md~",
+    "aws/storage/comparisons.md~",
+    "aws/storage/storage-models.md",
+    "aws/storage/object/s3/lifecycle/s3-lifecycle-expiration.md",
+    "aws/storage/object/s3/fundamentals/s3.md",
     "aws/storage/object/object-storage.md",
     "aws/storage/object/s3/storage-classes/s3-standard-ia.md",
     "aws/quizzes/Week 1 Quiz - Getting Started with AWS Cloud.md",
@@ -238,27 +262,11 @@
     "aws/meta/index.mdx",
     "aws/index.mdx",
     "aws/case-studies/index.mdx",
-    "aws/ai-ml/index.mdx",
-    "aws/monitoring-observability/index.mdx",
-    "aws/security-identity/index.mdx",
-    "aws/analytics/index.mdx",
     "aws/meta/weekly-topics.md",
     "aws/meta/week-4-account-governance.md",
     "aws/meta/week-3-hybrid-container-architecture.md",
     "aws/meta/week-2-serverless-data-analytics.md",
     "aws/meta/week-1-roles.md",
-    "aws/meta/support-learning-process.md",
-    "aws/meta/real-world-context.md",
-    "aws/meta/overview.md",
-    "aws/meta/learning-strategy.md",
-    "aws/meta/learning-methodology.md",
-    "aws/meta/course-approach.md",
-    "aws/meta/architecture-process.md",
-    "aws/databases/database-selection/database-storage-options.md",
-    "aws/compute/api-gateway/api-types.md",
-    "aws/compute/api-gateway/amazon-api-gateway.md",
-    "aws/compute/api-gateway/api-gateway-entry-point.md",
-    "aws/quizzes/Week 4 Quiz - Monitoring and Optimization.md",
-    "aws/quizzes/Week 3 Quiz - Storage & Databases.md"
+    "aws/meta/support-learning-process.md"
   ]
 }
