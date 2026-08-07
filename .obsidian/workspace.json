@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b34c041b795844a",
+        "id": "b302165f5bbf7d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "e9de6792d79e8e37",
+            "id": "05258c02d2689b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/storage/object/s3.md",
+                "file": "aws/storage/block.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "s3"
+              "title": "block"
+            }
+          },
+          {
+            "id": "b784901123e5b67c",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
             }
           }
         ]
@@ -91,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 294.669921875
   },
   "right": {
     "id": "1e013f3c07534966",
@@ -152,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/storage/test.md"
+                "file": "aws/storage/block.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -164,8 +173,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -175,7 +184,7 @@
               "type": "agent-client-chat-view",
               "state": {},
               "icon": "bot-message-square",
-              "title": "New session"
+              "title": "replace = with * in this file"
             }
           },
           {
@@ -212,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 384.98046875,
-    "collapsed": true
+    "width": 491.14453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,22 +234,37 @@
       "command-palette:Open command palette": false,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "agent-client:Open agent client": false
     }
   },
-  "active": "0145052c1bc77975",
+  "active": "13c22ca2b721679c",
   "lastOpenFiles": [
-    "aws/storage/object/s3.md",
+    "aws/storage/file.md",
+    "aws/storage/block.md",
     "aws/storage/object/object.md",
+    "aws/storage/object/s3/storage-classes.md",
+    "aws/storage/object/s3/s3.md",
+    "aws/storage/object/s3/buckets.md",
+    "aws/storage/object/s3/features/encryption.md",
+    "aws/storage/object/s3/features/cross-region-replication.md",
+    "aws/storage/object/s3/features/lifecycle-management.md",
+    "aws/storage/object/s3/features/versioning.md",
+    "networking/networking.md",
+    "networking/protocols/ssl-tls.md",
+    "networking/protocols",
+    "AGENTS.md~",
+    "aws/storage/object/s3/features",
+    "aws/storage/object/s3",
+    "AGENTS.md",
+    "db/sql/sql-select.md",
+    "ansible/inventory/groups/all.md",
+    "db/mongodb/uri-format.md",
     "aws/storage/object",
     "aws/storage/s3.md",
     "aws/storage/decisions.md",
-    "aws/storage/file.md",
     "opencode.json",
     "aws/storage/comparisons.md",
     "aws/storage/models.md",
-    "aws/storage/block.md",
     "aws/storage/test.md",
     "aws/storage/test.md~",
     "aws/storage/comparisons.md~",
@@ -250,23 +273,7 @@
     "aws/storage/object/s3/fundamentals/s3.md",
     "aws/storage/object/object-storage.md",
     "aws/storage/object/s3/storage-classes/s3-standard-ia.md",
-    "aws/quizzes/Week 1 Quiz - Getting Started with AWS Cloud.md",
-    "aws/ai-ml/bedrock/fine-tuning.md",
-    "aws/ai-ml/bedrock/continued-pre-training.md",
-    "aws/ai-ml/q-developer/amazon-q-troubleshooting.md",
-    "aws/ai-ml/q-developer/amazon-q-connect.md",
-    "aws/data-lakes/architectures/modern-architecture/modern-data-architecture-categories.md",
     "aws/data-lakes/data-lake.zip",
-    "aws/data-lakes/ass.zip",
-    "aws/data-lakes/zibpHhny",
-    "aws/meta/index.mdx",
-    "aws/index.mdx",
-    "aws/case-studies/index.mdx",
-    "aws/meta/weekly-topics.md",
-    "aws/meta/week-4-account-governance.md",
-    "aws/meta/week-3-hybrid-container-architecture.md",
-    "aws/meta/week-2-serverless-data-analytics.md",
-    "aws/meta/week-1-roles.md",
-    "aws/meta/support-learning-process.md"
+    "aws/data-lakes/ass.zip"
   ]
 }

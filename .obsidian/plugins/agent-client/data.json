@@ -7,7 +7,7 @@
       "command": "claude-agent-acp",
       "args": [],
       "env": [],
-      "enabled": true
+      "enabled": false
     },
     "codex-acp": {
       "id": "codex-acp",
@@ -16,7 +16,7 @@
       "command": "codex-acp",
       "args": [],
       "env": [],
-      "enabled": true
+      "enabled": false
     },
     "gemini-cli": {
       "id": "gemini-cli",
@@ -27,7 +27,7 @@
         "--experimental-acp"
       ],
       "env": [],
-      "enabled": true
+      "enabled": false
     },
     "mistral-vibe": {
       "id": "mistral-vibe",
@@ -36,13 +36,13 @@
       "command": "vibe-acp",
       "args": [],
       "env": [],
-      "enabled": true
+      "enabled": false
     },
     "opencode": {
       "id": "opencode",
       "displayName": "OpenCode",
       "apiKeySecretId": "",
-      "command": "opencode",
+      "command": "/run/current-system/sw/bin/opencode",
       "args": [
         "acp"
       ],
@@ -58,7 +58,7 @@
         "acp"
       ],
       "env": [],
-      "enabled": true
+      "enabled": false
     },
     "hermes-agent": {
       "id": "hermes-agent",
@@ -69,7 +69,7 @@
         "acp"
       ],
       "env": [],
-      "enabled": true
+      "enabled": false
     }
   },
   "customAgents": [],
@@ -99,7 +99,7 @@
   },
   "windowsWslMode": false,
   "sendMessageShortcut": "enter",
-  "chatViewLocation": "right-tab",
+  "chatViewLocation": "editor-split",
   "displaySettings": {
     "autoCollapseDiffs": false,
     "diffCollapseThreshold": 10,
@@ -109,6 +109,118 @@
     "fontSize": null
   },
   "savedSessions": [
+    {
+      "sessionId": "ses_0235e8518ffe3ytD2fdeev5R9A",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "https://anki-decks.com/deck/detail/XntjedfsO/ u...",
+      "createdAt": "2026-08-07T14:32:13.624Z",
+      "updatedAt": "2026-08-07T14:36:11.754Z"
+    },
+    {
+      "sessionId": "ses_0237a0617ffeweokBbEQI4jLoo",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "replace = with * in this file",
+      "createdAt": "2026-08-07T14:00:46.803Z",
+      "updatedAt": "2026-08-07T14:14:07.546Z"
+    },
+    {
+      "sessionId": "ses_0238e3ac6ffev0WZMiNcd40zRn",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "make sepreate bulletlines for there full forms ...",
+      "createdAt": "2026-08-07T13:39:31.666Z",
+      "updatedAt": "2026-08-07T13:59:50.008Z"
+    },
+    {
+      "sessionId": "ses_0238f3072ffeCE0aJ0b8bzIUmf",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "can u open files in obsidian?",
+      "createdAt": "2026-08-07T13:37:21.228Z",
+      "updatedAt": "2026-08-07T13:37:43.092Z"
+    },
+    {
+      "sessionId": "ses_02391b448ffewfo11nwHXI9oUd",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "/obsidian-cli try using cli to query tasks",
+      "createdAt": "2026-08-07T13:35:19.565Z",
+      "updatedAt": "2026-08-07T13:36:35.162Z"
+    },
+    {
+      "sessionId": "ses_023d6116fffeHO23svyBQyBzW2",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "move to files of their own",
+      "createdAt": "2026-08-07T12:20:17.355Z",
+      "updatedAt": "2026-08-07T13:28:07.793Z"
+    },
+    {
+      "sessionId": "ses_0243bfabaffeJzKGKc5Zg1z5u5",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "add level property with value 2",
+      "createdAt": "2026-08-07T10:28:30.555Z",
+      "updatedAt": "2026-08-07T12:19:23.387Z"
+    },
+    {
+      "sessionId": "ses_02451a90cffe8GAcef03g1cQq3",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "can the table have more columns? suggestions?",
+      "createdAt": "2026-08-07T10:06:17.077Z",
+      "updatedAt": "2026-08-07T10:27:36.889Z"
+    },
+    {
+      "sessionId": "ses_0245c4b03ffeSVjJuvRj9J51Z5",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "are all s3 storage classes provide 11 nines dur...",
+      "createdAt": "2026-08-07T09:53:43.531Z",
+      "updatedAt": "2026-08-07T10:03:25.019Z"
+    },
+    {
+      "sessionId": "ses_0246a0c84ffe12QG6aSu2QyT4X",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "what is the fullform of s3?",
+      "createdAt": "2026-08-07T09:40:47.130Z",
+      "updatedAt": "2026-08-07T09:51:51.990Z"
+    },
+    {
+      "sessionId": "ses_0246a0ee9ffeh4QlMs4qLxJcZa",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "hi",
+      "createdAt": "2026-08-07T09:37:55.551Z",
+      "updatedAt": "2026-08-07T09:37:55.551Z"
+    },
+    {
+      "sessionId": "ses_024870a7cffePUzRfOAAx0hel2",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "is the information correct?",
+      "createdAt": "2026-08-07T09:37:28.890Z",
+      "updatedAt": "2026-08-07T09:37:29.492Z"
+    },
+    {
+      "sessionId": "ses_02490157cffeZBXshPyaRtDRIP",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "update the agents.md  that the cloze card syant...",
+      "createdAt": "2026-08-07T09:04:54.155Z",
+      "updatedAt": "2026-08-07T09:04:54.155Z"
+    },
+    {
+      "sessionId": "ses_024c705fbffe8ZOgN3P1wJbRFv",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "help me make falshcards out of this information...",
+      "createdAt": "2026-08-07T07:59:18.959Z",
+      "updatedAt": "2026-08-07T07:59:21.687Z"
+    },
     {
       "sessionId": "ses_029377e02ffeSJ5FHW8hwM74FN",
       "agentId": "opencode",
@@ -161,7 +273,9 @@
   "lastUsedModels": {
     "opencode": "opencode-go/deepseek-v4-pro"
   },
-  "lastUsedModes": {},
+  "lastUsedModes": {
+    "opencode": "build"
+  },
   "lastUsedConfigOptions": {
     "opencode": {
       "effort": "medium"
@@ -173,6 +287,9 @@
     "width": 400,
     "height": 500
   },
-  "floatingWindowPosition": null,
+  "floatingWindowPosition": {
+    "x": 394,
+    "y": 339
+  },
   "floatingButtonPosition": null
 }

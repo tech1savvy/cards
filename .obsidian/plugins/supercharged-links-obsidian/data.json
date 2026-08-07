@@ -1,0 +1,29 @@
+{
+  "targetAttributes": [
+    "level"
+  ],
+  "targetTags": true,
+  "getFromInlineField": false,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "enableBases": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "level",
+      "value": "1",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "4b62-9035",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

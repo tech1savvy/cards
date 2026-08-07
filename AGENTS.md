@@ -12,8 +12,11 @@ This is an Obsidian vault using the `obsidian-spaced-repetition` plugin. Every `
 The plugin recognizes three card formats (configured in `data.json:18-22`):
 
 - `Q::A` — single-line Q/A
-- Front paragraph + line with only `?` + back paragraph — multi-line Q/A
+- `Q:::A` — single-line reverse Q/A
+- Front paragraph + line with only `***` + back paragraph — multi-line Q/A
+- Front paragraph + line with only `****` + back paragraph — multi-line reverse Q/A
 - `==text==` — cloze deletion (each `==c==` line becomes a sibling card)
+- `==1;;cloze1== some text ==2;;cloze2==` — different cloze deletion groups (each `==1;;==` same number cloze hides/makes a card together)
 
 **Prefer cloze first** for single facts or list items. Use `?` for multi-line processes or tables. Use `::` for one-line Q/A.
 
@@ -31,7 +34,7 @@ Use `$...$` for inline math and `$$...$$` for display math (Obsidian Flavored Ma
 
 ## Deck Structure
 
-Each topic is a subdirectory under the vault root containing `.md` files with flashcards and `.mdx` index files defining study order.
+Each topic is a subdirectory under the vault root containing `.md` files with flashcards.
 
 ## Agent Checklist
 - [ ] Verify the target file exists and read its content before editing.

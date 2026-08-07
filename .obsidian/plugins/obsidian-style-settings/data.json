@@ -1,6 +1,6 @@
 {
-  "minimal-style@@bold-color@@light": "#008080",
-  "minimal-style@@bold-color@@dark": "#008080",
+  "minimal-style@@bold-color@@light": "#00cccc",
+  "minimal-style@@bold-color@@dark": "#00cccc",
   "minimal-style@@italic-color@@light": "#3cb371",
   "minimal-style@@italic-color@@dark": "#3cb371",
   "minimal-style@@hl2@@light": "#3a7d70",

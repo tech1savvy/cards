@@ -1,11 +1,12 @@
 [
   "notebook-navigator",
   "obsidian-spaced-repetition",
-  "table-editor-obsidian",
   "extended-markdown-syntax",
   "custom-md",
   "agent-client",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "cloze-prefix-hider"
+  "cloze-prefix-hider",
+  "edit-in-neovim",
+  "supercharged-links-obsidian"
 ]

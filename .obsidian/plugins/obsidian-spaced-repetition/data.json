@@ -13,7 +13,7 @@
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
     "clozePatterns": [
-      "*[123;;]answer[;;hint]*"
+      "==[123;;]answer[;;hint]=="
     ],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
@@ -48,8 +48,8 @@
     "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 60.26694045174538,
-    "flashcardWidthPercentage": 60.115606936416185,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
     "flashcardHeightPercentageMobile": 100,
     "flashcardWidthPercentageMobile": 100,
     "flashcardAgainText": "Again",
@@ -59,7 +59,7 @@
     "reviewButtonDelay": 0,
     "showDeleteButtonInCardView": false,
     "showDeleteButtonInFileMenu": false,
-    "openViewInNewTab": false,
+    "openViewInNewTab": true,
     "openViewInNewTabMobile": false,
     "useCustomHotkeys": false,
     "useCalloutsForSchedulingComments": false,
@@ -80,7 +80,7 @@
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
     "preferredLocale": "-"
   },
-  "buryDate": "2026-08-06",
+  "buryDate": "2026-08-07",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

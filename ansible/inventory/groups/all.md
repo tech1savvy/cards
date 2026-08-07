@@ -17,3 +17,4 @@ Which special section in Ansible inventory defines variables that apply globally
 
 - Example: `ansible_ssh_private_key_file` can be defined in `[all:vars]` to apply to all hosts.
 - Variables can also be defined for more specific groups, e.g., `[app:vars]`.
+<!--SR:!2026-08-10,3,250!2026-08-10,3,250-->
