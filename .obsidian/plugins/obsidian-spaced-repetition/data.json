@@ -28,7 +28,7 @@
     "reviewReminderShowNotice": true,
     "reviewReminderPlaySound": true,
     "reviewReminderBounceDock": true,
-    "enableNoteReviewPaneOnStartup": true,
+    "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
       "#review"
     ],
@@ -80,7 +80,7 @@
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
     "preferredLocale": "-"
   },
-  "buryDate": "2026-08-07",
+  "buryDate": "2026-08-08",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

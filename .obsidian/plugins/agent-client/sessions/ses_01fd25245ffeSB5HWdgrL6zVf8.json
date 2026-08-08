@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sessionId": "ses_01fd25245ffeSB5HWdgrL6zVf8",
+  "agentId": "opencode",
+  "messages": [
+    {
+      "id": "006568a1-0ff5-47dd-af9b-5b7c814df6e5",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "hi",
+          "autoMentionContext": {
+            "noteName": "block",
+            "notePath": "aws/storage/block.md"
+          }
+        }
+      ],
+      "timestamp": "2026-08-08T07:02:15.771Z"
+    }
+  ],
+  "savedAt": "2026-08-08T07:04:32.775Z"
+}

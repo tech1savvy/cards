@@ -110,6 +110,22 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_01fcff4efffe8N8sLSbaLlH5Pn",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "this feels like too much info, and a lot of it ...",
+      "createdAt": "2026-08-08T10:14:45.477Z",
+      "updatedAt": "2026-08-08T10:55:02.566Z"
+    },
+    {
+      "sessionId": "ses_01fd25245ffeSB5HWdgrL6zVf8",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "hi",
+      "createdAt": "2026-08-08T07:04:33.158Z",
+      "updatedAt": "2026-08-08T07:04:33.158Z"
+    },
+    {
       "sessionId": "ses_0235e8518ffe3ytD2fdeev5R9A",
       "agentId": "opencode",
       "cwd": "/home/tech1savvy/cards",
@@ -278,7 +294,7 @@
   },
   "lastUsedConfigOptions": {
     "opencode": {
-      "effort": "medium"
+      "effort": "high"
     }
   },
   "enableFloatingChat": false,

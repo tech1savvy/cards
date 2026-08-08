@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/storage/block.md",
+                "file": "aws/storage/comparisons.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "block"
-            }
-          },
-          {
-            "id": "b784901123e5b67c",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
+              "title": "comparisons"
             }
           }
         ]
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/storage/object/s3.md",
+                "file": "aws/storage/comparisons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -161,20 +151,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/storage/block.md"
+                "file": "aws/storage/comparisons.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
-            }
-          },
-          {
-            "id": "0145052c1bc77975",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
             }
           },
           {
@@ -184,7 +164,7 @@
               "type": "agent-client-chat-view",
               "state": {},
               "icon": "bot-message-square",
-              "title": "replace = with * in this file"
+              "title": "New session"
             }
           },
           {
@@ -221,11 +201,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 491.14453125
+    "width": 498.25
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,14 +217,15 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "13c22ca2b721679c",
+  "active": "05258c02d2689b07",
   "lastOpenFiles": [
-    "aws/storage/file.md",
     "aws/storage/block.md",
-    "aws/storage/object/object.md",
+    "aws/storage/comparisons.md",
     "aws/storage/object/s3/storage-classes.md",
-    "aws/storage/object/s3/s3.md",
     "aws/storage/object/s3/buckets.md",
+    "aws/storage/object/s3/s3.md",
+    "aws/storage/file.md",
+    "aws/storage/object/object.md",
     "aws/storage/object/s3/features/encryption.md",
     "aws/storage/object/s3/features/cross-region-replication.md",
     "aws/storage/object/s3/features/lifecycle-management.md",
@@ -263,7 +244,6 @@
     "aws/storage/s3.md",
     "aws/storage/decisions.md",
     "opencode.json",
-    "aws/storage/comparisons.md",
     "aws/storage/models.md",
     "aws/storage/test.md",
     "aws/storage/test.md~",
