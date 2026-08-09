@@ -110,6 +110,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_018da1111ffeEnuun2KzMets9t",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "make them using *** cards",
+      "createdAt": "2026-08-09T15:31:50.134Z",
+      "updatedAt": "2026-08-09T15:36:02.014Z"
+    },
+    {
       "sessionId": "ses_01fcff4efffe8N8sLSbaLlH5Pn",
       "agentId": "opencode",
       "cwd": "/home/tech1savvy/cards",

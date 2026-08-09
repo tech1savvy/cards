@@ -1,12 +1,24 @@
 # File Storage
 
-- File Storage uses a ==hierarchical tree-like structure of folders and subfolders==. Files are retrieved via a path (e.g., `/home/user/photo.png`). Ideal for centralized access where multiple host computers need to share and manage the same set of files simultaneously. Best for large content repositories, development environments, and user home directories.
+- File Storage uses a ==hierarchical tree-like structure of folders and subfolders==.
 
-- How does File storage scale?::Scalable hierarchy. Can grow incrementally by adding files to the directory tree.
+- Files are retrieved via a ==path== (e.g., `/home/user/photo.png`).
 
-- How is File storage structured?::Hierarchical structure with folders and files organized in a directory tree.
+- Ideal for ==centralized access== where multiple host computers need to share and manage the same set of files simultaneously.
 
-- How does File storage handle updates?::Update file content directly. Modify specific files without affecting others.
+- Best for ==large content repositories, development environments, and user home directories==.
+
+How does File storage scale?
+***
+Scalable hierarchy. Can grow incrementally by adding files to the directory tree.
+
+How is File storage structured?
+***
+Hierarchical structure with folders and files organized in a directory tree.
+
+How does File storage handle updates?
+***
+Update file content directly. Modify specific files without affecting others.
 
 # Amazon EFS
 

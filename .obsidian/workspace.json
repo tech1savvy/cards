@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/storage/comparisons.md",
+                "file": "aws/storage/object/s3/buckets.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "comparisons"
+              "title": "buckets"
             }
           }
         ]
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/storage/comparisons.md"
+                "file": "aws/storage/object/s3/buckets.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -164,7 +164,7 @@
               "type": "agent-client-chat-view",
               "state": {},
               "icon": "bot-message-square",
-              "title": "New session"
+              "title": "make them using *** cards"
             }
           },
           {
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,12 +219,12 @@
   },
   "active": "05258c02d2689b07",
   "lastOpenFiles": [
-    "aws/storage/block.md",
+    "aws/storage/file.md",
     "aws/storage/comparisons.md",
     "aws/storage/object/s3/storage-classes.md",
+    "aws/storage/block.md",
     "aws/storage/object/s3/buckets.md",
     "aws/storage/object/s3/s3.md",
-    "aws/storage/file.md",
     "aws/storage/object/object.md",
     "aws/storage/object/s3/features/encryption.md",
     "aws/storage/object/s3/features/cross-region-replication.md",
