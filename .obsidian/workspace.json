@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b302165f5bbf7d1c",
+        "id": "012dffa6970d3667",
         "type": "tabs",
         "children": [
           {
-            "id": "05258c02d2689b07",
+            "id": "4be7ec3afd894ec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/storage/object/s3/buckets.md",
+                "file": "aws/compute/ec2/instance-families.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "buckets"
+              "title": "instance-families"
             }
           }
         ]
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "aws/storage/object/s3/buckets.md"
+                "file": "aws/compute/ec2/instance-families.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -164,7 +164,7 @@
               "type": "agent-client-chat-view",
               "state": {},
               "icon": "bot-message-square",
-              "title": "make them using *** cards"
+              "title": "use multiple heading levels to increase the rea..."
             }
           },
           {
@@ -214,46 +214,48 @@
       "command-palette:Open command palette": false,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "agent-client:Open agent client": false
+      "agent-client:Open agent client": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "bases:Create new base": false
     }
   },
-  "active": "05258c02d2689b07",
+  "active": "4be7ec3afd894ec3",
   "lastOpenFiles": [
-    "aws/storage/file.md",
-    "aws/storage/comparisons.md",
-    "aws/storage/object/s3/storage-classes.md",
-    "aws/storage/block.md",
-    "aws/storage/object/s3/buckets.md",
-    "aws/storage/object/s3/s3.md",
-    "aws/storage/object/object.md",
-    "aws/storage/object/s3/features/encryption.md",
-    "aws/storage/object/s3/features/cross-region-replication.md",
-    "aws/storage/object/s3/features/lifecycle-management.md",
-    "aws/storage/object/s3/features/versioning.md",
-    "networking/networking.md",
-    "networking/protocols/ssl-tls.md",
+    "aws/networking/systems-manager/eks-orchestrator.md",
+    "aws/compute/containers/eks.md",
+    "aws/compute/containers/ecs.md",
+    "devops/aws/eks/eks.md",
+    "devops/aws/eks/eksctl.md",
+    "devops/aws/eks/features.md",
+    "devops/aws/services-cheatsheet.md",
+    "devops/containerisation/port-mapping.md",
+    "aws/compute/containers/fargate.md",
+    "aws/compute/containers/containers.md",
+    "aws/compute/ec2/instance-families.md",
+    "aws/compute/containers/what-are-containers.md",
+    "aws/compute/containers/task-definition.md",
+    "aws/compute/containers/fargate-workflow.md",
+    "aws/compute/containers/fargate-definition.md",
+    "aws/compute/containers/eks-fargate.md",
+    "aws/compute/containers/ecs-task.md",
+    "aws/compute/containers/ecs-fargate.md",
+    "aws/compute/containers/ecs-ec2.md",
+    "aws/compute/containers/ecs-definition.md",
+    "aws/compute/containers/ec2-vs-fargate.md",
+    "aws/compute/containers/containers-vs-vms.md",
+    "aws/compute/containers/containers-definition.md",
+    "aws/compute/containers/choosing-containers.md",
+    "aws/compute/lambda/aws-lambda.md",
+    "aws/compute/ec2/serverless.md",
+    "cards.base",
     "networking/protocols",
     "AGENTS.md~",
     "aws/storage/object/s3/features",
     "aws/storage/object/s3",
-    "AGENTS.md",
-    "db/sql/sql-select.md",
-    "ansible/inventory/groups/all.md",
-    "db/mongodb/uri-format.md",
     "aws/storage/object",
-    "aws/storage/s3.md",
-    "aws/storage/decisions.md",
     "opencode.json",
-    "aws/storage/models.md",
-    "aws/storage/test.md",
     "aws/storage/test.md~",
     "aws/storage/comparisons.md~",
-    "aws/storage/storage-models.md",
-    "aws/storage/object/s3/lifecycle/s3-lifecycle-expiration.md",
-    "aws/storage/object/s3/fundamentals/s3.md",
-    "aws/storage/object/object-storage.md",
-    "aws/storage/object/s3/storage-classes/s3-standard-ia.md",
-    "aws/data-lakes/data-lake.zip",
-    "aws/data-lakes/ass.zip"
+    "aws/data-lakes/data-lake.zip"
   ]
 }

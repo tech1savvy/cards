@@ -1,12 +1,13 @@
 ---
-noteId: 1778392168272
+level: 1
 ---
 
-# What is Amazon EKS?
+# Amazon EKS
 
----
+Amazon EKS is a ==managed service to run Kubernetes on AWS==.
 
-**Amazon Elastic Kubernetes Service (EKS)** is a managed service to run Kubernetes on AWS.
+- **Pod:** The ==smallest deployable unit in Kubernetes== (equivalent to an ECS task).
 
-- **Pod:** The smallest deployable unit in Kubernetes (equivalent to an ECS task)
-- EKS can also run on Fargate for serverless Kubernetes compute
+What is EKS with Fargate?
+***
+EKS can run pods on Fargate, combining ==Kubernetes orchestration with serverless compute==. Use standard Kubernetes tooling without managing node groups or cluster capacity.

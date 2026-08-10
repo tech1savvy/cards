@@ -110,6 +110,46 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_0159bf3cfffev7L5NKQdL9FYyt",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "use multiple heading levels to increase the rea...",
+      "createdAt": "2026-08-10T06:38:33.024Z",
+      "updatedAt": "2026-08-10T08:55:04.037Z"
+    },
+    {
+      "sessionId": "ses_0159e11a5ffegcSgAkjbH9cWLk",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "make the table uniform",
+      "createdAt": "2026-08-10T06:35:52.069Z",
+      "updatedAt": "2026-08-10T06:37:03.923Z"
+    },
+    {
+      "sessionId": "ses_015a2bc5cffeI4tQWpnuiU9lj9",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "fix the table spacing, remove :- , and use only...",
+      "createdAt": "2026-08-10T06:31:14.306Z",
+      "updatedAt": "2026-08-10T06:35:14.375Z"
+    },
+    {
+      "sessionId": "ses_016009be1ffeWXLwMUrNR0Efru",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "make the spacing consistent",
+      "createdAt": "2026-08-10T04:48:51.995Z",
+      "updatedAt": "2026-08-10T06:30:05.258Z"
+    },
+    {
+      "sessionId": "ses_016692e4cffeV0Ic9Vzu1d2tdB",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "@aws what are the types of databases provided b...",
+      "createdAt": "2026-08-10T03:29:13.251Z",
+      "updatedAt": "2026-08-10T04:45:31.882Z"
+    },
+    {
       "sessionId": "ses_018da1111ffeEnuun2KzMets9t",
       "agentId": "opencode",
       "cwd": "/home/tech1savvy/cards",
@@ -302,7 +342,7 @@
   },
   "lastUsedConfigOptions": {
     "opencode": {
-      "effort": "high"
+      "effort": "medium"
     }
   },
   "enableFloatingChat": false,

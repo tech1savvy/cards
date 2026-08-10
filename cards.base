@@ -1,0 +1,28 @@
+filters: "!level.isEmpty()"
+formulas:
+  deck: file.folder.split("/")[0]
+views:
+  - type: table
+    name: Level 0
+    filters: level == 0
+    groupBy:
+      property: formula.deck
+      direction: ASC
+    order:
+      - file.name
+  - type: table
+    name: Level 1
+    filters: level == 1
+    groupBy:
+      property: formula.deck
+      direction: ASC
+    order:
+      - file.name
+  - type: table
+    name: Level 2
+    filters: level == 2
+    groupBy:
+      property: formula.deck
+      direction: ASC
+    order:
+      - file.name
