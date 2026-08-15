@@ -110,6 +110,30 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_ffa4eeabdffev61Uy6THJUZgqz",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "use context7, what comman function of fmt i am ...",
+      "createdAt": "2026-08-15T13:58:37.977Z",
+      "updatedAt": "2026-08-15T13:58:37.982Z"
+    },
+    {
+      "sessionId": "ses_ffa5e3afeffe1xhWazkdSq2rMw",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "do groping of cards in go/ dir, do many folders...",
+      "createdAt": "2026-08-15T13:37:18.027Z",
+      "updatedAt": "2026-08-15T13:37:18.027Z"
+    },
+    {
+      "sessionId": "ses_ffa639ae9ffe2R3F6PenLODkiE",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "@explore cards covered in @go/ folder, and fix ...",
+      "createdAt": "2026-08-15T13:31:28.513Z",
+      "updatedAt": "2026-08-15T13:34:41.983Z"
+    },
+    {
       "sessionId": "ses_0159bf3cfffev7L5NKQdL9FYyt",
       "agentId": "opencode",
       "cwd": "/home/tech1savvy/cards",
@@ -335,7 +359,7 @@
     }
   ],
   "lastUsedModels": {
-    "opencode": "opencode-go/deepseek-v4-pro"
+    "opencode": "opencode-go/kimi-k3"
   },
   "lastUsedModes": {
     "opencode": "build"

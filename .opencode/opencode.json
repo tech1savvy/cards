@@ -3,7 +3,8 @@
   "permission": {
     "bash": {
       "pwd": "allow",
-      "ls *": "allow"
+      "ls *": "allow",
+      "find *": "allow",
     }
   }
 }
