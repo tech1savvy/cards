@@ -1,5 +1,6 @@
 # Why Go
 
+```cards
 Why choose Go for your next project?
 
 ***
@@ -11,6 +12,7 @@ Go offers:
 - **Fast compilation**
 - **Statically typed** for safety
 - **Garbage collected** for automatic memory management
+```
 
 # Fast and compiled
 

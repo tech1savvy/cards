@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/packages/fmt.md",
+                "file": "go/why-go.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fmt"
+              "title": "why-go"
             }
           }
         ]
@@ -221,18 +221,18 @@
   },
   "active": "33caf34b4efee115",
   "lastOpenFiles": [
+    "go/variables-and-constants.md",
+    "go/types.md",
+    "go/speed-comparison.png",
+    "go/program-structure.md",
+    "go/interfaces.md",
+    "go/functions.md",
+    "go/errors.md",
+    "go/control-flow.md",
     "go/casting-hell.md",
     "go/packages/fmt.md",
-    "go/control-flow.md",
-    "go/errors.md",
-    "go/functions.md",
-    "go/interfaces.md",
     "go/packages-and-io.md",
-    "go/program-structure.md",
-    "go/speed-comparison.png",
     "go/testing.md",
-    "go/types.md",
-    "go/variables-and-constants.md",
     "go/why-go.md",
     "go/packages",
     "aws/compute/ec2/instance-families.md",
