@@ -110,6 +110,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_fa905364bffeabPkyHxPeum4EQ",
+      "agentId": "opencode",
+      "cwd": "/home/tech1savvy/cards",
+      "title": "create all level of headings in it",
+      "createdAt": "2026-08-31T08:42:56.106Z",
+      "updatedAt": "2026-08-31T08:42:56.116Z"
+    },
+    {
       "sessionId": "ses_ffa4eeabdffev61Uy6THJUZgqz",
       "agentId": "opencode",
       "cwd": "/home/tech1savvy/cards",
@@ -359,7 +367,7 @@
     }
   ],
   "lastUsedModels": {
-    "opencode": "opencode-go/kimi-k3"
+    "opencode": "opencode/big-pickle"
   },
   "lastUsedModes": {
     "opencode": "build"

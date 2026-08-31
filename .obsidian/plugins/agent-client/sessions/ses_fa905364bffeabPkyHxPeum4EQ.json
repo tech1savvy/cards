@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "sessionId": "ses_fa905364bffeabPkyHxPeum4EQ",
+  "agentId": "opencode",
+  "cwd": "/home/tech1savvy/cards",
+  "title": "create all level of headings in it",
+  "createdAt": "2026-08-31T08:42:56.106Z",
+  "updatedAt": "2026-08-31T08:42:56.113Z",
+  "messages": [
+    {
+      "id": "e3fe9e41-7e04-4726-b325-e73535f1c57e",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "create all level of headings in it",
+          "autoMentionContext": {
+            "noteName": "test",
+            "notePath": "test.md"
+          }
+        }
+      ],
+      "timestamp": "2026-08-31T08:42:38.648Z"
+    },
+    {
+      "id": "6348e478-16ad-43d9-84f6-928e4319361c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "agent_thought",
+          "text": "The user wants to create all levels of headings in the test.md file. Let me first read the file to see its current content, then add all heading levels (H1 through H6)."
+        }
+      ],
+      "timestamp": "2026-08-31T08:42:43.338Z"
+    },
+    {
+      "id": "0ac8f35d-e070-4a4a-b305-6c63df1d46b0",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_e11f970a25c4494293bbc3c8",
+          "title": "test.md",
+          "status": "completed",
+          "kind": "read",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/tech1savvy/cards/test.md"
+            }
+          ],
+          "rawInput": {
+            "filePath": "/home/tech1savvy/cards/test.md"
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "The file currently has only a level 1 heading. The user wants all levels of headings. I'll add H2 through H6."
+        }
+      ],
+      "timestamp": "2026-08-31T08:42:43.885Z"
+    },
+    {
+      "id": "a94d0d30-fa69-429f-ae19-9762d25dc20d",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_bee35195d5eb48db9f43d8a5",
+          "title": "test.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [
+            {
+              "type": "diff",
+              "path": "/home/tech1savvy/cards/test.md",
+              "newText": "# heading 1\n\n## heading 2\n\n### heading 3\n\n#### heading 4\n\n##### heading 5\n\n###### heading 6",
+              "oldText": "# heading 1"
+            }
+          ],
+          "locations": [
+            {
+              "path": "/home/tech1savvy/cards/test.md"
+            }
+          ],
+          "rawInput": {
+            "filePath": "/home/tech1savvy/cards/test.md",
+            "oldString": "# heading 1",
+            "newString": "# heading 1\n\n## heading 2\n\n### heading 3\n\n#### heading 4\n\n##### heading 5\n\n###### heading 6"
+          },
+          "permissionRequest": {
+            "requestId": "bdf291f9-511a-48f0-9d5c-8f0b1a234a43",
+            "options": [
+              {
+                "optionId": "once",
+                "name": "Allow once",
+                "kind": "allow_once"
+              },
+              {
+                "optionId": "always",
+                "name": "Always allow",
+                "kind": "allow_always"
+              },
+              {
+                "optionId": "reject",
+                "name": "Reject",
+                "kind": "reject_once"
+              }
+            ],
+            "selectedOptionId": "once",
+            "isActive": false
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "Done. Added all heading levels (H1-H6) to the file."
+        },
+        {
+          "type": "text",
+          "text": "Added headings H2 through H6 below the existing H1."
+        }
+      ],
+      "timestamp": "2026-08-31T08:42:47.948Z"
+    }
+  ],
+  "savedAt": "2026-08-31T08:42:56.128Z"
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/why-go.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "why-go"
+              "title": "test"
             }
           }
         ]
@@ -221,6 +221,8 @@
   },
   "active": "33caf34b4efee115",
   "lastOpenFiles": [
+    "go/why-go.md",
+    "test.md",
     "go/variables-and-constants.md",
     "go/types.md",
     "go/speed-comparison.png",
@@ -233,7 +235,6 @@
     "go/packages/fmt.md",
     "go/packages-and-io.md",
     "go/testing.md",
-    "go/why-go.md",
     "go/packages",
     "aws/compute/ec2/instance-families.md",
     "aws/networking/systems-manager/eks-orchestrator.md",
